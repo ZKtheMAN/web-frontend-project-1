@@ -1,0 +1,25 @@
+<!-- Add videogame stuff here-->
+
+{% extends "base.html" %}
+
+{% block content %}
+<div class="column is-4 is-offset-4">
+<h1 class="title">
+  Welcome, {{ name }}!
+</h1>
+</div>
+<body>
+  <div class="game-card">
+    
+    <div class="text">
+      <h4><b>{{game.name}}</b></h4>
+      <!-- substitue database values here to fill template-->
+      <p class="marker">Platform: {{game.platform}}</p>
+        <p class="marker"> Release Year: {{game.release_year}}</p>
+      <p class="marker"> Genre: {{game.genre}}</p>
+      <p class="marker"> Publisher: {{game.publisher}} </p>
+      <p class="marker"> Rating: {{game.rating}}</p>
+    </div>
+  </div>
+</body>
+{% endblock %}
