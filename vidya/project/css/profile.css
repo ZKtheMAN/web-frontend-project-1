@@ -7,8 +7,10 @@ p {
     margin-bottom: 6px !important;
 }
 
-  
-.button{
-      align-items: center;
-
+ 
+is-vertical-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+

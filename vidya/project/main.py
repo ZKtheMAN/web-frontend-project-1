@@ -50,4 +50,4 @@ def profile():
     #GET https://api.rawg.io/api/platforms?key=apikey={confiig.api_key}
     #resp = requests.get(https://rawg.io/api/games?search=Warframe)
     
-    return render_template('profile.html', name=current_user.name, game=game)
+    return render_template('main.html', name=current_user.name, game=game)
