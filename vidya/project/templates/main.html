@@ -7,7 +7,7 @@
 </body>
 <!--"is-multiline is-mobile"-->
 <h1> Game lookup: {{ gLookup }} </h1>
-<h1> Game platform: {{ gPlat }} </h1>
+
 <div class="columns is-centered">
 
 
@@ -36,23 +36,27 @@
     <div class="card-image is-bordered has-shadow">
       <figure class="image">
         <!--Need to return game image-->
-        <img src="https://bulma.io/images/placeholders/256x256.png" alt="Placeholder image">
+        <img src="{{ game[3] }}" alt="Placeholder image">
       </figure>
     </div>
   </div>
   
     <div class="card-content">
-      <p class="title is-6 is-bold has-text-dark"> {{ game }}</p>
+      <p class="title is-6 is-bold has-text-dark"> {{ game[0] }}</p>
       <div class="content is-7"><br>
-    
-    </div>
+        Release Date: {{ game[1] }}<br>
+        Publisher: {{ game[2] }}<br>
+        Genre: {{ game[4] }}<br>
+      </div>
   </div>
 
-    <div class="content">Description</div>
+    <div class="content">Description
+      <p></p>
+    </div>
   </div>
   <br>
   <div>
-    <button class="button watch" onclick="window.open('https://store.steampowered.com/search/?term={{game.name}}', '_blank')"target='0'>
+    <button class="button watch" onclick="window.open('https://store.steampowered.com/search/?term={{game[0]}}', '_blank')"target='0'>
       Buy it now!
       <i class="fa fa-steam"></i>
     </button>
