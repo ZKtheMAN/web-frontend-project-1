@@ -15,11 +15,10 @@ main = Blueprint('main', __name__)
 def index():
     return render_template('index.html')
 
-@main.route('/profile')
+@main.route('/home')
 @login_required
-def profile():
-               # randomly select a movie
-    
+def home():
+       
     with open('video_game.csv') as f:
         reader = csv.reader(f)
         row = random.choice(list(reader))
@@ -51,3 +50,8 @@ def profile():
     #resp = requests.get(https://rawg.io/api/games?search=Warframe)
     
     return render_template('main.html', name=current_user.name, game=game)
+
+@main.route('/profile')
+@login_required
+def profile():
+    return render_template('profile.html', name=current_user.name)
