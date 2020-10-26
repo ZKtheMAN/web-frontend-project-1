@@ -4,6 +4,10 @@ from flask import Blueprint, render_template, Flask
 from flask_login import login_required, current_user
 import csv
 import random
+import requests
+import rawgpy
+import json
+
 
 main = Blueprint('main', __name__)
 
@@ -15,6 +19,7 @@ def index():
 @login_required
 def profile():
                # randomly select a movie
+    
     with open('video_game.csv') as f:
         reader = csv.reader(f)
         row = random.choice(list(reader))
@@ -40,4 +45,9 @@ def profile():
 
 
     }
+
+
+    #GET https://api.rawg.io/api/platforms?key=apikey={confiig.api_key}
+    #resp = requests.get(https://rawg.io/api/games?search=Warframe)
+    
     return render_template('profile.html', name=current_user.name, game=game)

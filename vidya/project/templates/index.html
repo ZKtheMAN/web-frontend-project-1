@@ -1,7 +1,21 @@
 {% extends "base.html" %}
-
 {% block content %}
-<h1 class="title">  Project Title</h1>
-<h2 class="subtitle">Tinder for videogames</h2>
+
+<section class="hero-head has-background-dark">
+<!--<section class="content has-background-info">-->
+    <header>
+        <div class="title has-text-white is-1">  Project Title Index</div>
+        <h2 class="subtitle has-text-white">Tinder for videogames</h2>
+    </header>
+</section>
+
+<section class="content has-background-dark">
+<!--<section class="content has-background-light">-->
+
+           <p> <a href="{{ url_for('auth.login') }}" class="button is-medium is-rounded">Login</a></p>
+            
+            <a href="{{ url_for('auth.signup') }}" class="button is-medium is-rounded">Sign Up</a>
+   
+</section>
 
 {% endblock %}

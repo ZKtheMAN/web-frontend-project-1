@@ -5,42 +5,52 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Project Title</title>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <script src="https://use.fontawesome.com/3fa36ae73c.js"></script>
+
 </head>
 
 <body>
-    <section class="hero is-dark is-fullheight">
-
-        <div class="hero-head">
-            <nav class="navbar">
-                <div class="container">
-
+    <div class="column has-text-white has-background-dark">
+    <!--<div class="column has-background-warning">-->
+            <nav class="navbar has-background-dark has-text-white" role="navigation" aria-label="main navigation">
+            <!--<nav class="navbar has-background-danger">-->
+                {% if current_user.is_authenticated %}
+                    <div class="navbar-brand"><a class="navbar-item is-disabled">Project Title</a></div>
+                {% endif %}
                     <div id="navbarMenuHeroA" class="navbar-menu">
-                        <div class="navbar-start">
-                            <a href="{{ url_for('main.index') }}" class="navbar-item">Home</a>
-                            {% if current_user.is_authenticated %}
-                            <a href="{{ url_for('main.profile') }}" class="navbar-item">Profile</a>
-                            {% endif %}
-                            {% if not current_user.is_authenticated %}
+                    <div class="navbar-start">
+                {% if current_user.is_authenticated %}
+                    <a href="{{ url_for('main.profile') }}" class="navbar-item has-text-white">Profile</a>
+                {% endif %}
+                            <!--{% if not current_user.is_authenticated %}
                             <a href="{{ url_for('auth.login') }}" class="navbar-item">Login</a>
                             <a href="{{ url_for('auth.signup') }}" class="navbar-item">Sign Up</a>
-                            {% endif %}
-                            {% if current_user.is_authenticated %}
-                            <a href="{{ url_for('auth.logout') }}" class="navbar-item">Logout</a>
-                            {% endif %}
+                            {% endif %}-->
+                {% if current_user.is_authenticated %}
+                    <a href="{{ url_for('auth.logout') }}" class="navbar-item has-text-white">Logout</a>
+                {% endif %}
                         </div>
-                    </div>
-                </div>
+                    </div>    
             </nav>
-        </div>
+    </div>
 
-        <div class="hero-body">
-            <div class="container has-text-centered">
+        <section class="hero is-fullheight is-small">
+            <div class="hero-body has-background-dark">
+        <!--<div class="hero-body has-background-grey-lighter">-->
+            <div class="container has-text-centered has-text-white">
                 {% block content %}
                 {% endblock %}
             </div>
         </div>
     </section>
+
+        
 </body>
 
 </html>

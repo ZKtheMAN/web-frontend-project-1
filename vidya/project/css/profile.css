@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    color: rgb(140,140,140);
+    margin-bottom: 6px !important;
+}
+
+  
+.button{
+      align-items: center;
+
+}
