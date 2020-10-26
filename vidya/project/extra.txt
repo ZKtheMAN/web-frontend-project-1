@@ -1,0 +1,17 @@
+    g_name={'name':"data['result']['title']"};
+    g_date={'date':"data['result']['releaseDate']"};
+    g_desc={'desc':"data['result']['description']"};
+    g_genre={'genre':"data['result']['genre'][0]"};
+    g_img={'img':"data['result']['image']"};
+    g_dev={'dev':"data['result']['developer']"};
+    g_rate:{'rate':"data['result']['rating']"};
+
+    game = {
+        'name': g_name[1],
+        'release_year': g_date[1],
+        'desc': g_desc[1],
+        'genre':g_genre[1],
+        'image': g_img[1],
+        'developer': g_dev[1],
+        'rating': g_rate[1]
+    }

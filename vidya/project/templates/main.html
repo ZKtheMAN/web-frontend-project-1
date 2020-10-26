@@ -6,7 +6,8 @@
 
 </body>
 <!--"is-multiline is-mobile"-->
-
+<h1> Game lookup: {{ gLookup }} </h1>
+<h1> Game platform: {{ gPlat }} </h1>
 <div class="columns is-centered">
 
 
@@ -41,12 +42,9 @@
   </div>
   
     <div class="card-content">
-      <p class="title is-6 is-bold has-text-dark"> {{game.name}}</p>
-      <div class="content is-7"> {{game.platform}}<br>
-      Release Year: {{game.release_year}}<br>
-      Genre: {{game.genre}}<br>
-      Publisher: {{game.publisher}}<br>
-      Rating: {{game.rating}}<br>
+      <p class="title is-6 is-bold has-text-dark"> {{ game }}</p>
+      <div class="content is-7"><br>
+    
     </div>
   </div>
 

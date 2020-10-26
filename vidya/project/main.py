@@ -1,13 +1,15 @@
 # main.py
 
-from flask import Blueprint, render_template, Flask
-from flask_login import login_required, current_user
 import csv
+import json
 import random
 import requests
-import rawgpy
-import json
-
+import urllib
+from urllib.parse import urlparse
+from urllib.parse import urljoin
+from requests.utils import requote_uri
+from flask import Blueprint, render_template, Flask
+from flask_login import login_required, current_user
 
 main = Blueprint('main', __name__)
 
@@ -22,34 +24,39 @@ def home():
     with open('video_game.csv') as f:
         reader = csv.reader(f)
         row = random.choice(list(reader))
+    game_lookup = row[1]
+    game_plat = row[2].lower()
+    
+    old_url = "https://chicken-coop.p.rapidapi.com/games/"+ game_lookup
+    new_url=requote_uri(old_url)
+    url =  new_url
+    plat = game_plat
+    querystring = {"platform": plat}
 
-    game = {
-        'id': row[0],
-        'name': row[1],
-        'platform': row[2],
-        'release_year': row[3],
-        'genre': row[4],
-        'publisher': row[5],
-        'na_players': row[6],
-        'eu_players': row[7],
-        'jp_players': row[8],
-        'other_players': row[9],
-        'global_players': row[10],
-        'critic_score': row[11],
-        'critic_count': row[12],
-        'user_score': row[13],
-        'user_count': row[14],
-        'developer': row[15],
-        'rating': row[16],
-
-
+    headers = {
+    'x-rapidapi-host': "chicken-coop.p.rapidapi.com",
+    'x-rapidapi-key': "b590a8cafamshdc9be6b93bde56bp18a072jsn109b333e1243"
     }
 
+    response = requests.request("GET", url, headers=headers, params=querystring)
+    data = json.loads(response.text)
+    d_dump = json.dumps(data)
+
+    g_name = data['result'][5]
+    g_date = data['result'][1]
+    g_desc = data['result'][2]
+    g_genre = data['result'][3][0]
+    g_img = data['result'][4]
+    g_dev = data['result'][6]
+    g_rate = data['result'][8]
+
+ 
+  
 
     #GET https://api.rawg.io/api/platforms?key=apikey={confiig.api_key}
     #resp = requests.get(https://rawg.io/api/games?search=Warframe)
     
-    return render_template('main.html', name=current_user.name, game=game)
+    return render_template('main.html', name=current_user.name, game=g_name, gLookup=game_lookup, gPlat=game_plat)
 
 @main.route('/profile')
 @login_required
