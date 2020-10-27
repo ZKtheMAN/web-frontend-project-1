@@ -32,13 +32,19 @@ def home():
     game_data = gb.get_game(results[0])
     game.append(game_data.name)
     game.append(game_data.original_release_date)
-    game.append(game_data.publishers[0]['name'])
+    if game_data.publishers is not None:
+        game.append(game_data.publishers[0]['name'])
+    else:
+        game.append("")
     game.append(game_data.image.medium_url)
     
-    if not game_data.genres[0].name:
-        game.append("")
+    if game_data.genres is not None:
+        if not game_data.genres[0].name:
+            game.append("")
+        else:
+            game.append(game_data.genres[0].name)
     else:
-        game.append(game_data.genres[0].name)
+        game.append("")
     
     return render_template('main.html', name=current_user.name, game=game, gLookup=game_lookup)
 
