@@ -1,7 +1,5 @@
 <!-- Add videogame stuff here-->
-<link rel="stylesheet" href="/css/profile.css">
 {% extends "base.html" %}
-
 {% block content %}
 
 </body>
@@ -28,20 +26,20 @@
 
 
   <div class="level-center">
-<div class="column has-background-dark">
+<div class="column has-background-dark is-static">
 <div class="box is-bordered has-shadow">
 
-  <div class="card is-half-desktop is-small">
+<h3> {{ game[0] }}</h3>
+  <div class="card is-small">
     <div class="card-image is-bordered has-shadow">
       <figure class="image is-half-desktop">
         <!--Need to return game image-->
-        <img src="{{ game[3] }}" alt="Placeholder image">
+        <img src="{{ game[3] }}" alt="Image Not Found">
       </figure>
     </div>
   </div>
-  
     <div class="card-content">
-      <p class="title is-6 is-bold has-text-dark"> {{ game[0] }}</p>
+      
       <div class="content is-7"><br>
         Release Date: {{ game[1] }}<br>
         Publisher: {{ game[2] }}<br>
@@ -50,10 +48,11 @@
   </div>
 
     <div class="content">Description
-      <p></p>
+      
+      <p> {{ game[5] }} .. </p>
     </div>
   </div>
-  <br>
+  
   <div>
     <button class="button watch" onclick="window.open('https://store.steampowered.com/search/?term={{game[0]}}', '_blank')"target='0'>
       Buy it now!

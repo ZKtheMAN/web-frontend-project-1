@@ -2,12 +2,13 @@
 # uses https://pypi.org/project/giantbomb-redux/ to return game info
 import config
 import csv
-from giantbomb import giantbomb
 import random
 import requests
 import urllib
+from bs4 import BeautifulSoup
 from flask import Blueprint, render_template, Flask
 from flask_login import login_required, current_user
+from giantbomb import giantbomb
 
 main = Blueprint('main', __name__)
 
@@ -26,21 +27,51 @@ def home():
         row = random.choice(list(reader))
     
     game_lookup = row[1]
-    game = []
+    
     # returns a list object
     results = gb.search(game_lookup)
     game_data = gb.get_game(results[0])
-    game.append(game_data.name)
-    game.append(game_data.original_release_date)
-    game.append(game_data.publishers[0]['name'])
-    game.append(game_data.image.medium_url)
+
+
     
-    if not game_data.genres[0].name:
-        game.append("")
+
+    if game_data.original_release_date is None:
+        release = "N/A"
     else:
-        game.append(game_data.genres[0].name)
+        release = game_data.original_release_date
     
-    return render_template('main.html', name=current_user.name, game=game, gLookup=game_lookup)
+    if game_data.publishers is None:
+        pub = "N/A"
+    else:
+        pub = game_data.publishers[0]['name']
+
+    if game_data.genres is None:
+        genre = "N/A"
+    else:
+        genre = game_data.genres[0].name
+
+    if game_data.description is None:
+        trunc_soup = "N/A"
+    else:
+        htmltxt = game_data.description
+    
+        # BeatufiulSoup returns clean text 
+        soup = BeautifulSoup(htmltxt, 'lxml').text
+    
+        # Remove first 8 characters of Description ==> Overview
+        c_soup = soup[8:]
+
+        #Truncate the length of descritption
+        trunc_soup = (c_soup[:250]) if len(soup) > 1000 else c_soup
+    
+    
+    game = [game_data.name, release, pub,
+            game_data.image.medium_url, genre, trunc_soup]
+    
+
+
+    
+    return render_template('main.html', name=current_user.name, game=game)
 
 @main.route('/profile')
 @login_required
