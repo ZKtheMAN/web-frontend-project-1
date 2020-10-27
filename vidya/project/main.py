@@ -20,7 +20,7 @@ def index():
 @login_required
 def home():
     # Needs giantbomb api key
-    gb = giantbomb.Api(config.api_key,'API test')
+    gb = giantbomb.Api(config.api_key ,'API test')
 
     with open('video_game.csv') as f:
         reader = csv.reader(f)
