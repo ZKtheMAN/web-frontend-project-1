@@ -20,7 +20,7 @@ def index():
 @login_required
 def home():
     # Needs giantbomb api key
-    gb = giantbomb.Api(config.api_key ,'API test')
+    gb = giantbomb.Api(config.api_key,'API test')
 
     with open('video_game.csv') as f:
         reader = csv.reader(f)
@@ -93,3 +93,31 @@ def home():
 @login_required
 def profile():
     return render_template('profile.html', name=current_user.name)
+
+from .models import UserLikes
+
+@main.route("/likes")
+@login_required
+def likes():
+    results = UserLikes.query.filter_by(userId=current_user.id)
+    ids = list(map(lambda x: x.gameId, results))
+    names = []
+
+    with open("video_game.csv") as f:
+        reader = csv.reader(f)
+        for gameid in ids:
+            while True: #this feels dirty but it should work
+                try:
+                    row = reader.__next__()
+                    if int(row[0]) == gameid:
+                        names.append(row[1])
+                        break
+                    else:
+                        continue
+                except StopIteration: #ran out of rows to read
+                    break
+                except ValueError: #"id" isn't a valid id
+                    continue
+
+
+    return render_template('likes.html', titles=names)

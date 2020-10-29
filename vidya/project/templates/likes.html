@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1 class="title is-1" style="color: white;">Your likes</h1>
+<p>Here's a list of games you've said you like:</p>
+
+<ul>
+    {% for title in titles %}
+    <li>{{ title }}</li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
