@@ -3,12 +3,17 @@
 import config
 import csv
 import random
+from random import seed, randint
 import requests
 import urllib
+from . import db
 from bs4 import BeautifulSoup
-from flask import Blueprint, render_template, Flask
+from flask import Blueprint, render_template, Flask, url_for, redirect, request, flash
 from flask_login import login_required, current_user
 from giantbomb import giantbomb
+
+def function(g):
+    return "HELLO"
 
 main = Blueprint('main', __name__)
 
@@ -16,7 +21,8 @@ main = Blueprint('main', __name__)
 def index():
     return render_template('index.html')
 
-@main.route('/home')
+
+@main.route('/home', methods = ["GET", "POST"])
 @login_required
 def home():
     # Needs giantbomb api key
@@ -30,10 +36,16 @@ def home():
     
     # returns a list object
     results = gb.search(game_lookup)
+    
     game_data = gb.get_game(results[0])
 
-    
+    #if game_data is None:
+        
 
+    if game_data.id is None:
+        gid = "N/A"
+    else: 
+        gid = game_data.id
     if game_data.original_release_date is None:
         release = "N/A"
     else:
@@ -65,28 +77,22 @@ def home():
     
     
     game = [game_data.name, release, pub,
-            game_data.image.medium_url, genre, trunc_soup]
-    
+            game_data.image.medium_url, genre, trunc_soup, gid]
+  
+    if request.method == "POST":
+        
+        uId=current_user.id
+        dict_ret= request.form.to_dict()
+        # val used to hold game id
+        key,val = next(iter(dict_ret.items()))
+        gId=int(val)
+
+        uLikes= UserLikes(userId=uId, gameId=gId)
+        db.session.add(uLikes)
+        db.session.commit()
+        redirect(url_for('main.home'))
 
 
-
-    game.append(game_data.name)
-    game.append(game_data.original_release_date)
-    if game_data.publishers is not None:
-        game.append(game_data.publishers[0]['name'])
-    else:
-        game.append("")
-    game.append(game_data.image.medium_url)
-    
-    if game_data.genres is not None:
-        if not game_data.genres[0].name:
-            game.append("")
-        else:
-            game.append(game_data.genres[0].name)
-    else:
-        game.append("")
-
-    
     return render_template('main.html', name=current_user.name, game=game)
 
 @main.route('/profile')

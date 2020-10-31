@@ -4,82 +4,82 @@
 
 </body>
 <!--"is-multiline is-mobile"-->
-<div class="columns is-centered">  
+
+<div class="columns is-centered">
   <nav class="level">
-  <div class="level-left">
-  
-  <div class="column has-text-right has-background-dark is-mobile">
-    <figure class="media-left ">
-    
-      <a href="{{ url_for('main.home') }}">
-        <button class="button downvote is-danger is-inverted ">
-          <i class="fa fa-thumbs-down fa-2x"></i>
-        </button>
-      </a>
-    </figure>
-  </div>
-</div>
+    <div class="level-left">
 
-
-
-  <div class="level-center">
-<div class="column has-background-dark is-static">
-<div class="box is-bordered has-shadow">
-
-<h3> {{ game[0] }}</h3>
-  <div class="card is-small">
-    <div class="card-image is-bordered has-shadow">
-      <!--Set Max image size-->
-      <figure class="image is-half-desktop is-256x256">
-        <!--Need to return game image-->
-        <img src="{{ game[3] }}" alt="Image Not Found" style="max-height: 75vh; width: auto;">
-      </figure>
-    </div>
-  </div>
-    <div class="card-content">
-      
-      <div class="content is-7"><br>
-        Release Date: {{ game[1] }}<br>
-        Publisher: {{ game[2] }}<br>
-        Genre: {{ game[4] }}<br>
+      <div class="column has-text-right has-background-dark is-mobile">
+        <figure class="media-left ">
+          <a href="{{ url_for('main.home') }}">
+            <button class="button downvote is-danger is-inverted ">
+              <i class="fa fa-thumbs-down fa-2x"></i>
+            </button>
+          </a>
+        </figure>
       </div>
-  </div>
-
-    <div class="content">Description
-
-      <p>{{ game[5] }}</p>
-
     </div>
-  </div>
-  
-  <div>
-    <button class="button watch" onclick="window.open('https://store.steampowered.com/search/?term={{game[0]}}', '_blank')"target='0'>
-      Buy it now!
-      <i class="fa fa-steam"></i>
-    </button>
-  </div>
-  
-</div>
+
+
+
+    <div class="level-center">
+      <div class="column has-background-dark is-static">
+        <div class="box is-bordered has-shadow">
+
+          <h3> {{ game[0] }}</h3>
+          <h2> Game ID: {{game[6] }}</h2>
+          <div class="card">
+            <div class="card-image is-square has-shadow">
+              <!--Set Max image size-->
+              <figure class="image" style="max-height: 75vh; width: auto;">
+                <!--Need to return game image-->
+                <img src="{{ game[3] }}" alt="Image Not Found" style="max-height: 75vh; width: auto;">
+              </figure>
+            </div>
+          </div>
+          <div class="card-content">
+
+            <div class="content is-7"><br>
+              Release Date: {{ game[1] }}<br>
+              Publisher: {{ game[2] }}<br>
+              Genre: {{ game[4] }}<br>
+              {{ mess }}
+            </div>
+          </div>
+
+          <div class="content">Description
+
+            <p>{{ game[5] }}</p>
+
+          </div>
+        </div>
+
+        <div>
+          <button class="button watch"
+            onclick="window.open('https://store.steampowered.com/search/?term={{game[0]}}', '_blank')" target='0'>
+            Buy it now!
+            <i class="fa fa-steam"></i>
+          </button>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="level-right">
+      <div class="column has-background-dark is-mobile">
+        <figure class="media-right">
+          
+          <form action="" method="POST">
+            <button name="upvote" class="button is-success is-inverted" value={{game[6]}}>
+              <i class="fa fa-thumbs-up fa-2x"></i>
+            </a>
+            </button>
+         
+          </form>
+        </figure>
+      </div>
+    </div>
+  </nav>
 </div>
 
-<div class="level-right">
-  <div class="column has-background-dark is-mobile">
-    <figure class="media-right">
- 
-      <a href="{{ url_for('main.home') }}">  
-        <button class="button upvote is-success is-inverted">
-          <i class="fa fa-thumbs-up fa-2x"></i>
-        </button>
-      </a>
-    </figure>
-    
-  </div>
-</div> 
-</div>
-
-<div class="columns is-left">
-  <div class="column has-background-danger">1</div>
-  <div class="column is-one-third has-background-danger">2</div>
-  <div class="column is-one-third has-background-danger">3</div>
-</div>
 {% endblock %}
