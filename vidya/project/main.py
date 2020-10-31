@@ -106,24 +106,14 @@ from .models import UserLikes
 @login_required
 def likes():
     results = UserLikes.query.filter_by(userId=current_user.id)
-    ids = list(map(lambda x: x.gameId, results))
     names = []
+    gb = giantbomb.Api(config.api_key,'API test')
 
-    with open("video_game.csv") as f:
-        reader = csv.reader(f)
-        for gameid in ids:
-            while True: #this feels dirty but it should work
-                try:
-                    row = reader.__next__()
-                    if int(row[0]) == gameid:
-                        names.append(row[1])
-                        break
-                    else:
-                        continue
-                except StopIteration: #ran out of rows to read
-                    break
-                except ValueError: #"id" isn't a valid id
-                    continue
-
+    for result in results:
+        try:
+            game = gb.get_game(result.gameId)
+        except giantbomb.GiantBombError: #probably a residual ID from the CSV, just skip it
+            continue
+        names.append(game.name)
 
     return render_template('likes.html', titles=names)
