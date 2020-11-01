@@ -94,17 +94,23 @@ def profile():
     # get logged in user entries
     results = UserLikes.query.filter_by(userId=current_user.id)
     names = []
+    genres = []
     gb = giantbomb.Api(config.api_key,'API test')
     count = 0
     for result in results:
         try:
             game = gb.get_game(result.gameId)
+            gen = game.genres[0].name
             count +=1
         except giantbomb.GiantBombError: #probably a residual ID from the CSV, just skip it
             continue
         names.append(game.name)
+        
+        if gen not in genres:
+            if not gen is None:
+                genres.append(gen)
     # returns names to profile.html to populate info
-    return render_template('profile.html', name=current_user.name,titles=names,count=count)
+    return render_template('profile.html', name=current_user.name,titles=names,count=count, genre=genres)
 
 
 

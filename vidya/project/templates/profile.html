@@ -5,9 +5,7 @@
 <html>
 
 <body>
-
-
-    <div class="column is-9">
+    <div class="column has-background-dark">
         <section class="hero is-info welcome is-small">
             <div class="hero-body">
                 <div class="container">
@@ -17,22 +15,23 @@
                 </div>
             </div>
         </section>
-        <section class="info-tiles">
+        
             <div class="tile is-ancestor has-text-centered">
                 <div class="tile is-parent">
                     <article class="tile is-child box">
                         <p class="title">You've liked: {{ count }} games</p>
+                        
                     </article>
 
                 </div>
             </div>
-        </section>
+       
         <div class="columns">
             <div class="column">
                 <div class="card events-card">
                     <header class="card-header">
                         <p class="card-header-title">
-                            Games
+                            Your liked Games
                         </p>
 <!--Iterate through the names[] that was generated in def profile()-->
                     </header>
@@ -40,6 +39,24 @@
                         <div class="content">
                             {% for title in titles %}
                             {{ title }}<br>
+                            {% endfor %}
+                           
+                        </div>
+                    </div>
+                </div>
+            </div><div class="column">
+                <div class="card events-card">
+                    <header class="card-header">
+                        <p class="card-header-title">
+                            Your Top Genres
+                        </p>
+<!--Iterate through the names[] that was generated in def profile()-->
+                    </header>
+                    <div class="card-table">
+                        <div class="content">
+                           
+                            {% for g in genre %}
+                            {{ g }}<br>
                             {% endfor %}
                         </div>
                     </div>
