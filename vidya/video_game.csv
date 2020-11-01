@@ -1,702 +1,1648 @@
-id,Name,Platform,Year_of_Release,Genre,Publisher,NA_players,EU_players,JP_players,Other_players,Global_players,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating
-32,Call of Duty: Black Ops 3,PS4,2015,Shooter,Activision,6.03,5.86,0.36,2.38,14.63,NA,NA,,NA,,
-78,FIFA 16,PS4,2015,Sports,Electronic Arts,1.12,6.12,0.06,1.28,8.57,82,42,4.3,896,EA Sports,E
-88,Star Wars Battlefront,PS4,2015,Shooter,Electronic Arts,2.99,3.49,0.22,1.28,7.98,NA,NA,,NA,,
-95,FIFA 17,PS4,2016,Sports,Electronic Arts,0.66,5.75,0.08,1.11,7.59,85,41,5,398,"EA Sports, EA Vancouver",E
-100,Call of Duty: Black Ops 3,XOne,2015,Shooter,Activision,4.59,2.11,0.01,0.68,7.39,NA,NA,,NA,,
-106,Fallout 4,PS4,2015,Role-Playing,Bethesda Softworks,2.53,3.27,0.24,1.13,7.16,87,58,6.5,4228,Bethesda Game Studios,M
-172,Uncharted 4: A Thief's End,PS4,2016,Shooter,Sony Computer Entertainment,1.85,2.5,0.19,0.85,5.38,93,113,7.9,7064,Naughty Dog,T
-184,Madden NFL 2004,PS2,N/A,Sports,Electronic Arts,4.26,0.26,0.01,0.71,5.23,94,29,8.5,140,EA Tiburon,E
-243,Halo 5: Guardians,XOne,2015,Shooter,Microsoft Game Studios,2.78,1.27,0.03,0.41,4.48,84,101,6.4,2438,343 Industries,T
-271,Fallout 4,XOne,2015,Role-Playing,Bethesda Softworks,2.51,1.32,0.01,0.38,4.22,88,39,6.2,1749,Bethesda Game Studios,M
-290,Battlefield 1,PS4,2016,Shooter,Electronic Arts,1.1,2.15,0.21,0.61,4.08,88,31,8.4,809,EA DICE,M
-304,The Witcher 3: Wild Hunt,PS4,2015,Role-Playing,Namco Bandai Games,1.02,2.13,0.23,0.59,3.97,92,79,9.2,10179,CD Projekt Red Studio,M
-306,Batman: Arkham Knight,PS4,2015,Action,Warner Bros. Interactive Entertainment,1.53,1.69,0.1,0.64,3.95,87,89,7.6,2679,Rocksteady Studios,M
-315,NBA 2K16,PS4,2015,Sports,Take-Two Interactive,2.49,0.66,0.03,0.69,3.88,87,51,6.7,364,Visual Concepts,E10+
-326,Tom Clancy's The Division,PS4,2016,Shooter,Ubisoft,1.35,1.7,0.15,0.6,3.8,80,64,7,2219,Massive Entertainment,M
-343,Star Wars Battlefront,XOne,2015,Shooter,Electronic Arts,2.04,1.28,0.02,0.32,3.66,NA,NA,,NA,,
-378,FIFA Soccer 2004,PS2,N/A,Sports,Electronic Arts,0.59,2.36,0.04,0.51,3.49,84,20,6.4,76,EA Canada,E
-397,Assassin's Creed Syndicate,PS4,2015,Action,Ubisoft,0.81,1.99,0.07,0.52,3.39,76,86,6.8,1319,Ubisoft Quebec,M
-418,FIFA 16,XOne,2015,Sports,Electronic Arts,0.89,2.12,0,0.24,3.25,84,45,4.4,459,EA Sports,E
-421,Madden NFL 16,PS4,2015,Sports,Electronic Arts,2.34,0.3,0,0.6,3.24,83,37,5.9,180,EA Sports,E
-476,wwe Smackdown vs. Raw 2006,PS2,N/A,Fighting,N/A,1.57,1.02,0,0.41,3,NA,NA,,NA,,
-540,Mortal Kombat X,PS4,2015,Fighting,Warner Bros. Interactive Entertainment,1.5,0.8,0,0.48,2.78,83,81,7.7,836,"Warner Bros. Interactive Entertainment, NetherRealm Studios",M
-553,FIFA 16,PS3,2015,Sports,Electronic Arts,0.41,1.84,0.05,0.4,2.71,NA,NA,3.2,58,EA Sports,E
-572,FIFA 17,XOne,2016,Sports,Electronic Arts,0.43,2.05,0,0.17,2.65,84,50,5.5,201,"EA Sports, EA Vancouver",E
-624,Bloodborne,PS4,2015,Action,Sony Computer Entertainment,1.03,0.81,0.26,0.38,2.48,92,100,8.6,6383,From Software,M
-640,Need for Speed,PS4,2015,Racing,Electronic Arts,0.5,1.5,0.05,0.37,2.43,NA,NA,,NA,,
-642,Madden NFL 16,XOne,2015,Sports,Electronic Arts,2.08,0.08,0,0.26,2.42,84,23,6.1,124,EA Sports,E
-681,NBA 2K16,XOne,2015,Sports,Take-Two Interactive,1.95,0.15,0,0.24,2.34,86,14,6.2,115,Visual Concepts,E10+
-709,Far Cry: Primal,PS4,2016,Action,Ubisoft,0.6,1.25,0.06,0.35,2.26,76,91,6.3,635,Ubisoft Montreal,M
-710,Battlefield 1,XOne,2016,Shooter,Electronic Arts,1.28,0.77,0,0.2,2.25,87,37,8.2,440,EA DICE,M
-759,Tom Clancy's The Division,XOne,2016,Shooter,Ubisoft,1.29,0.68,0,0.2,2.16,80,33,6.9,614,Massive Entertainment,M
-768,Overwatch,PS4,2016,Shooter,Activision,0.81,0.85,0.15,0.33,2.14,90,31,6.1,1358,Blizzard Entertainment,T
-791,Battlefield: Hardline,PS4,2015,Shooter,Electronic Arts,0.71,0.94,0.14,0.32,2.1,73,46,5,845,Visceral Games,M
-798,Dying Light,PS4,2015,Action,Warner Bros. Interactive Entertainment,0.96,0.67,0.12,0.34,2.09,74,58,7.9,1287,Techland,M
-896,Destiny: The Taken King,PS4,2015,Shooter,Activision,0.78,0.79,0.04,0.31,1.93,86,81,6,1079,Bungie,T
-922,NBA 2K17,PS4,2016,Sports,Take-Two Interactive,1.25,0.27,0.02,0.34,1.88,88,47,6.7,162,Visual Concepts,E
-939,Just Cause 3,PS4,2015,Action,Square Enix,0.47,1.03,0.07,0.28,1.86,73,42,6.5,403,Avalanche Studios,M
-969,Mafia III,PS4,2016,Action,Take-Two Interactive,0.42,1.08,0.03,0.28,1.81,68,66,5.1,1147,Hangar 13,M
-976,Forza Motorsport 6,XOne,2015,Racing,Microsoft Game Studios,0.73,0.9,0.03,0.14,1.8,87,85,7.9,863,Turn 10,E
-1008,Madden NFL 17,PS4,2016,Sports,Electronic Arts,1.25,0.17,0,0.32,1.75,82,35,4.9,83,EA Sports,E
-1013,The Elder Scrolls Online,PS4,2015,Role-Playing,Bethesda Softworks,0.67,0.79,0,0.29,1.75,NA,NA,,NA,,
-1027,The Order: 1886,PS4,2015,Shooter,Sony Computer Entertainment,0.61,0.78,0.06,0.27,1.74,63,94,6.6,3172,"Ready at Dawn, SCE Santa Monica",M
-1057,No Man's Sky,PS4,2016,Action,Hello Games,0.63,0.76,0.03,0.27,1.7,71,94,4.5,5096,Hello Games,T
-1063,Call of Duty: Black Ops 3,PS3,2015,Shooter,Activision,0.49,0.87,0.07,0.26,1.69,NA,NA,,NA,,
-1098,Until Dawn,PS4,2015,Adventure,Sony Computer Entertainment Europe,0.45,0.9,0.05,0.26,1.66,79,103,8.2,2161,SuperMassive Games,M
-1108,Dark Souls III,PS4,2016,Role-Playing,Namco Bandai Games,0.65,0.45,0.34,0.22,1.65,89,69,8.8,1940,From Software,M
-1143,Rock Band,PS3,N/A,Misc,Electronic Arts,0.99,0.41,0,0.22,1.62,92,35,8.4,107,Harmonix Music Systems,T
-1217,Ratchet & Clank,PS4,2016,Platform,Sony Computer Entertainment,0.5,0.76,0.04,0.24,1.54,NA,NA,,NA,,
-1275,Batman: Arkham Knight,XOne,2015,Action,Warner Bros. Interactive Entertainment,0.88,0.47,0,0.14,1.49,85,16,6.6,694,Rocksteady Studios,M
-1276,Doom,PS4,2016,Shooter,Bethesda Softworks,0.54,0.69,0.02,0.24,1.49,NA,NA,,NA,,
-1302,Triple Play 99,PS,N/A,Sports,N/A,0.81,0.55,0,0.1,1.46,NA,NA,,NA,,
-1402,Mortal Kombat X,XOne,2015,Fighting,Warner Bros. Interactive Entertainment,1.03,0.21,0,0.14,1.38,86,21,7.3,279,"Warner Bros. Interactive Entertainment, NetherRealm Studios",M
-1404,Rise of the Tomb Raider,XOne,2015,Adventure,Square Enix,0.55,0.7,0.02,0.11,1.38,86,102,8,1288,Crystal Dynamics,M
-1440,Gears of War 4,XOne,2016,Shooter,Microsoft Game Studios,0.78,0.44,0,0.12,1.35,84,96,6.2,815,The Coalition,M
-1476,The Elder Scrolls V: Skyrim,PS4,2016,Role-Playing,Bethesda Softworks,0.48,0.59,0.04,0.21,1.33,NA,NA,,NA,,
-1500,The Witcher 3: Wild Hunt,XOne,2015,Role-Playing,Namco Bandai Games,0.69,0.5,0,0.11,1.31,91,13,9.2,3963,CD Projekt Red Studio,M
-1516,Assassin's Creed Syndicate,XOne,2015,Action,Ubisoft,0.62,0.56,0,0.11,1.3,78,22,6.1,402,Ubisoft Quebec,M
-1530,Dying Light,XOne,2015,Action,Warner Bros. Interactive Entertainment,0.86,0.3,0.01,0.12,1.29,74,26,7.8,387,Techland,M
-1531,Fallout 4,PC,2015,Role-Playing,Bethesda Softworks,0.51,0.67,0,0.1,1.29,84,38,5.4,7512,Bethesda Game Studios,M
-1537,The Elder Scrolls Online,XOne,2015,Role-Playing,Bethesda Softworks,0.78,0.38,0,0.12,1.28,77,11,8.4,613,ZeniMax Media,M
-1539,LEGO Batman: The Videogame,PSP,N/A,Action,Warner Bros. Interactive Entertainment,0.57,0.44,0,0.27,1.28,73,5,7.4,10,Traveller's Tales,E10+
-1616,Madden NFL 17,XOne,2016,Sports,Electronic Arts,1.08,0.02,0,0.13,1.23,83,30,5.9,39,EA Sports,E
-1651,NASCAR Thunder 2003,PS2,N/A,Racing,Unknown,0.6,0.46,0,0.16,1.22,84,16,8.7,17,EA Sports,E
-1659,WWE 2K16,PS4,2015,Sports,Take-Two Interactive,0.41,0.6,0,0.2,1.21,73,47,7.4,237,Yuke's,T
-1667,Battlefield: Hardline,XOne,2015,Shooter,Electronic Arts,0.72,0.37,0.01,0.11,1.21,71,27,5.1,299,Visceral Games,M
-1695,Destiny: The Taken King,XOne,2015,Shooter,Activision,0.85,0.23,0,0.12,1.19,89,11,5.2,393,"Bungie Software, Bungie",T
-1727,Mad Max,PS4,2015,Action,Warner Bros. Interactive Entertainment,0.36,0.59,0.04,0.18,1.17,NA,NA,,NA,,
-1731,Grand Theft Auto V,PC,2015,Action,Take-Two Interactive,0.39,0.69,0,0.09,1.17,96,57,7.9,3756,Rockstar North,M
-1807,Watch Dogs 2,PS4,2016,Action,Ubisoft,0.37,0.58,0,0.18,1.13,83,88,7.8,621,Ubisoft Montreal,M
-1841,Rock Band,PS2,N/A,Misc,Electronic Arts,0.71,0.06,0,0.35,1.11,82,8,6.8,13,Harmonix Music Systems,T
-1849,Dragon Ball: XenoVerse,PS4,2015,Fighting,Namco Bandai Games,0.3,0.52,0.12,0.16,1.11,69,50,7.7,598,Dimps Corporation,T
-1881,Project CARS,PS4,2015,Racing,Slightly Mad Studios,0.2,0.7,0.02,0.16,1.09,83,37,6.6,363,Slightly Mad Studios,E
-1905,Forza Horizon 3,XOne,2016,Racing,Microsoft Game Studios,0.42,0.58,0,0.08,1.08,91,90,7.4,594,Playground Games,E
-1949,Overwatch,XOne,2016,Shooter,Activision,0.63,0.33,0,0.1,1.06,91,18,5.6,668,Blizzard Entertainment,T
-1985,Legacy of Kain: Soul Reaver,PS,N/A,Action,Eidos Interactive,0.58,0.4,0,0.07,1.04,91,17,9,132,Crystal Dynamics,T
-2025,NBA 2K17,XOne,2016,Sports,Take-Two Interactive,0.86,0.06,0,0.11,1.02,90,17,6.2,91,Visual Concepts,E
-2098,Final Fantasy Type-0,PS4,2015,Role-Playing,Square Enix,0.37,0.32,0.15,0.14,0.98,NA,NA,,NA,,
-2109,Suikoden III,PS2,N/A,Role-Playing,Unknown,0.29,0.23,0.38,0.08,0.98,86,23,7.7,113,KCET,T
-2138,Evolve,PS4,2015,Shooter,Take-Two Interactive,0.36,0.41,0.05,0.15,0.96,76,46,4.3,894,Turtle Rock Studios,M
-2158,Wheel of Fortune,PS2,N/A,Misc,Unknown,0.47,0.36,0,0.12,0.95,NA,NA,tbd,NA,Atari,E
-2170,Yakuza 4,PS3,N/A,Action,Sega,0.15,0.13,0.63,0.05,0.95,78,59,8,177,Ryu ga Gotoku Studios,M
-2205,Rise of the Tomb Raider,PS4,2016,Adventure,Square Enix,0.23,0.53,0.04,0.14,0.94,NA,NA,,NA,,
-2211,EA Sports UFC 2,PS4,2016,Sports,Electronic Arts,0.29,0.49,0,0.15,0.93,79,38,6.2,157,EA Sports,T
-2248,MLB 15: The Show,PS4,2015,Sports,Sony Computer Entertainment,0.68,0.08,0,0.17,0.92,80,44,7.8,190,SCEA San Diego Studios,E
-2274,LEGO Harry Potter: Years 5-7,PS3,N/A,Action,Warner Bros. Interactive Entertainment,0.36,0.41,0,0.15,0.91,76,27,8.3,48,Traveller's Tales,E10+
-2291,Street Fighter V,PS4,2016,Fighting,Capcom,0.4,0.28,0.08,0.14,0.9,77,80,3.4,1221,Capcom,T
-2292,Just Cause 3,XOne,2015,Action,Square Enix,0.44,0.39,0,0.08,0.9,71,24,7,186,Avalanche Studios,M
-2302,LEGO Jurassic World,PS4,2015,Action,Warner Bros. Interactive Entertainment,0.32,0.42,0.02,0.14,0.9,70,46,7,80,TT Games,E10+
-2333,MLB 16: The Show,PS4,2016,Action,Sony Computer Entertainment,0.72,0,0,0.17,0.89,NA,NA,,NA,,
-2368,Far Cry: Primal,XOne,2016,Action,Ubisoft,0.47,0.33,0,0.08,0.88,77,27,6.4,194,Ubisoft Montreal,M
-2417,Guitar Hero Live,PS4,2015,Misc,Activision,0.34,0.38,0,0.14,0.86,80,69,6.2,160,FreeStyleGames,T
-2436,LEGO Jurassic World,PS3,2015,Action,Warner Bros. Interactive Entertainment,0.35,0.36,0,0.14,0.85,NA,NA,7.4,14,TT Games,E10+
-2480,Madden NFL 07,PSP,N/A,Sports,Unknown,0.77,0.03,0,0.04,0.83,78,18,6.6,16,EA Tiburon,E
-2493,MLB SlugFest 20-03,PS2,N/A,Sports,Unknown,0.41,0.32,0,0.11,0.83,77,25,8.2,6,Midway,E
-2601,Pro Evolution Soccer 2016,PS4,2015,Sports,Konami Digital Entertainment,0.13,0.42,0.13,0.1,0.79,87,54,7.1,680,Konami,E
-2604,Rare Replay,XOne,2015,Misc,Microsoft Game Studios,0.49,0.22,0.01,0.07,0.79,84,75,7.7,325,Rare Ltd.,M
-2627,Madden NFL 16,PS3,2015,Sports,Electronic Arts,0.57,0.06,0,0.14,0.78,NA,NA,3.1,18,EA Sports,E
-2695,Doom,XOne,2016,Shooter,Bethesda Softworks,0.44,0.25,0,0.07,0.76,NA,NA,,NA,,
-2719,Titanfall 2,PS4,2016,Shooter,Electronic Arts,0.34,0.25,0.05,0.12,0.75,89,56,8.4,704,Respawn Entertainment,M
-2769,The Elder Scrolls V: Skyrim,XOne,2016,Role-Playing,Bethesda Softworks,0.41,0.27,0,0.07,0.74,NA,NA,,NA,,
-2781,NBA 2K16,PS3,2015,Sports,Take-Two Interactive,0.45,0.12,0.03,0.13,0.74,NA,NA,4.6,13,Visual Concepts,E
-2783,FIFA 17,PS3,2016,Sports,Electronic Arts,0.05,0.55,0.03,0.1,0.73,NA,NA,3.3,21,"EA Sports, EA Vancouver",E
-2812,LEGO Marvel's Avengers,PS4,2016,Action,Warner Bros. Interactive Entertainment,0.26,0.35,0,0.12,0.73,71,70,7,87,TT Games,E10+
-2816,LEGO Dimensions,PS4,2015,Action,Warner Bros. Interactive Entertainment,0.24,0.37,0,0.12,0.73,80,53,7.1,65,Traveller's Tales,E10+
-2849,Disney Infinity 3.0,PS4,2015,Action,Disney Interactive Studios,0.24,0.37,0,0.12,0.72,NA,NA,,NA,,
-2852,The Witcher 3: Wild Hunt,PC,2015,Role-Playing,Namco Bandai Games,0.21,0.46,0,0.05,0.72,93,32,9.3,10665,CD Projekt Red Studio,M
-2890,Dragon Ball: Xenoverse 2,PS4,2016,Action,Namco Bandai Games,0.24,0.27,0.09,0.1,0.71,73,54,7.8,117,Dimps Corporation,T
-2937,Minecraft: Story Mode,PS4,2015,Adventure,Mojang,0.25,0.33,0,0.11,0.69,NA,NA,,NA,,
-2945,Minecraft: Story Mode,PS3,2015,Adventure,Mojang,0.27,0.31,0,0.11,0.69,NA,NA,,NA,,
-2955,Need for Speed ,XOne,2015,Racing,Electronic Arts,0.3,0.33,0,0.06,0.69,NA,NA,,NA,,
-3036,F1 2015,PS4,2015,Racing,Codemasters,0.09,0.45,0.03,0.1,0.66,65,46,6.3,43,Codemasters,E
-3085,LEGO Jurassic World,XOne,2015,Action,Warner Bros. Interactive Entertainment,0.38,0.22,0,0.06,0.65,70,17,6.7,44,TT Games,E10+
-3124,Farming Simulator 17,PC,2016,Simulation,Focus Home Interactive,0.03,0.58,0,0.04,0.65,64,5,8,20,Giants Software,E
-3127,God of War III,PS4,2015,Action,Sony Computer Entertainment,0.24,0.29,0.01,0.1,0.65,NA,NA,,NA,,
-3158,Dishonored 2,PS4,2016,Action,Bethesda Softworks,0.22,0.32,0,0.1,0.64,88,56,7.7,569,Arkane Studios,M
-3169,Evolve,XOne,2015,Shooter,Take-Two Interactive,0.37,0.2,0,0.06,0.64,74,31,5.1,336,Turtle Rock Studios,M
-3188,Monster Hunter 2,PS2,N/A,Role-Playing,Capcom,0,0,0.63,0,0.63,NA,NA,,NA,,
-3215,NHL 16,PS4,2015,Sports,Electronic Arts,0.36,0.16,0,0.11,0.63,78,28,5.5,157,"EA Sports, EA Canada",E10+
-3234,Test Drive Unlimited 2,PS3,N/A,Racing,Atari,0.16,0.34,0.01,0.12,0.62,70,43,6.1,44,Eden,T
-3251,Mafia III,XOne,2016,Action,Take-Two Interactive,0.28,0.29,0,0.05,0.62,67,20,4.6,274,Hangar 13,M
-3324,Dark Souls II,PS4,2015,Role-Playing,Namco Bandai Games,0.21,0.23,0.08,0.09,0.6,NA,NA,,NA,,
-3366,WWE 2K17,PS4,2016,Sports,Take-Two Interactive,0.17,0.34,0,0.09,0.6,69,50,6.9,88,Yuke's,T
-3402,WWE 2K16,XOne,2015,Sports,Take-Two Interactive,0.32,0.22,0,0.05,0.59,72,18,5.7,75,Yuke's,T
-3460,NASCAR: Dirt to Daytona,PS2,N/A,Racing,Unknown,0.28,0.22,0,0.07,0.58,84,10,8.8,19,Monster Games Inc.,E
-3509,Titanfall 2,XOne,2016,Shooter,Electronic Arts,0.37,0.15,0,0.05,0.57,87,31,8,261,Respawn Entertainment,M
-3551,Tales of Zestiria,PS3,2015,Role-Playing,Namco Bandai Games,0.05,0.07,0.42,0.02,0.56,NA,NA,8,47,"Namco Bandai Games, Bandai Namco Games",T
-3580,Minecraft,pc,2015,Adventure,Mojang,0.3,0.21,0,0.05,0.56,NA,NA,,NA,,
-3607,Quantum Break,XOne,2016,Action,Microsoft Game Studios,0.3,0.2,0.01,0.05,0.56,77,106,6.8,1659,Remedy Entertainment,M
-3631,Guitar Hero Live,XOne,2015,Misc,Activision,0.3,0.2,0,0.05,0.55,81,21,5.1,69,FreeStyleGames,T
-3646,Resident Evil: Revelations 2,PS4,2015,Action,Capcom,0.13,0.24,0.1,0.07,0.55,75,30,7.7,284,Capcom,M
-3648,LEGO Dimensions,PS3,2015,Action,Warner Bros. Interactive Entertainment,0.17,0.3,0,0.09,0.55,NA,NA,6.4,18,,
-3667,Star Wars Battlefront,PC,2015,Shooter,Electronic Arts,0.13,0.38,0,0.04,0.55,NA,NA,,NA,,
-3772,Overwatch,PC,2016,Shooter,Activision,0.25,0.24,0,0.04,0.53,91,62,6.8,4052,Blizzard Entertainment,T
-3846,Rory McIlroy PGA Tour,PS4,2015,Action,Electronic Arts,0.18,0.25,0,0.08,0.52,61,33,3.7,78,EA Tiburon,E
-3926,WWE 2K16,PS3,2015,Sports,Take-Two Interactive,0.22,0.21,0,0.08,0.51,NA,NA,6,21,Yuke's,T
-4082,Mad Max,XOne,2015,Action,Warner Bros. Interactive Entertainment,0.28,0.16,0,0.04,0.48,NA,NA,,NA,,
-4104,Dragon Ball: XenoVerse,PS3,2015,Fighting,Namco Bandai Games,0.16,0.13,0.14,0.06,0.48,NA,NA,7.1,62,Dimps Corporation,T
-4118,NHL 16,XOne,2015,Sports,Electronic Arts,0.38,0.05,0,0.05,0.48,80,18,6,81,"EA Sports, EA Canada",E10+
-4128,Sonic the Hedgehog,PS3,N/A,Platform,N/A,0,0.48,0,0,0.48,43,17,4.1,176,Sonic Team,E10+
-4142,Rock Band 4,XOne,2015,Misc,Harmonix Music Systems,0.38,0.04,0,0.05,0.47,79,27,6.4,54,Harmonix Music Systems,T
-4210,One Piece: Pirate Warriors 3,PS4,2015,Action,Namco Bandai Games,0.09,0.22,0.1,0.06,0.46,74,34,7.4,118,Omega Force,T
-4359,Pro Evolution Soccer 2017,PS4,2016,Sports,Konami Digital Entertainment,0.02,0.27,0.11,0.05,0.45,85,61,7.6,478,Konami,E
-4363,Disney Infinity 3.0,PS3,2015,Action,Disney Interactive Studios,0.16,0.21,0,0.07,0.45,NA,NA,,NA,,
-4532,Wolfenstein: The Old Blood,PS4,2015,Action,Bethesda Softworks,0.1,0.25,0.02,0.06,0.43,76,54,8,267,MachineGames,
-4649,TERA,PC,N/A,Role-Playing,Unknown,0.25,0.12,0,0.05,0.42,77,41,6.8,742,Bluehole Studio,M
-4669,EA Sports UFC 2,XOne,2016,Sports,Electronic Arts,0.24,0.14,0,0.04,0.41,76,42,6,77,EA Sports,T
-4677,Farming Simulator 17,PS4,2016,Simulation,Focus Home Interactive,0.05,0.31,0,0.06,0.41,69,17,8.7,12,Maximum Games,E
-4682,Battlefield: Hardline,PS3,2015,Shooter,Electronic Arts,0.13,0.15,0.07,0.06,0.41,NA,NA,5.3,81,Visceral Games,M
-4687,LEGO Dimensions,XOne,2015,Action,Warner Bros. Interactive Entertainment,0.22,0.15,0,0.04,0.41,80,12,6.9,27,Traveller's Tales,E10+
-4694,Tom Clancy's The Division,PC,2016,Shooter,Ubisoft,0.22,0.15,0,0.04,0.41,79,33,5.8,1188,Massive Entertainment,M
-4723,God Eater 2: Rage Burst,Playstation-5,2015,Role-Playing,Namco Bandai Games,0,0.03,0.37,0.01,0.41,NA,NA,8.1,16,Shift,T
-4771,Tales of Zestiria,PS4,2015,Role-Playing,Namco Bandai Games,0.17,0.15,0.02,0.06,0.4,72,59,6.8,315,Bandai Namco Games,T
-4776,NFL GameDay 2003,PS2,N/A,Sports,Unknown,0.2,0.15,0,0.05,0.4,60,23,tbd,NA,989 Sports,E
-4787,Life is Strange,PS4,2016,Adventure,Square Enix,0.15,0.15,0.03,0.06,0.4,85,23,8.6,672,DONTNOD Entertainment,M
-4837,Pro Evolution Soccer 2016,PS3,2015,Sports,Konami Digital Entertainment,0.09,0.12,0.15,0.04,0.4,NA,NA,7.2,40,Konami,E
-4880,Saints Row IV,PS4,2015,Action,Deep Silver,0.13,0.18,0.03,0.06,0.39,NA,NA,,NA,,
-4887,Dishonored,PS4,2015,Action,Bethesda Softworks,0.12,0.2,0.02,0.06,0.39,NA,NA,,NA,,
-4888,Dark Souls III,XOne,2016,Role-Playing,Namco Bandai Games,0.26,0.09,0,0.04,0.39,87,14,8.6,514,From Software,
-4914,Until Dawn: Rush of Blood,PS4,2016,Adventure,Sony Computer Entertainment,0.18,0.15,0,0.07,0.39,72,49,8,68,SuperMassive Games,M
-4941,MLB 15: The Show,PS3,2015,Sports,Sony Computer Entertainment,0.31,0.01,0,0.07,0.39,NA,NA,8.2,6,SCEA San Diego Studios,E
-4960,Silent Hill: Homecoming,PS3,N/A,Action,Konami Digital Entertainment,0.18,0.14,0,0.06,0.38,71,41,6.9,143,Double Helix Games,M
-4989,Rock Band 4,PS4,2015,Misc,Harmonix Music Systems,0.26,0.05,0,0.07,0.38,78,51,6.3,87,Harmonix Music Systems,T
-5001,Battlefield 1,PC,2016,Shooter,Electronic Arts,0.11,0.24,0,0.03,0.38,88,54,7.6,1137,EA DICE,M
-5009,Deus Ex: Mankind Divided,PS4,2016,Role-Playing,Square Enix,0.11,0.21,0,0.06,0.38,84,59,7.6,511,Eidos Montreal,M
-5067,Resident Evil Zero,PS4,2016,Action,Capcom,0.1,0.17,0.05,0.05,0.37,NA,NA,,NA,,
-5071,The Golden Compass,PSP,N/A,Action,Sega,0.11,0.16,0,0.1,0.37,28,4,4.1,7,Shiny Entertainment,E10+
-5073,Farming Simulator 2015,PS3,2015,Simulation,Koch Media,0.11,0.2,0,0.06,0.37,NA,NA,,NA,,
-5075,Persona 5,PS4,2016,Role-Playing,Atlus,0,0,0.37,0,0.37,NA,NA,,NA,Atlus,
-5115,BioShock The Collection,PS4,2016,Shooter,Take-Two Interactive,0.1,0.19,0.02,0.06,0.37,84,39,8.5,210,2K Games,M
-5121,Rocket League,PS4,2016,Sports,505 Games,0.03,0.28,0,0.05,0.37,85,50,8.7,1290,Psyonix,E
-5124,Destiny: The Taken King,PS3,2015,Shooter,Activision,0.17,0.11,0.02,0.06,0.37,NA,NA,5.5,81,Bungie,T
-5125,Skylanders: SuperChargers,PS3,2015,Action,Activision,0.16,0.15,0,0.06,0.37,NA,NA,4.2,6,Vicarious Visions,E10+
-5132,DiRT Rally,PS4,2016,Racing,Codemasters,0.04,0.27,0,0.05,0.37,85,46,8.1,196,Codemasters,E
-5189,Sword Art Online: Lost Song,Playstation-5,2015,Role-Playing,Namco Bandai Games,0.06,0.04,0.23,0.03,0.36,70,4,7.1,27,"Bandai Namco Games, Artdink",T
-5216,Just Dance 2016,PS4,2015,Misc,Ubisoft,0.17,0.13,0,0.06,0.36,73,10,6.8,20,Ubisoft,E10+
-5231,Watch Dogs 2,XOne,2016,Action,Ubisoft,0.17,0.16,0,0.03,0.36,83,9,7.7,131,Ubisoft Montreal,M
-5256,Farming Simulator 2015,PS4,2015,Simulation,Koch Media,0.1,0.2,0,0.06,0.35,NA,NA,,NA,,
-5286,Homefront: The Revolution,PS4,2016,Shooter,Deep Silver,0.06,0.21,0.03,0.05,0.35,48,43,3.8,212,Deep Silver Dambuster Studios,M
-5288,One Piece: Burning Blood,PS4,2016,Fighting,Namco Bandai Games,0.11,0.13,0.07,0.05,0.35,66,45,7.8,49,Spike Chunsoft,T
-5296,Football Manager 2016,PC,2015,Simulation,Sega,0,0.33,0,0.02,0.35,81,34,6.9,97,Sega,E
-5318,LEGO Marvel's Avengers,XOne,2016,Action,Warner Bros. Interactive Entertainment,0.19,0.12,0,0.03,0.35,71,18,5.1,15,TT Games,E10+
-5321,Mirror's Edge Catalyst,PS4,2016,Platform,Electronic Arts,0.11,0.16,0.02,0.05,0.35,69,50,4.7,578,EA DICE,T
-5337,Tomb Raider,PC,N/A,Action,Square Enix,0.06,0.25,0,0.04,0.35,86,18,8.5,3552,"Crystal Dynamics, Nixxes Software",M
-5339,TrackMania Turbo,PS4,2016,Action,Ubisoft,0.03,0.26,0,0.05,0.35,81,52,7.9,110,Nadeo,E
-5404,Disney Infinity 3.0,XOne,2015,Action,Disney Interactive Studios,0.2,0.11,0,0.03,0.34,NA,NA,,NA,,
-5421,Dead or Alive 5,PS4,2015,Fighting,Tecmo Koei,0.09,0.13,0.08,0.04,0.34,NA,NA,,NA,,
-5440,World of Final Fantasy,PS4,2016,Role-Playing,Square Enix,0.08,0.14,0.08,0.04,0.33,77,74,8.3,222,Square Enix,E10+
-5445,NHL 17,PS4,2016,Sports,Electronic Arts,0.19,0.08,0,0.06,0.33,78,26,5.8,67,"EA Canada, EA Vancouver",E10+
-5566,Just Dance 2016,XOne,2015,Misc,Ubisoft,0.25,0.04,0,0.03,0.32,66,10,6.1,18,Ubisoft,E10+
-5584,Dragon Ball: XenoVerse,XOne,2015,Fighting,Namco Bandai Games,0.18,0.11,0,0.03,0.32,67,18,7.2,128,Dimps Corporation,T
-5589,Final Fantasy XI,PS2,N/A,Role-Playing,Unknown,0.08,0.06,0.15,0.02,0.32,85,49,6.9,66,Square Enix,T
-5610,World of Warcraft: Legion,PC,2016,Role-Playing,Activision,0.13,0.16,0,0.03,0.32,88,62,7.5,535,Blizzard Entertainment,T
-5631,Persona 4: Dancing All Night,Playstation-5,2015,Misc,Nippon Ichi Software,0.09,0.04,0.15,0.04,0.32,76,51,8.6,83,"Atlus, Dingo Inc.",T
-5656,All-Star Baseball 2005,PS2,N/A,Sports,Unknown,0.16,0.12,0,0.04,0.32,72,13,8.6,21,Acclaim,E
-5747,Tropico 5,PS4,2015,Simulation,Kalypso Media,0.06,0.16,0.06,0.04,0.31,76,17,7.1,110,Haemimont,T
-5754,Skylanders: SuperChargers,PS4,2015,Action,Activision,0.17,0.08,0,0.05,0.31,81,51,3.3,29,Vicarious Visions,E10+
-5817,DmC: Devil May Cry,PS4,2015,Action,Capcom,0.12,0.13,0,0.05,0.31,NA,NA,,NA,,
-5855,Batman: Arkham VR,PS4,2016,Action,Warner Bros. Interactive Entertainment,0.25,0,0,0.06,0.3,75,59,7.3,89,Rocksteady Studios,M
-5990,Deadpool,PS4,2015,Action,Activision,0.14,0.11,0,0.05,0.29,60,11,5.7,68,High Moon Studios,M
-5991,UEFA Euro 2016,PS4,2016,Sports,Konami Digital Entertainment,0,0.22,0.04,0.04,0.29,72,7,6.6,8,Konami,E
-6015,Resident Evil: Revelations 2,PS3,2015,Action,Capcom,0.06,0.05,0.16,0.02,0.29,NA,NA,6.8,48,Capcom,M
-6103,Haven: Call of the King,PS2,N/A,Platform,Midway Games,0.14,0.11,0,0.04,0.28,69,26,6.9,15,Traveller's Tales,T
-6115,Divinity: Original Sin,PS4,2015,Role-Playing,Focus Home Interactive,0.1,0.12,0.02,0.04,0.28,NA,NA,,NA,,
-6174,Payday 2,PS4,2015,Shooter,505 Games,0.1,0.14,0,0.05,0.28,NA,NA,,NA,,
-6282,Guitar Hero Live,PS3,2015,Misc,Activision,0.11,0.12,0,0.04,0.27,NA,NA,5.1,22,"Activision, FreeStyleGames",T
-6324,Rory McIlroy PGA Tour,XOne,2015,Action,Electronic Arts,0.16,0.09,0,0.02,0.27,60,26,4.3,77,EA Tiburon,E
-6357,LEGO Marvel's Avengers,PS3,2016,Action,Warner Bros. Interactive Entertainment,0.1,0.12,0,0.04,0.27,NA,NA,5.5,8,TT Games,E10+
-6358,Rock Revolution,PS3,N/A,Misc,Unknown,0.25,0,0,0.02,0.27,42,20,6.6,12,"Zoe Mode, HB Studios Multimedia",T
-6429,Batman: Return to Arkham,PS4,2016,Action,Warner Bros. Interactive Entertainment,0.07,0.16,0,0.04,0.26,73,28,8.5,79,"Rocksteady Studios, Virtuos",T
-6450,Tearaway Unfolded,PS4,2015,Platform,Sony Computer Entertainment,0.09,0.13,0,0.04,0.26,81,70,8.1,188,Media Molecule,E
-6463,J Stars Victory Vs.,PS4,2015,Fighting,Namco Bandai Games,0.08,0.14,0,0.04,0.26,NA,NA,,NA,,
-6465,Call of Duty: Black Ops 3,PC,2015,Shooter,Activision,0,0.25,0,0.01,0.26,NA,NA,,NA,,
-6478,LEGO Harry Potter: Years 5-7,PSP,N/A,Action,Warner Bros. Interactive Entertainment,0.1,0.1,0,0.06,0.26,NA,NA,tbd,NA,Traveller's Tales,E10+
-6489,WWE 2K17,XOne,2016,Sports,Take-Two Interactive,0.12,0.12,0,0.02,0.26,68,12,5.5,27,Yuke's,T
-6494,Project CARS,XOne,2015,Racing,Slightly Mad Studios,0.11,0.13,0,0.02,0.26,81,16,5.8,135,Slightly Mad Studios,E
-6539,Battleborn,PS4,2016,Shooter,Take-Two Interactive,0.12,0.08,0.02,0.04,0.26,68,55,6.8,402,Gearbox Software,T
-6594,One Piece: Pirate Warriors 3,PS3,2015,Action,Namco Bandai Games,0,0.06,0.19,0.01,0.25,NA,NA,3.7,7,Omega Force,T
-6603,Final Fantasy Type-0,XOne,2015,Role-Playing,Square Enix,0.16,0.07,0,0.02,0.25,NA,NA,,NA,,
-6626,College Hoops 2K6,PS2,N/A,Sports,Unknown,0.12,0.1,0,0.03,0.25,77,14,7.3,6,2K Sports,E
-6638,Jonah Lomu Rugby Challenge,PS3,N/A,Sports,Home Entertainment Suppliers,0,0.19,0,0.06,0.25,64,6,,NA,Sidhe Interactive,E
-6640,PlayStation VR Worlds,PS4,2016,Misc,Sony Computer Entertainment,0.06,0.14,0.02,0.04,0.25,59,48,7.1,73,Sony Interactive Entertainment,M
-6658,Anno 2205,PC,2015,Strategy,Ubisoft,0.02,0.22,0,0.02,0.25,72,45,5.9,278,Blue Byte,E10+
-6755,Sid Meier's Civilization VI,PC,2016,Strategy,Take-Two Interactive,0.09,0.13,0,0.02,0.25,88,81,7.3,684,Firaxis Games,E10+
-6758,Sword Art Online: Lost Song,PS4,2015,Role-Playing,Namco Bandai Games,0.1,0.11,0,0.04,0.25,63,32,6.3,60,"Bandai Namco Games, Artdink",T
-6760,F1 2015,XOne,2015,Racing,Codemasters,0.08,0.15,0,0.02,0.25,64,13,5.3,22,Codemasters,E
-6775,Mega Man X Collection,PS2,N/A,Misc,Unknown,0.12,0.09,0,0.03,0.24,73,23,8.8,14,Capcom,E
-6789,Skylanders: SuperChargers,XOne,2015,Action,Activision,0.17,0.05,0,0.02,0.24,76,15,5.5,17,Vicarious Visions,E10+
-6820,BioShock 2,PC,N/A,Shooter,Take-Two Interactive,0.02,0.19,0,0.04,0.24,88,36,8,1247,2K Marin,M
-6830,Total War: Attila,PC,2015,Strategy,Sega,0.09,0.13,0,0.02,0.24,80,66,7.3,520,Creative Assembly,T
-6856,NHL 17,XOne,2016,Sports,Electronic Arts,0.2,0.01,0,0.03,0.24,77,23,4,38,"EA Canada, EA Vancouver",E10+
-6863,Singularity,PS3,N/A,Shooter,Unknown,0.17,0.04,0.01,0.03,0.24,77,48,7.7,100,Raven Software,M
-6872,Destiny: The Collection,PS4,2016,Shooter,Activision,0.05,0.15,0,0.04,0.24,NA,NA,8.1,9,Bungie,T
-6893,Rocket League,XOne,2016,Sports,505 Games,0.05,0.17,0,0.02,0.24,87,22,8.3,194,Psyonix,E
-6956,Jet X20,PS2,N/A,Racing,Unknown,0.11,0.09,0,0.03,0.23,NA,NA,,NA,,
-6997,XCOM 2,PC,2016,Strategy,Take-Two Interactive,0.09,0.12,0,0.02,0.23,88,104,7.1,1221,Firaxis Games,T
-7010,Tribes: Aerial Assault,PS2,N/A,Shooter,Unknown,0.11,0.09,0,0.03,0.23,73,23,8.8,47,Midway Studios - Austin,T
-7073,Transformers: Devastation,PS4,2015,Action,Activision,0.1,0.09,0,0.04,0.23,77,50,7.5,160,PlatinumGames,T
-7080,Tales of Berseria,PS4,2016,Role-Playing,Namco Bandai Games,0,0,0.23,0,0.23,NA,NA,,NA,Bandai Namco Games,T
-7087,Dark Souls II,XOne,2015,Role-Playing,Namco Bandai Games,0.14,0.07,0,0.02,0.23,NA,NA,,NA,,
-7126,LEGO Jurassic World,Playstation-5,2015,Action,Warner Bros. Interactive Entertainment,0.05,0.13,0,0.05,0.22,NA,NA,7.6,11,TT Games,E10+
-7161,Darksiders II,PS4,2015,Action,Nordic Games,0.09,0.1,0,0.04,0.22,NA,NA,,NA,,
-7173,Ride,PS4,2015,Racing,Milestone S.r.l.,0.04,0.13,0.03,0.03,0.22,66,30,7,47,Milestone S.r.l,E
-7207,The Sims 4: Get Together,PC,2015,Simulation,Electronic Arts,0.05,0.15,0,0.02,0.22,72,16,7.3,117,Maxis,T
-7212,LEGO Harry Potter: Years 5-7,PC,N/A,Action,Warner Bros. Interactive Entertainment,0.05,0.14,0,0.03,0.22,80,5,8.5,44,Traveller's Tales,E10+
-7235,Dishonored 2,XOne,2016,Action,Bethesda Softworks,0.12,0.08,0,0.02,0.22,88,22,6.8,156,Arkane Studios,M
-7385,Assassin's Creed Syndicate,PC,2015,Action,Ubisoft,0.11,0.09,0,0.02,0.21,74,14,5.9,544,Ubisoft Quebec,M
-7389,Move Fitness,PS3,N/A,Sports,Sony Computer Entertainment,0,0.16,0,0.05,0.21,NA,NA,,NA,,
-7403,World of Final Fantasy,Playstation-5,2016,Role-Playing,Square Enix,0.04,0.06,0.08,0.03,0.21,77,5,8.6,46,Square Enix,E10+
-7418,State of Decay,XOne,2015,Strategy,Microsoft Game Studios,0.14,0.05,0,0.02,0.21,NA,NA,,NA,,
-7481,Tony Hawk's Pro Skater 5,PS4,2015,Sports,Activision,0.09,0.08,0,0.03,0.21,32,43,1.5,427,Robomodo,T
-7515,Saints Row IV,XOne,2015,Action,Deep Silver,0.1,0.09,0,0.02,0.2,NA,NA,,NA,,
-7536,Valkyria Chronicles,PS4,2016,Role-Playing,Sega,0.07,0.05,0.05,0.03,0.2,NA,NA,,NA,,
-7541,Zombie Army Trilogy,PS4,2015,Shooter,Rebellion Developments,0.05,0.12,0,0.03,0.2,62,26,6.8,88,Rebellion,
-7577,FIFA 16,PC,2015,Sports,Electronic Arts,0.06,0.13,0,0.01,0.2,81,10,4.4,296,EA Sports,E
-7585,Dragon Ball: Xenoverse 2,XOne,2016,Action,Namco Bandai Games,0.11,0.07,0,0.02,0.2,73,8,7.3,29,Dimps Corporation,T
-7587,Odin Sphere: Leifthrasir,PS4,2016,Role-Playing,Nippon Ichi Software,0.07,0.04,0.07,0.02,0.2,87,49,8.2,178,Vanillaware,T
-7641,Dying Light,PC,2015,Action,Warner Bros. Interactive Entertainment,0.12,0.06,0,0.02,0.2,75,40,7.9,1295,Techland,M
-7674,Farming Simulator 2015,XOne,2015,Simulation,Koch Media,0.1,0.08,0,0.02,0.2,NA,NA,,NA,,
-7726,Dead Space 3,PC,N/A,Action,Electronic Arts,0.02,0.16,0,0.02,0.19,78,16,6,1096,Visceral Games,M
-7729,MLB 16: The Show,PS3,2016,Action,Sony Computer Entertainment,0.16,0,0,0.04,0.19,NA,NA,,NA,,
-7737,Test Drive Unlimited 2,PC,N/A,Racing,Atari,0.05,0.11,0,0.03,0.19,72,19,5.7,253,Eden,T
-7771,Kan Colle Kai,Playstation-5,2016,Action,Kadokawa Games,0,0,0.19,0,0.19,NA,NA,,NA,,
-7774,Just Dance 2016,PS3,2015,Misc,Ubisoft,0.1,0.06,0,0.03,0.19,NA,NA,4.2,6,Ubisoft,E10+
-7780,Mafia III,PC,2016,Action,Take-Two Interactive,0.08,0.1,0,0.02,0.19,63,29,3.2,881,Hangar 13,M
-7845,God Eater Resurrection,Playstation-5,2015,Action,Namco Bandai Games,0,0,0.19,0,0.19,NA,NA,8.8,17,"Shift, Bandai Namco Games",T
-7876,Evolve,PC,2015,Shooter,Take-Two Interactive,0.08,0.1,0,0.02,0.19,77,39,4.3,969,Turtle Rock Studios,M
-8059,Saint Seiya: Soldiers' Soul,PS4,2015,Fighting,Namco Bandai Games,0,0.12,0.04,0.02,0.18,59,30,7.8,45,Dimps Corporation,T
-8093,Senran Kagura: Estival Versus,Playstation-5,2015,Action,Marvelous Interactive,0.04,0.02,0.09,0.02,0.18,71,4,7.4,34,Marvelous Inc.,M
-8142,Payday 2,XOne,2015,Shooter,505 Games,0.09,0.07,0,0.02,0.18,NA,NA,,NA,,
-8145,Senran Kagura: Estival Versus,PS4,2015,Action,Marvelous Interactive,0.08,0,0.08,0.02,0.18,67,25,8,96,Marvelous Inc.,M
-8152,Twisted Metal: Small Brawl,PS,N/A,Action,Unknown,0.1,0.07,0,0.01,0.18,51,14,7.6,49,Incognito Inc.,T
-8192,Back to the Future: The Game,PS4,2015,Adventure,Telltale Games,0.1,0.05,0,0.03,0.18,NA,NA,7.1,18,Telltale Games,T
-8199,NBA Starting Five,PS2,N/A,Sports,Unknown,0.09,0.07,0,0.02,0.18,53,10,7.3,7,Konami,E
-8200,NBA Live 16,PS4,2015,Sports,Electronic Arts,0.1,0.04,0,0.03,0.18,59,27,6.1,70,EA Sports,E
-8244,MotoGP 15,PS4,2015,Racing,Milestone S.r.l.,0,0.12,0.03,0.02,0.17,66,15,,NA,Milestone S.r.l,
-8251,Toukiden Kiwami,PS4,2015,Action,Tecmo Koei,0.05,0.07,0.02,0.02,0.17,74,35,7.6,74,Koei Tecmo Games,T
-8262,Backbreaker,PS3,N/A,Sports,Unknown,0.16,0,0,0.01,0.17,58,25,7,52,NaturalMotion,E
-8321,James Cameron's Dark Angel,PS2,N/A,Action,Universal Interactive,0.08,0.07,0,0.02,0.17,48,17,6.5,19,Radical Entertainment,T
-8341,Deus Ex: Mankind Divided,XOne,2016,Role-Playing,Square Enix,0.09,0.06,0,0.01,0.17,83,18,7.2,175,Eidos Montreal,M
-8350,Digimon Story: Cyber Sleuth,Playstation-5,2015,Role-Playing,Namco Bandai Games,0,0,0.17,0,0.17,NA,NA,8.8,92,Media Vision,T
-8366,Sword of the Samurai,PS2,N/A,Fighting,Ubisoft,0,0,0.17,0,0.17,NA,NA,,NA,,
-8369,Bladestorm: Nightmare,PS4,2015,Action,Tecmo Koei,0.08,0.04,0.03,0.02,0.17,58,33,6.5,21,Omega Force,T
-8448,One Piece: Pirate Warriors 3,Playstation-5,2015,Action,Namco Bandai Games,0,0.03,0.13,0.01,0.17,76,4,6.3,17,Omega Force,T
-8465,Far Cry: Primal,PC,2016,Action,Ubisoft,0.04,0.11,0,0.01,0.16,74,18,4.8,368,Ubisoft Montreal,M
-8493,Mirror's Edge Catalyst,XOne,2016,Platform,Electronic Arts,0.09,0.06,0,0.01,0.16,72,46,4.4,266,EA DICE,T
-8502,Splatterhouse,PS3,N/A,Action,Namco Bandai Games,0.13,0.02,0,0.02,0.16,59,49,7.7,67,"Namco Bandai Games America, Namco Bandai Games",M
-8613,Yakuza Kiwami,PS4,2016,Adventure,Sega,0,0,0.16,0,0.16,NA,NA,,NA,Ryu ga Gotoku Studios,
-8628,BioShock The Collection,XOne,2016,Shooter,Take-Two Interactive,0.08,0.06,0,0.01,0.16,84,16,8.3,79,2K Games,M
-8746,Wolfenstein: The Old Blood,XOne,2015,Action,Bethesda Softworks,0.07,0.07,0,0.01,0.15,75,23,8,101,MachineGames,
-8814,Tokyo Xanadu,Playstation-5,2015,Role-Playing,Nihon Falcom Corporation,0,0,0.15,0,0.15,NA,NA,,NA,,
-8846,Pro Baseball Spirits 2015,PS3,2015,Action,Konami Digital Entertainment,0,0,0.15,0,0.15,NA,NA,,NA,,
-8882,Dishonored,XOne,2015,Action,Bethesda Softworks,0.09,0.05,0,0.01,0.15,NA,NA,,NA,,
-8885,Battleborn,XOne,2016,Shooter,Take-Two Interactive,0.1,0.04,0,0.01,0.15,71,20,7.2,171,Gearbox Software,T
-8886,eJay Clubworld,PS2,N/A,Misc,Empire Interactive,0.07,0.06,0,0.02,0.15,69,5,8.6,10,UDS,E
-8888,The King of Fighters XIV,PS4,2016,Fighting,Deep Silver,0.07,0.02,0.04,0.02,0.15,79,54,8.7,208,SNK Playmore,T
-8901,LEGO Harry Potter Collection,PS4,2016,Action,Warner Bros. Interactive Entertainment,0.01,0.11,0,0.02,0.15,73,16,8.1,7,Warner Bros. Interactive Entertainment,E10+
-8981,ReCore,XOne,2016,Action,Microsoft Game Studios,0.08,0.05,0,0.01,0.15,63,75,6.6,445,"Armature Studio, comcept",T
-9039,Just Cause 3,PC,2015,Action,Square Enix,0.03,0.11,0,0.01,0.14,74,50,5.3,529,Avalanche Studios,M
-9045,Bejeweled 3,PS3,N/A,Puzzle,Unknown,0.13,0,0,0.02,0.14,76,5,8.2,5,PopCap,E
-9101,Skylanders Imaginators,PS4,2016,Platform,Activision,0.04,0.08,0,0.02,0.14,80,47,5.5,17,Toys for Bob,E10+
-9119,XCOM 2,PS4,2016,Strategy,Take-Two Interactive,0.04,0.08,0,0.02,0.14,88,28,8,116,Firaxis Games,T
-9134,WWE 2K17,PS3,2016,Sports,Take-Two Interactive,0.05,0.07,0,0.02,0.14,NA,NA,4.1,9,Yuke's,T
-9137,Cities: Skylines,PC,2015,Simulation,Paradox Interactive,0,0.13,0,0.01,0.14,85,60,8.9,1404,Colossal Order,E
-9180,Odin Sphere: Leifthrasir,Playstation-5,2016,Role-Playing,Nippon Ichi Software,0.02,0.02,0.09,0.01,0.14,93,5,7.9,83,Vanillaware,T
-9181,Homefront: The Revolution,XOne,2016,Shooter,Deep Silver,0.06,0.07,0,0.01,0.14,49,12,4.1,106,Deep Silver Dambuster Studios,M
-9199,7 Days to Die,PS4,2016,Action,Telltale Games,0.04,0.08,0,0.02,0.14,45,16,5.9,140,The Fun Pimps Entertainment LLC,M
-9209,Transformers: Devastation,XOne,2015,Action,Activision,0.09,0.04,0,0.01,0.14,75,25,7.9,55,PlatinumGames,T
-9234,DmC: Devil May Cry,XOne,2015,Action,Capcom,0.08,0.04,0,0.01,0.14,NA,NA,,NA,,
-9239,Battlefield: Hardline,PC,2015,Shooter,Electronic Arts,0,0.13,0,0.01,0.14,71,31,3.8,773,Visceral Games,M
-9243,Brothers: A Tale of Two Sons,PS4,2015,Adventure,505 Games,0.03,0.08,0,0.02,0.14,81,10,8.6,73,Starbreeze,T
-9369,Pro Baseball Spirits 2015,Playstation-5,2015,Action,Konami Digital Entertainment,0,0,0.13,0,0.13,NA,NA,,NA,,
-9376,Life is Strange,XOne,2016,Adventure,Square Enix,0.09,0.03,0,0.01,0.13,85,4,8.7,123,DONTNOD Entertainment,M
-9427,Gravity Rush Remastered,PS4,2015,Action,Sony Computer Entertainment,0.02,0.05,0.04,0.01,0.13,80,62,8.2,153,Bluepoint Games,T
-9435,Total War: WARHAMMER,PC,2016,Strategy,Sega,0,0.12,0,0.01,0.13,86,77,7.3,556,Creative Assembly,T
-9449,Hasbro Family Fun Pack,XOne,2015,Misc,Ubisoft,0.1,0.02,0,0.01,0.13,NA,NA,tbd,NA,Ubisoft,E10+
-9462,Batman: Arkham Knight,PC,2015,Action,Warner Bros. Interactive Entertainment,0.09,0.03,0,0.01,0.13,70,14,2.5,1967,"Rocksteady Studios, Iron Galaxy Studios",M
-9467,Pro Evolution Soccer 2017,PS3,2016,Sports,Konami Digital Entertainment,0.01,0.05,0.06,0.01,0.13,NA,NA,7.2,19,Konami,E
-9487,Street Fighter IV,PC,N/A,Fighting,Capcom,0.07,0.05,0,0.02,0.13,91,23,8,352,Capcom,T
-9631,NBA 2K17,PS3,2016,Sports,Take-Two Interactive,0.06,0.04,0,0.02,0.13,NA,NA,2,8,2K Games,E
-9644,Project CARS,PC,2015,Racing,Slightly Mad Studios,0,0.12,0,0.01,0.13,83,48,7.1,418,Slightly Mad Studios,E
-9655,Deadpool,XOne,2015,Action,Activision,0.09,0.03,0,0.01,0.12,NA,NA,5.7,23,High Moon Studios,M
-9660,LEGO Marvel's Avengers,Playstation-5,2016,Action,Warner Bros. Interactive Entertainment,0.02,0.07,0,0.03,0.12,NA,NA,6.6,13,TT Games,E10+
-9670,DiRT Rally,XOne,2016,Racing,Codemasters,0.04,0.08,0,0.01,0.12,86,17,8,60,Codemasters,E
-9705,Record of Agarest War Zero,PS3,N/A,Strategy,Ghostlight,0.09,0,0.03,0.01,0.12,50,8,6.7,37,Compile Heart,T
-9708,Rocksmith,PC,N/A,Misc,Unknown,0.06,0.04,0,0.01,0.12,78,5,8.1,57,Ubisoft,T
-9724,Gundam Breaker 3,Playstation-5,2016,Action,Namco Bandai Games,0,0,0.12,0,0.12,NA,NA,,NA,,
-9768,Don Bradman Cricket 14,PS4,2015,Sports,Tru Blu Entertainment,0.01,0.09,0,0.02,0.12,76,4,7.4,19,Big Ant Studios,E
-9795,Robinson: The Journey,PS4,2016,Action,Crytek,0.06,0.03,0,0.02,0.12,65,40,6.9,62,Crytek,
-9800,Rise of the Tomb Raider,PC,2016,Adventure,Square Enix,0,0.11,0,0.01,0.12,86,45,7.9,915,"Crystal Dynamics, Nixxes Software",M
-9804,Hatsune Miku: Project Diva X,Playstation-5,2016,Misc,Sega,0.01,0,0.1,0,0.12,83,5,8,22,Sega,T
-9807,Destiny: The Collection,XOne,2016,Shooter,Activision,0.05,0.06,0,0.01,0.12,NA,NA,tbd,NA,Bungie,T
-9815,Farming Simulator 17,XOne,2016,Simulation,Focus Home Interactive,0.04,0.07,0,0.01,0.12,65,9,tbd,NA,Giants Software,E
-9816,Dishonored 2,PC,2016,Action,Bethesda Softworks,0.04,0.07,0,0.01,0.12,86,37,6,383,Arkane Studios,M
-9854,Tony Hawk's Pro Skater 5,XOne,2015,Sports,Activision,0.09,0.02,0,0.01,0.12,39,18,2.1,132,Robomodo,T
-9858,Yakuza Kiwami,PS3,2016,Adventure,Sega,0,0,0.12,0,0.12,NA,NA,,NA,,
-9878,Major League Baseball 2K6,PSP,N/A,Sports,Unknown,0.11,0,0,0.01,0.12,69,5,tbd,NA,Visual Concepts,E
-9889,Tales of Berseria,PS3,2016,Role-Playing,Namco Bandai Games,0,0,0.12,0,0.12,NA,NA,,NA,,
-9924,Samurai Warriors 4-II,PS4,2015,Action,Tecmo Koei,0.03,0.02,0.06,0.01,0.12,73,26,7.3,24,Omega Force,T
-9957,FIFA 17,PC,2016,Sports,Electronic Arts,0,0.11,0,0.01,0.12,84,12,4.2,160,"EA Sports, EA Vancouver",E
-9972,Madden NFL 17,PS3,2016,Sports,Electronic Arts,0.07,0.02,0,0.02,0.12,NA,NA,0.2,5,EA Sports,E
-10017,Rugby 15,PS4,2015,Sports,Bigben Interactive,0.04,0.06,0,0.02,0.11,19,5,3.4,65,HB Studios Multimedia,E
-10031,Persona 5,PS3,2016,Role-Playing,Unknown,0,0,0.11,0,0.11,NA,NA,,NA,Atlus,
-10052,Star Trek: Conquest,PS2,N/A,Strategy,Bethesda Softworks,0.06,0.04,0,0.01,0.11,54,15,9.1,10,4J Studios,E
-10066,Samurai Warriors 4-II,PS3,2015,Action,Tecmo Koei,0,0,0.11,0,0.11,NA,NA,tbd,NA,Omega Force,T
-10115,Toukiden 2,Playstation-5,2016,Action,Tecmo Koei,0,0,0.11,0,0.11,NA,NA,,NA,,
-10150,LEGO Ninjago: Shadow of Ronin,Playstation-5,2015,Action,Warner Bros. Interactive Entertainment,0.01,0.08,0,0.02,0.11,70,5,tbd,NA,TT Fusion,E10+
-10157,Digimon Story: Cyber Sleuth,PS4,2016,Role-Playing,Namco Bandai Games,0,0.1,0,0.02,0.11,75,45,8.5,289,Media Vision,T
-10200,Valkyrie Drive: Bhikkhuni,Playstation-5,2015,Action,PQube,0,0.03,0.07,0.01,0.11,72,7,8.5,11,Marvelous Inc.,M
-10234,Yomawari,Playstation-5,2015,Adventure,Nippon Ichi Software,0.02,0.02,0.06,0.01,0.11,NA,NA,,NA,,
-10254,Wasteland 2,PS4,2015,Role-Playing,Deep Silver,0.08,0,0.02,0.02,0.11,NA,NA,,NA,,
-10256,Batman: Return to Arkham,XOne,2016,Action,Warner Bros. Interactive Entertainment,0.05,0.05,0,0.01,0.11,77,6,8.2,43,"Rocksteady Studios, Virtuos",T
-10299,NBA Live 16,XOne,2015,Sports,Electronic Arts,0.09,0.01,0,0.01,0.11,60,17,5.6,62,EA Sports,E
-10318,Zombie Army Trilogy,XOne,2015,Shooter,Rebellion Developments,0.05,0.05,0,0.01,0.11,62,10,7.2,40,Rebellion,
-10319,Happy Feet Two,PS3,N/A,Action,Warner Bros. Interactive Entertainment,0.09,0,0,0.01,0.11,NA,NA,,NA,,
-10328,God Eater 2: Rage Burst,PS4,2015,Role-Playing,Namco Bandai Games,0,0.01,0.09,0,0.11,69,35,8,79,Shift,T
-10345,Pro Evolution Soccer 2016,XOne,2015,Sports,Konami Digital Entertainment,0.04,0.06,0,0.01,0.11,85,14,6.2,144,Konami,E
-10405,Skylanders Imaginators,PS3,2016,Platform,Activision,0.02,0.07,0,0.02,0.11,NA,NA,tbd,NA,Toys for Bob,E10+
-10407,Fate/Extella: The Umbral Star,PS4,2016,Action,PQube,0,0,0.11,0,0.11,NA,NA,,NA,Marvelous Inc.,T
-10422,Taiko no Tatsujin: V Version,Playstation-5,2015,Action,Namco Bandai Games,0,0,0.1,0,0.1,NA,NA,,NA,,
-10454,Wasteland 2,PC,2015,Role-Playing,inXile Entertainment,0.03,0.06,0,0.01,0.1,81,65,7.3,1170,InXile Entertainment,M
-10517,Ride,XOne,2015,Racing,Milestone S.r.l.,0.04,0.05,0,0.01,0.1,54,9,5.3,17,Milestone S.r.l,E
-10529,The Sims 4: City Living,PC,2016,Simulation,Electronic Arts,0.02,0.08,0,0.01,0.1,77,10,5.7,30,Maxis,T
-10607,Resident Evil: Revelations 2,Playstation-5,2015,Action,Capcom,0,0.03,0.07,0.01,0.1,65,12,7.8,63,Frima Studio,M
-10622,Resident Evil: Revelations 2,XOne,2015,Action,Capcom,0.07,0.02,0,0.01,0.1,75,22,7.5,106,Capcom,M
-10645,Sword Art Online: Lost Song,PS3,2015,Role-Playing,Namco Bandai Games,0,0,0.1,0,0.1,NA,NA,,NA,,
-10690,NBA 2K16,PC,2015,Sports,Take-Two Interactive,0.03,0.06,0,0.01,0.1,NA,NA,5.7,65,2K Sports,E10+
-10726,Ultra Street Fighter IV,PS4,2015,Fighting,Capcom,0,0.08,0,0.01,0.1,71,28,5.9,94,Other Ocean Interactive,T
-10727,EVE: Valkyrie,PS4,2016,Shooter,CCP,0.03,0.05,0,0.02,0.1,73,26,6.3,37,CCP,T
-10730,The Crew: Wild Run,PS4,2015,Action,Ubisoft,0,0.08,0,0.01,0.1,73,13,6.8,50,Ivory Tower,T
-10782,Digimon World: Next Order,Playstation-5,2016,Action,Namco Bandai Games,0,0,0.1,0,0.1,NA,NA,,NA,B.B.Studio,
-10795,Gundam Breaker 3,PS4,2016,Action,Namco Bandai Games,0,0,0.1,0,0.1,NA,NA,,NA,,
-10804,Samurai Warriors 4: Empires,PS4,2015,Action,Tecmo Koei,0.02,0.01,0.06,0.01,0.1,71,29,6.5,15,Omega Force,T
-10823,Skylanders Imaginators,XOne,2016,Platform,Activision,0.05,0.04,0,0.01,0.1,78,14,6,8,Toys for Bob,E10+
-10827,One Piece: Burning Blood,Playstation-5,2016,Fighting,Namco Bandai Games,0,0.02,0.07,0,0.1,62,4,7.8,10,Spike Chunsoft,T
-10884,Ys VIII: Lacrimosa of Dana,Playstation-5,2016,Role-Playing,Nihon Falcom Corporation,0,0,0.09,0,0.09,NA,NA,,NA,,
-10889,Devil May Cry 4,PS4,2015,Action,Capcom,0.01,0,0.08,0,0.09,NA,NA,,NA,,
-10929,Minecraft: Story Mode,PC,2015,Adventure,Mojang,0.02,0.06,0,0.01,0.09,NA,NA,,NA,,
-10965,Football Manager 2017,PC,2016,Simulation,Sega,0,0.09,0,0.01,0.09,81,41,4.3,57,Sports Interactive,E
-10972,MXGP 2,PS4,2016,Racing,Milestone S.r.l.,0.02,0.05,0,0.01,0.09,NA,NA,,NA,,
-11002,Demon Chaos,PS2,N/A,Action,Konami Digital Entertainment,0,0,0.09,0,0.09,NA,NA,,NA,,
-11018,Samurai Shodown Anthology,PSP,N/A,Fighting,Ignition Entertainment,0.08,0,0,0.01,0.09,NA,NA,tbd,NA,SNK Playmore,T
-11067,Rugby 15,PS3,2015,Sports,Bigben Interactive,0.03,0.05,0,0.01,0.09,NA,NA,tbd,NA,HB Studios Multimedia,E
-11077,DriveClub VR,PS4,2016,Racing,Sony Computer Entertainment,0.03,0.05,0,0.01,0.09,67,34,7.4,110,Evolution Studios,E
-11094,Action Man-Operation Extreme,PS,N/A,Action,N/A,0.05,0.03,0,0.01,0.09,NA,NA,,NA,,
-11122,Fate/Extella: The Umbral Star,Playstation-5,2016,Action,PQube,0,0,0.09,0,0.09,NA,NA,,NA,Marvelous Inc.,T
-11131,Might & Magic Heroes VII,PC,2015,Strategy,Ubisoft,0,0.08,0,0,0.09,NA,NA,,NA,,
-11147,Wolfenstein: The Old Blood,PC,2015,Action,Bethesda Softworks,0,0.08,0,0,0.09,76,30,7.6,338,MachineGames,M
-11169,Sengoku Basara 4: Sumeragi,PS3,2015,Action,Capcom,0,0,0.09,0,0.09,NA,NA,,NA,,
-11202,Dead or Alive 5,XOne,2015,Fighting,Tecmo Koei,0.05,0.03,0.01,0.01,0.09,NA,NA,,NA,,
-11224,Rugby 15,XOne,2015,Sports,Bigben Interactive,0.03,0.05,0,0.01,0.09,20,4,3.1,30,HB Studios Multimedia,E
-11245,Assassin's Creed Chronicles,PS4,2016,Action,Ubisoft,0.01,0.05,0.01,0.01,0.09,NA,NA,6.1,12,Climax Studios,T
-11296,Toukiden 2,PS4,2016,Action,Tecmo Koei,0,0,0.08,0,0.08,NA,NA,,NA,Koei Tecmo Games,
-11303,BlazBlue Central Fiction,PS4,2016,Fighting,PQube,0.04,0,0.03,0.01,0.08,85,21,7.6,39,Arc System Works,T
-11371,God Eater Resurrection,PS4,2015,Action,Namco Bandai Games,0,0,0.08,0,0.08,70,18,7.8,44,"Shift, Bandai Namco Games",T
-11381,Shovel Knight,PS4,2015,Platform,Yacht Club Games,0.03,0.03,0,0.01,0.08,90,18,7.6,312,Yacht Club Games,E
-11393,Transformers: Devastation,PS3,2015,Action,Activision,0.03,0.04,0,0.01,0.08,NA,NA,7.1,17,PlatinumGames,T
-11399,Battleborn,PC,2016,Shooter,Take-Two Interactive,0.04,0.04,0,0.01,0.08,69,34,6.9,400,Gearbox Software,T
-11416,Guilty Gear Xrd -Revelator-,PS4,2016,Fighting,PQube,0.03,0,0.05,0.01,0.08,NA,NA,,NA,,
-11421,Mega Man Legacy Collection,PS4,2016,Platform,Capcom,0.07,0,0,0.02,0.08,77,22,6.1,55,Digital Eclipse,E
-11452,Titanfall 2,PC,2016,Shooter,Electronic Arts,0.03,0.04,0,0.01,0.08,85,27,8,488,Respawn Entertainment,M
-11514,Pro Cycling Manager 2016,PS4,2016,Sports,Focus Home Interactive,0,0.07,0,0.01,0.08,NA,NA,,NA,,
-11580,UEFA Euro 2016,PS3,2016,Sports,Konami Digital Entertainment,0,0.04,0.03,0.01,0.08,NA,NA,,NA,,
-11585,Resident Evil 6,PS4,2016,Shooter,Capcom,0.06,0,0,0.01,0.08,60,19,6.7,94,Capcom,M
-11587,Assassin's Creed: Rogue,PC,2015,Action,Ubisoft,0.05,0.02,0,0.01,0.08,74,25,7.5,362,Ubisoft,M
-11611,Song of the Deep,PS4,2016,Action,Insomniac Games,0.06,0,0,0.01,0.08,69,41,7.3,30,Insomniac Games,E
-11612,Dragon's Dogma Online,PS4,2015,Role-Playing,Capcom,0,0,0.08,0,0.08,NA,NA,,NA,,
-11628,Resident Evil Zero,XOne,2016,Action,Capcom,0.05,0.02,0,0.01,0.08,NA,NA,,NA,,
-11679,Valentino Rossi: The Game,PS4,2016,Racing,Namco Bandai Games,0.01,0.05,0,0.01,0.08,75,19,8,50,"Milestone, Milestone S.r.l",E
-11709,Yoru no Nai Kuni,PS4,2015,Role-Playing,Tecmo Koei,0,0,0.08,0,0.08,NA,NA,,NA,,
-11753,Yoru no Nai Kuni,Playstation-5,2015,Role-Playing,Tecmo Koei,0,0,0.08,0,0.08,NA,NA,,NA,,
-11763,Grand Ages: Medieval,PS4,2015,Strategy,Kalypso Media,0,0.05,0.02,0.01,0.07,64,10,7.1,12,Gaming Minds Studios,T
-11785,Divinity: Original Sin,XOne,2015,Role-Playing,Focus Home Interactive,0.04,0.03,0,0.01,0.07,NA,NA,,NA,,
-11841,Toy Soldiers: War Chest,PS4,2015,Action,Ubisoft,0.06,0,0,0.01,0.07,62,19,7.7,61,Krome Studios,
-11893,Dark Souls III,PC,2016,Role-Playing,Namco Bandai Games,0,0.07,0,0,0.07,89,56,8.6,1848,From Software,M
-11927,Port Royale 3,PS3,N/A,Simulation,Kalypso Media,0.06,0,0,0.01,0.07,NA,NA,8.9,9,Kalypso,T
-11956,Dead Island: Riptide,PC,N/A,Action,Deep Silver,0,0.07,0,0.01,0.07,61,35,6,441,Techland,M
-11960,Just Dance: Disney Party 2,XOne,2015,Action,Ubisoft,0.05,0.01,0,0.01,0.07,NA,NA,tbd,NA,Ubisoft,E
-11965,Grand Kingdom,PS4,2015,Role-Playing,Nippon Ichi Software,0.03,0,0.03,0.01,0.07,78,33,8.1,63,Spike Chunsoft,T
-12013,McFarlane's Evil Prophecy,PS2,N/A,Action,Konami Digital Entertainment,0.03,0.03,0,0.01,0.07,34,28,3.2,5,Konami,M
-12014,IA/VT Colorful,Playstation-5,2015,Misc,Marvelous Entertainment,0,0,0.07,0,0.07,NA,NA,,NA,,
-12076,Guilty Gear Xrd -Revelator-,PS3,2016,Fighting,PQube,0.02,0.02,0.03,0.01,0.07,NA,NA,,NA,,
-12119,Eagle Flight,PS4,2016,Adventure,Ubisoft,0.01,0.05,0,0.01,0.07,72,31,7.8,22,"Ubisoft, FunHouse",E10+
-12136,Legend of Kay,PS4,2015,Action,Nordic Games,0.02,0.03,0,0.01,0.07,NA,NA,,NA,,
-12139,The Book of Unwritten Tales 2,PS4,2015,Adventure,Nordic Games,0,0.06,0,0.01,0.07,63,9,8.6,7,KING Art,
-12158,Assassin's Creed Chronicles,Playstation-5,2016,Action,Ubisoft,0.01,0.04,0.01,0.01,0.07,70,6,8,24,Climax Studios,T
-12330,Darksiders II,XOne,2015,Action,Nordic Games,0.04,0.02,0,0.01,0.06,NA,NA,,NA,,
-12370,Mirror's Edge Catalyst,PC,2016,Platform,Electronic Arts,0.01,0.05,0,0,0.06,74,24,4.4,606,EA DICE,T
-12389,Odin Sphere: Leifthrasir,PS3,2016,Role-Playing,Nippon Ichi Software,0.02,0.01,0.03,0.01,0.06,NA,NA,7,29,Vanillaware,T
-12393,Assetto Corsa,PS4,2016,Racing,505 Games,0,0.05,0,0.01,0.06,73,35,6.2,70,Kunos Simulazioni,E
-12401,One Piece: Burning Blood,XOne,2016,Fighting,Namco Bandai Games,0.03,0.02,0,0.01,0.06,60,10,5.8,12,Spike Chunsoft,T
-12402,TrackMania Turbo,XOne,2016,Action,Ubisoft,0.02,0.04,0,0,0.06,76,12,7.7,27,Nadeo,E
-12432,Nights of Azure,PS4,2015,Action,Tecmo Koei,0.03,0.02,0,0.01,0.06,67,40,7.6,71,Gust,T
-12464,Grand Kingdom,Playstation-5,2015,Role-Playing,Nippon Ichi Software,0.01,0.01,0.04,0.01,0.06,76,11,8.8,33,Spike Chunsoft,T
-12465,Risen 3: Titan Lords,PS4,2015,Role-Playing,Deep Silver,0,0.05,0,0.01,0.06,NA,NA,,NA,,
-12493,The Technomancer,PS4,2016,Role-Playing,Focus Home Interactive,0.02,0.04,0,0.01,0.06,60,38,6.7,116,Spiders,M
-12524,Summon Night 6: Lost Borders,Playstation-5,2016,Action,Namco Bandai Games,0,0,0.06,0,0.06,NA,NA,,NA,Media Vision,
-12535,Genkai Tokki: Moero Crystal,Playstation-5,2015,Role-Playing,Compile Heart,0,0,0.06,0,0.06,NA,NA,,NA,,
-12536,Project Setsuna,PS4,2016,Role-Playing,Square Enix,0,0,0.06,0,0.06,NA,NA,,NA,,
-12539,Song of the Deep,XOne,2016,Action,Insomniac Games,0.05,0,0,0.01,0.06,66,12,6.9,20,Insomniac Games,E
-12593,Tony Hawk's Pro Skater 5,PS3,2015,Sports,Activision,0.05,0,0,0.01,0.06,NA,NA,3.1,12,Robomodo,T
-12637,MXGP 2,XOne,2016,Racing,Milestone S.r.l.,0.03,0.02,0,0.01,0.06,NA,NA,,NA,,
-12672,BlazBlue Central Fiction,PS3,2016,Fighting,PQube,0.02,0.02,0.02,0.01,0.06,NA,NA,tbd,NA,Arc System Works,T
-12678,Toy Soldiers: War Chest,XOne,2015,Action,Ubisoft,0.05,0,0,0.01,0.06,60,14,8.4,50,Krome Studios,
-12721,Street Fighter V,PC,2016,Fighting,Capcom,0,0.05,0,0,0.06,74,33,2.9,431,Capcom,T
-12724,Samurai Warriors 4: Empires,PS3,2015,Action,Tecmo Koei,0,0,0.06,0,0.06,NA,NA,tbd,NA,Omega Force,T
-12730,MX vs. ATV Supercross Encore,PS4,2015,Sports,Nordic Games,0,0.05,0,0.01,0.06,42,8,4.1,9,Rainbow Studios,E
-12758,Rugby World Cup 2015,PS4,2015,Sports,Ubisoft,0,0.05,0,0.01,0.06,25,6,1.9,39,HB Studios Multimedia,E
-12763,ZombiU,PS4,2016,Action,Ubisoft,0,0.04,0.01,0.01,0.06,NA,NA,,NA,,
-12768,Rugby World Cup 2015,PS3,2015,Sports,Ubisoft,0,0.05,0,0.01,0.06,NA,NA,tbd,NA,HB Studios Multimedia,E
-12795,Miracle Girls Festival,Playstation-5,2015,Misc,Sega,0,0,0.06,0,0.06,NA,NA,,NA,,
-12815,Caligula,Playstation-5,2016,Role-Playing,FuRyu,0,0,0.06,0,0.06,NA,NA,,NA,Aquria,
-12819,Handball 16,PS4,2015,Sports,Bigben Interactive,0,0.05,0,0.01,0.06,NA,NA,3,4,EKO Software,E
-12823,Samurai Warriors 4: Empires,Playstation-5,2015,Action,Tecmo Koei,0,0,0.06,0,0.06,NA,NA,tbd,NA,Omega Force,T
-12836,Rocket League,PC,2016,Sports,505 Games,0.01,0.04,0,0,0.06,86,20,8.2,580,Psyonix,E
-12856,Saki: Zenkoku-hen,Playstation-5,2015,Misc,Kaga Create,0,0,0.06,0,0.06,NA,NA,,NA,,
-12865,7 Days to Die,XOne,2016,Action,Telltale Games,0.03,0.02,0,0,0.05,35,17,5.2,74,The Fun Pimps Entertainment LLC,M
-12893,Hearts of Iron IV,PC,2016,Strategy,Paradox Interactive,0,0.05,0,0,0.05,83,36,6.9,306,Paradox Development Studio,
-12917,Samurai Warriors 4-II,Playstation-5,2015,Action,Tecmo Koei,0,0,0.05,0,0.05,NA,NA,tbd,NA,Omega Force,T
-12924,Uta no Prince-Sama: Music 3,Playstation-5,2016,Action,Broccoli,0,0,0.05,0,0.05,NA,NA,,NA,,
-12944,Project Setsuna,Playstation-5,2016,Role-Playing,Square Enix,0,0,0.05,0,0.05,NA,NA,,NA,,
-12946,MotoGP 15,PS3,2015,Racing,Milestone S.r.l.,0,0.02,0.03,0,0.05,NA,NA,tbd,NA,Milestone S.r.l,E10+
-12947,Criminal Girls 2,Playstation-5,2015,Role-Playing,Nippon Ichi Software,0.01,0.01,0.03,0.01,0.05,NA,NA,,NA,,
-12948,Omega Labyrinth,Playstation-5,2015,Role-Playing,D3Publisher,0,0,0.05,0,0.05,NA,NA,,NA,,
-12961,Mountain Bike Adrenaline,PS2,N/A,Sports,Unknown,0.03,0.02,0,0.01,0.05,NA,NA,tbd,NA,Fresh 3D,E
-12967,Mighty No. 9,PS4,2016,Platform,Deep Silver,0.04,0,0,0.01,0.05,52,64,3.5,282,Inti Creates,E10+
-12988,Arcania: Gothic 4,PS4,2015,Role-Playing,Nordic Games,0.04,0,0,0.01,0.05,NA,NA,,NA,,
-13011,F1 2015,PC,2015,Racing,Codemasters,0,0.05,0,0,0.05,61,13,3.6,63,Codemasters,E
-13013,Luminous Arc Infinity,Playstation-5,2015,Action,Marvel Entertainment,0,0,0.05,0,0.05,NA,NA,,NA,,
-13042,Killing Floor 2 ,PS4,2016,Shooter,Tripwire Interactive,0.03,0.01,0,0.01,0.05,76,39,8,57,Tripwire Interactive,M
-13049,Mortal Kombat X,PC,2015,Fighting,Warner Bros. Interactive Entertainment,0.01,0.04,0,0,0.05,76,10,5.1,475,High Voltage Software,M
-13055,To Heart 2: Dungeon Travelers,Playstation-5,2015,Adventure,Aqua Plus,0,0,0.05,0,0.05,NA,NA,,NA,,
-13056,Bladestorm: Nightmare,XOne,2015,Action,Tecmo Koei,0.03,0.02,0,0,0.05,48,6,7.1,8,Omega Force,T
-13069,Wasteland 2,XOne,2015,Role-Playing,Deep Silver,0.04,0.01,0,0.01,0.05,77,13,7.1,56,InXile Entertainment,M
-13117,R.B.I. Baseball 2016,XOne,2016,Sports,MLB.com,0.05,0,0,0.01,0.05,NA,NA,,NA,,
-13171,Ride,PS3,2015,Racing,Milestone S.r.l.,0,0.03,0.01,0.01,0.05,NA,NA,4.8,4,Milestone S.r.l,
-13181,Sengoku Basara 4: Sumeragi,PS4,2015,Action,Capcom,0,0,0.05,0,0.05,NA,NA,,NA,,
-13229,Hatsune Miku: Project Diva X,PS4,2016,Misc,Sega,0.02,0,0.02,0,0.05,78,22,7.4,41,Sega,T
-13234,Resident Evil 4 HD,PS4,2016,Shooter,Capcom,0.04,0,0,0.01,0.05,NA,NA,,NA,,
-13242,Grand Ages: Medieval,PC,2015,Strategy,Kalypso Media,0,0.05,0,0,0.05,63,11,5.4,52,Gaming Minds Studios,T
-13252,Saints Row: Gat out of Hell,PS4,2015,Action,Deep Silver,0,0.04,0,0.01,0.05,64,45,5.7,98,Volition Inc.,M
-13268,NASCAR Heat Evolution,PS4,2016,Racing,Dusenberry Martin Racing,0.04,0,0,0.01,0.05,66,8,3.8,18,Dusenberry Martin Racing,E
-13351,Tokyo Ghoul: Jail,Playstation-5,2015,Racing,Namco Bandai Games,0,0,0.05,0,0.05,NA,NA,,NA,,
-13386,Pro Evolution Soccer 2017,XOne,2016,Sports,Konami Digital Entertainment,0.01,0.03,0,0,0.05,87,12,6.1,84,Konami,E
-13391,Yoru no Nai Kuni,PS3,2015,Role-Playing,Tecmo Koei,0,0,0.05,0,0.05,NA,NA,,NA,,
-13415,XCOM 2,XOne,2016,Strategy,Take-Two Interactive,0.02,0.02,0,0,0.05,87,17,8.1,40,Firaxis Games,T
-13438,Just Dance 2017,PS3,2016,Misc,Ubisoft,0.01,0.03,0,0.01,0.05,NA,NA,tbd,NA,Ubisoft Paris,E10+
-13439,Ride 2,PS4,2016,Racing,Milestone S.r.l,0,0.04,0,0.01,0.05,71,19,8,12,Milestone S.r.l,E
-13466,Root Letter,Playstation-5,2016,Adventure,PQube,0,0.03,0.01,0.01,0.05,78,6,7.8,6,Kadokawa,M
-13479,Resident Evil 6,XOne,2016,Shooter,Capcom,0.04,0,0,0,0.05,63,12,6.3,34,Capcom,M
-13503,Sébastien Loeb Rally Evo,PS4,2016,Racing,Milestone S.r.l,0,0.04,0,0.01,0.04,71,28,8.1,73,Milestone S.r.l,E
-13537,Life is Strange,PC,2016,Adventure,Square Enix,0.01,0.04,0,0,0.04,83,15,8.6,1620,DONTNOD Entertainment,M
-13551,Battlezone,PS4,2016,Action,Rebellion Developments,0.02,0.02,0,0.01,0.04,66,39,7,31,Rebellion,T
-13561,Pro Evolution Soccer 2016,PC,2015,Sports,Konami Digital Entertainment,0,0.04,0,0,0.04,76,12,4.3,286,Konami,E
-13566,RollerCoaster Tycoon,PC,N/A,Strategy,Microprose,0.02,0.02,0,0.01,0.04,NA,NA,,NA,Chris Sawyer,E
-13611,Battle vs. Chess,PS3,N/A,Misc,TopWare Interactive,0,0.03,0,0.01,0.04,NA,NA,,NA,"Targem Games, TopWare Interactive",T
-13641,Saint Seiya: Soldiers' Soul,PS3,2015,Fighting,Namco Bandai Games,0,0,0.04,0,0.04,NA,NA,6.3,4,Dimps Corporation,T
-13645,Brothers: A Tale of Two Sons,XOne,2015,Adventure,505 Games,0.03,0.01,0,0,0.04,81,6,8.9,26,Starbreeze,T
-13646,NHL Legacy,PS3,2015,Action,Electronic Arts,0.03,0,0,0.01,0.04,NA,NA,,NA,,
-13674,Clockwork Empires,PC,N/A,Strategy,Unknown,0,0.04,0,0,0.04,58,7,3.8,5,Gaslamp Games,RP
-13713,B.L.U.E.: Legend of Water,PS,N/A,Adventure,N/A,0,0,0.04,0,0.04,NA,NA,,NA,,
-13717,Bullet Girls 2,Playstation-5,2016,Action,D3Publisher,0,0,0.04,0,0.04,NA,NA,,NA,,
-13731,Rugby Challenge 3,PS4,2016,Sports,Alternative Software,0,0.04,0,0.01,0.04,64,4,6.8,12,Wicked Witch Software,E
-13746,Stellaris,PC,2016,Strategy,Paradox Interactive,0,0.04,0,0,0.04,78,57,8,569,Paradox Development Studio,
-13783,GRID,PC,N/A,Racing,Codemasters,0,0.03,0,0.01,0.04,87,25,7.9,463,Codemasters,E
-13875,Dead Rising,PS4,2016,Action,Capcom,0.02,0,0.01,0.01,0.04,78,6,6.6,30,Capcom,M
-13893,The Sims 4: Spa Day,PC,2015,Simulation,Electronic Arts,0,0.04,0,0,0.04,NA,NA,7.6,26,Maxis,T
-13920,Gal Gun: Double Peace,Playstation-5,2015,Action,PQube,0,0.02,0.01,0.01,0.04,NA,NA,8.1,10,"Alchemist, Inti Creates",M
-13930,Don Bradman Cricket 14,XOne,2015,Sports,Tru Blu Entertainment,0,0.04,0,0,0.04,NA,NA,,NA,,
-13931,Sega Rally 2006,PS2,N/A,Racing,Unknown,0,0,0.04,0,0.04,NA,NA,,NA,,
-13943,LEGO Jurassic World,PC,2015,Action,Warner Bros. Interactive Entertainment,0,0.04,0,0,0.04,72,8,7.1,31,TT Games,E10+
-13960,Train Simulator 2016,PC,2015,Simulation,Unknown,0,0.04,0,0,0.04,NA,NA,4,8,Dovetail Games,E
-13984,NASCAR Heat Evolution,XOne,2016,Racing,Dusenberry Martin Racing,0.03,0,0,0,0.04,NA,NA,1.6,10,Dusenberry Martin Racing,E
-14013,Ray Gigant,Playstation-5,2015,Role-Playing,Namco Bandai Games,0,0,0.04,0,0.04,72,14,8.1,25,Bandai Namco Games,T
-14081,Transport Fever,PC,2016,Simulation,Astragon,0,0.03,0,0,0.04,70,11,7,28,Urban Games,
-14083,Homefront: The Revolution,PC,2016,Shooter,Deep Silver,0.01,0.02,0,0,0.04,54,48,3.5,284,Deep Silver Dambuster Studios,M
-14092,Just Dance 2017,XOne,2016,Misc,Ubisoft,0.03,0,0,0,0.04,75,5,8,6,Ubisoft Paris,E10+
-14094,Stranger of Sword City,Playstation-5,2015,Role-Playing,Nippon Ichi Software,0.02,0,0,0.01,0.04,71,24,8,30,Experience Inc.,T
-14108,Half-Minute Hero 2,PSP,N/A,Role-Playing,Rising Star Games,0,0,0.04,0,0.04,NA,NA,,NA,,
-14115,Macross ? Scramble,Playstation-5,2016,Action,Namco Bandai Games,0,0,0.04,0,0.04,NA,NA,,NA,,
-14144,Major League Baseball 2K8,PSP,N/A,Sports,Unknown,0.03,0,0,0,0.03,63,5,tbd,NA,Kush Games,E
-14153,Dead or Alive Xtreme 3: Venus,Playstation-5,2016,Sports,Tecmo Koei,0,0,0.03,0,0.03,NA,NA,,NA,,
-14155,Pro Cycling Manager 2016,PC,2016,Sports,Focus Home Interactive,0,0.03,0,0,0.03,64,6,4.8,5,Cyanide,
-14186,Diabolik Lovers: Dark Fate,Playstation-5,2015,Action,Idea Factory,0,0,0.03,0,0.03,NA,NA,,NA,,
-14264,Ukiyo no Shishi,PS3,2015,Action,Namco Bandai Games,0,0,0.03,0,0.03,NA,NA,,NA,,
-14297,Just Dance 2017,PS4,2016,Misc,Ubisoft,0.02,0,0,0.01,0.03,73,12,tbd,NA,Ubisoft Paris,E10+
-14304,Let's Sing 2016,PS4,2015,Action,FuRyu Corporation,0.03,0,0,0.01,0.03,NA,NA,tbd,NA,Voxler,T
-14307,Dragon's Dogma Online,PS3,2015,Role-Playing,Capcom,0,0,0.03,0,0.03,NA,NA,,NA,,
-14336,Rugby 15,Playstation-5,2015,Sports,Bigben Interactive,0,0.03,0,0.01,0.03,NA,NA,tbd,NA,HB Studios Multimedia,E
-14342,Deus Ex: Mankind Divided,PC,2016,Role-Playing,Square Enix,0,0.03,0,0,0.03,83,55,6.1,684,"Eidos Montreal, Nixxes Software",M
-14371,Summon Night 6: Lost Borders,PS4,2016,Action,Namco Bandai Games,0,0,0.03,0,0.03,NA,NA,,NA,Media Vision,
-14378,Song of the Deep,PC,2016,Action,Insomniac Games,0.03,0,0,0,0.03,73,12,6.3,15,Insomniac Games,E
-14388,Tokyo Xanadu eX+,PS4,2016,Role-Playing,Nihon Falcom Corporation,0,0,0.03,0,0.03,NA,NA,,NA,,
-14389,Airship Q,Playstation-5,2015,Platform,Cygames,0,0,0.03,0,0.03,NA,NA,,NA,,
-14403,DiRT Rally,PC,2016,Racing,Codemasters,0,0.03,0,0,0.03,86,33,8.7,288,Codemasters,E
-14407,Prison Architect,PS4,2016,Action,Introversion Software,0.01,0.01,0,0.01,0.03,80,18,8,19,"Introversion, Double Eleven",M
-14440,Alia's Carnival! Sacrament,Playstation-5,2015,Adventure,dramatic create,0,0,0.03,0,0.03,NA,NA,,NA,,
-14453,Bad Apple Wars,Playstation-5,2015,Action,Idea Factory,0,0,0.03,0,0.03,NA,NA,,NA,Otomate,
-14459,Renai Revenge,Playstation-5,2015,Adventure,TGL,0,0,0.03,0,0.03,NA,NA,,NA,,
-14477,Transformers: Devastation,PC,2015,Action,Activision,0,0.03,0,0,0.03,74,9,7.6,56,PlatinumGames,T
-14478,MotoGP 15,XOne,2015,Racing,Milestone S.r.l.,0,0.03,0,0,0.03,65,9,,NA,Milestone S.r.l,
-14486,Ebikore Photo Kano Kiss ,Playstation-5,2015,Action,Kadokawa Games,0,0,0.03,0,0.03,NA,NA,,NA,,
-14508,Ao no Kanata no Four Rhythm,Playstation-5,2016,Adventure,Unknown,0,0,0.03,0,0.03,NA,NA,,NA,,
-14512,Worms: WMD,PS4,2016,Action,Sold Out,0.01,0.02,0,0,0.03,78,23,7.6,19,Team 17,E10+
-14547,Looney Tunes: Galactic Sports,Playstation-5,2015,Action,Sony Computer Entertainment,0,0.02,0,0.01,0.03,NA,NA,tbd,NA,Virtual Toys,
-14597,Valentino Rossi: The Game,XOne,2016,Racing,Namco Bandai Games,0.01,0.02,0,0,0.03,74,5,8.1,7,Milestone S.r.l,E
-14627,Higurashi no Naku Koro ni Iki,Playstation-5,2015,Action,Kaga Create,0,0,0.03,0,0.03,NA,NA,,NA,,
-14638,Bladestorm: Nightmare,PS3,2015,Action,Tecmo Koei,0,0,0.03,0,0.03,NA,NA,7.4,5,Koei Tecmo Games,T
-14642,OZMAFIA!! -vivace-,Playstation-5,2015,Adventure,dramatic create,0,0,0.03,0,0.03,NA,NA,,NA,,
-14686,Handball 16,PS3,2015,Sports,Bigben Interactive,0,0.02,0,0,0.03,NA,NA,tbd,NA,EKO Software,E
-14692,Samurai Warriors: Sanada Maru,PS4,2016,Action,Tecmo Koei,0,0,0.03,0,0.03,NA,NA,,NA,Omega Force,
-14695,Genkai Tokki: Seven Pirates,Playstation-5,2016,Role-Playing,Compile Heart,0,0,0.03,0,0.03,NA,NA,,NA,,
-14697,Parfait,Playstation-5,2015,Adventure,TGL,0,0,0.03,0,0.03,NA,NA,,NA,,
-14703,Kenka Bancho Otome,Playstation-5,2016,Action,Screenlife,0,0,0.03,0,0.03,NA,NA,,NA,,
-14711,The Talos Principle,PS4,2015,Puzzle,Devolver Digital,0,0.02,0,0,0.03,88,31,8.4,124,Croteam,E10+
-14734,Harukanaru Toki no Naka de 6,Playstation-5,2015,Action,Tecmo Koei,0,0,0.03,0,0.03,NA,NA,,NA,,
-14740,Ride,PC,2015,Racing,Milestone S.r.l.,0,0.03,0,0,0.03,68,8,4.8,30,Milestone S.r.l,E
-14749,Battle vs. Chess,PC,N/A,Misc,TopWare Interactive,0,0.02,0,0,0.03,69,5,5.9,12,Targem Games,T
-14762,Bus Simulator 16,PC,2016,Simulation,Astragon,0,0.03,0,0,0.03,46,8,6.1,18,Still Alive Studios,
-14776,Loading Human,PS4,2016,Adventure,FuRyu Corporation,0.01,0.01,0,0,0.03,NA,NA,,NA,,
-14780,Kangokutou Mary Skelter,Playstation-5,2016,Role-Playing,Compile Heart,0,0,0.03,0,0.03,NA,NA,,NA,,
-14801,Yuusha Shisu.,Playstation-5,2016,Role-Playing,Nippon Ichi Software,0,0,0.03,0,0.03,NA,NA,,NA,,
-14805,Kisuato,Playstation-5,2015,Adventure,TGL,0,0,0.03,0,0.03,NA,NA,,NA,,
-14839,Dead Rising 2,PS4,2016,Action,Capcom,0.01,0,0.01,0,0.03,82,4,6.6,8,Blue Castle Games,M
-14854,Rugby Challenge 3,PS3,2016,Sports,Alternative Software,0,0.02,0,0,0.03,NA,NA,tbd,NA,Wicked Witch Software,
-14869,MX vs. ATV Supercross Encore,XOne,2015,Sports,Nordic Games,0.02,0,0,0,0.03,45,4,tbd,NA,Rainbow Studios,
-14873,The Technomancer,XOne,2016,Role-Playing,Focus Home Interactive,0.01,0.01,0,0,0.03,68,12,7.4,55,Spiders,M
-14874,Resident Evil 5 HD,PS4,2016,Action,Capcom,0.02,0,0,0.01,0.03,NA,NA,,NA,,
-14909,Sengoku Otome: Legend Battle,Playstation-5,2016,Action,Unknown,0,0,0.03,0,0.03,NA,NA,,NA,,
-14983,Legend of Kay Anniversary,PS4,2015,Action,Nordic Games,0,0.02,0,0,0.03,62,22,6.4,11,"Neon Studios, Kaiko",E10+
-15015,Blade Arcus from Shining EX,PS4,2015,Fighting,Sega,0,0,0.02,0,0.02,NA,NA,,NA,,
-15024,Assault Suit Leynos,PS4,2016,Shooter,Rising Star Games,0.02,0,0,0,0.02,67,8,tbd,NA,Dracue,E10+
-15043,Reco Love: Blue Ocean,Playstation-5,2016,Adventure,Kadokawa Games,0,0,0.02,0,0.02,NA,NA,,NA,,
-15082,Payout Poker & Casino,PSP,N/A,Misc,Unknown,0.02,0,0,0,0.02,NA,NA,,NA,,
-15088,Rugby League Live 3,PS4,2015,Action,Tru Blu Entertainment,0,0.02,0,0,0.02,NA,NA,7.6,7,Big Ant Studios,E
-15100,Winning Post 8 2015,Playstation-5,2015,Action,Tecmo Koei,0,0,0.02,0,0.02,NA,NA,,NA,,
-15104,La Corda d'Oro 4,Playstation-5,2016,Action,Tecmo Koei,0,0,0.02,0,0.02,NA,NA,,NA,,
-15118,Here They Lie,PS4,2016,Adventure,Sony Computer Entertainment,0,0.02,0,0,0.02,62,31,6.5,36,The Tangentlemen,M
-15140,Blade Arcus from Shining EX,PS3,2015,Fighting,Sega,0,0,0.02,0,0.02,NA,NA,,NA,,
-15146,Toukiden 2,PS3,2016,Action,Tecmo Koei,0,0,0.02,0,0.02,NA,NA,,NA,,
-15151,Resident Evil: Umbrella Corps,PS4,2016,Action,Capcom,0,0,0.02,0,0.02,NA,NA,,NA,,
-15178,Anima - Gate of Memories,PS4,2016,Action,Avanquest,0,0.02,0,0,0.02,52,13,7.9,34,"Edge Entertainment, Anima Project",T
-15230,Dino Dini's Kick Off Revival,PS4,2016,Sports,Avanquest,0,0.02,0,0,0.02,31,22,4.5,66,"The Digital Lounge, Dino Dini",
-15232,Winning Post 8 2015,PS3,2015,Action,Tecmo Koei,0,0,0.02,0,0.02,NA,NA,,NA,,
-15235,Ukiyo no Roushi,Playstation-5,2015,Action,Unknown,0,0,0.02,0,0.02,NA,NA,,NA,,
-15245,Rugby World Cup 2015,XOne,2015,Sports,Ubisoft,0,0.02,0,0,0.02,NA,NA,4.3,7,HB Studios Multimedia,E
-15249,Black Rose Valkyrie,PS4,2016,Role-Playing,Idea Factory,0,0,0.02,0,0.02,NA,NA,,NA,,
-15280,Diabolik Lovers: More Blood,Playstation-5,2015,Adventure,Idea Factory,0,0,0.02,0,0.02,NA,NA,,NA,,
-15309,Rose to Tasogare no Kojou,Playstation-5,2016,Action,Nippon Ichi Software,0,0,0.02,0,0.02,NA,NA,,NA,,
-15374,Resident Evil Zero,PC,2016,Action,Capcom,0.01,0.01,0,0,0.02,NA,NA,,NA,,
-15386,Paragon,PS4,2016,Action,Epic Games,0.02,0,0,0,0.02,NA,NA,6.1,96,Epic Games,
-15410,Pro Evolution Soccer 2017,PC,2016,Sports,Konami Digital Entertainment,0,0.02,0,0,0.02,69,9,3.7,137,Konami,E
-15421,Xblaze: Lost Memories,PS3,2015,Adventure,Arc System Works,0.02,0,0,0,0.02,63,4,6.2,5,Arc System Works,M
-15438,Net High,Playstation-5,2015,Adventure,Marvelous Games,0,0,0.02,0,0.02,NA,NA,,NA,,
-15459,Carmageddon: Max Damage,XOne,2016,Action,Stainless Games,0.01,0.01,0,0,0.02,52,15,7.1,12,Stainless Games,M
-15470,Resident Evil 4 HD,XOne,2016,Shooter,Capcom,0.02,0,0,0,0.02,NA,NA,,NA,,
-15486,RollerCoaster Tycoon World,PC,2016,Simulation,Atari,0,0.02,0,0,0.02,43,7,2.4,31,Nvizzio Creations,E
-15507,Angelique Retour,Playstation-5,2015,Action,Tecmo Koei,0,0,0.02,0,0.02,NA,NA,,NA,,
-15515,Dynasty Warriors 8: Empires,Playstation-5,2015,Action,Tecmo Koei,0,0,0.02,0,0.02,70,15,7.4,9,Omega Force,T
-15551,Otoko Yukaku,Playstation-5,2015,Action,D3Publisher,0,0,0.02,0,0.02,NA,NA,,NA,,
-15566,Resident Evil 5 HD,XOne,2016,Action,Capcom,0.02,0,0,0,0.02,NA,NA,,NA,,
-15583,Mighty No. 9,XOne,2016,Platform,Deep Silver,0.02,0,0,0,0.02,55,13,4.2,94,Inti Creates,E10+
-15602,Winning Post 8 2016,PS4,2016,Simulation,Tecmo Koei,0,0,0.02,0,0.02,NA,NA,,NA,,
-15621,The Crew: Wild Run,XOne,2015,Action,Ubisoft,0,0.02,0,0,0.02,65,5,6.6,21,Ivory Tower,T
-15630,Uppers,Playstation-5,2016,Action,Marvelous Entertainment,0,0,0.02,0,0.02,NA,NA,,NA,,
-15632,Lovely x Cation 1 & 2,Playstation-5,2015,Action,5pb,0,0,0.02,0,0.02,NA,NA,,NA,,
-15648,7 Roses: A Darkness Rises,PC,2015,Misc,Avanquest Software,0,0.02,0,0,0.02,NA,NA,,NA,,
-15663,The Crew: Wild Run,PC,2015,Action,Ubisoft,0,0.02,0,0,0.02,74,6,7.4,41,Ivory Tower,T
-15678,Cabela's Alaskan Adventure,PS2,N/A,Sports,Unknown,0.01,0.01,0,0,0.02,NA,NA,,NA,,
-15729,Prince of Stride,Playstation-5,2015,Adventure,Kadokawa Games,0,0,0.02,0,0.02,NA,NA,,NA,,
-15737,Prototype: Biohazard Bundle,PS4,2016,Action,Activision,0.01,0,0,0,0.02,48,4,2,53,Radical Entertainment,M
-15753,Back to the Future: The Game,XOne,2015,Adventure,Telltale Games,0,0.02,0,0,0.02,NA,NA,7.3,7,Telltale Games,T
-15757,Virtua Quest,PS2,N/A,Role-Playing,Unknown,0.01,0.01,0,0,0.02,53,17,7.6,5,Artificial Mind and Movement,T
-15785,Taishou Moebius Line Vitable,Playstation-5,2016,Adventure,dramatic create,0,0,0.02,0,0.02,NA,NA,,NA,,
-15793,This War of Mine,PS4,2016,Action,Deep Silver,0,0.01,0,0,0.02,NA,NA,,NA,,
-15797,Abunai: Koi no Sousa Shitsu,Playstation-5,2015,Action,Asgard,0,0,0.02,0,0.02,NA,NA,,NA,,
-15817,Koihime Enbu,PS4,2016,Fighting,Yeti,0,0,0.02,0,0.02,NA,NA,,NA,,
-15826,Dynasty Warriors: Eiketsuden,PS4,2016,Action,Tecmo Koei,0,0,0.02,0,0.02,NA,NA,,NA,,
-15828,MuvLuv Double Pack,Playstation-5,2016,Adventure,5pb,0,0,0.02,0,0.02,NA,NA,,NA,,
-15842,Mark McMorris Infinite Air,PS4,2016,Sports,FuRyu Corporation,0.01,0,0,0,0.02,49,15,6,29,HB Studios Multimedia,T
-15843,Shin Hayarigami 2,Playstation-5,2016,Adventure,Nippon Ichi Software,0,0,0.02,0,0.02,NA,NA,,NA,,
-15847,Root Infinity Rexx,Playstation-5,2015,Adventure,Idea Factory,0,0,0.02,0,0.02,NA,NA,,NA,,
-15861,Kaleidoeve,Playstation-5,2015,Adventure,HuneX,0,0,0.02,0,0.02,NA,NA,,NA,,
-15879,Storm Lover 2nd V,Playstation-5,2016,Adventure,D3Publisher,0,0,0.02,0,0.02,NA,NA,,NA,,
-15880,Reine des Fleurs,Playstation-5,2015,Action,Idea Factory,0,0,0.02,0,0.02,NA,NA,,NA,,
-15894,Rugby League Live 3,PS3,2015,Action,Tru Blu Entertainment,0,0.01,0,0,0.02,NA,NA,tbd,NA,Big Ant Studios,
-15924,Collar x Malice,Playstation-5,2016,Action,Idea Factory,0,0,0.02,0,0.02,NA,NA,,NA,Otomate,
-15946,Professional Farmer 2016,PS4,2015,Action,Namco Bandai Games,0,0.01,0,0,0.02,NA,NA,,NA,,
-15973,I Doll U,Playstation-5,2015,Adventure,Idea Factory,0,0,0.02,0,0.02,NA,NA,,NA,,
-15993,Wand of Fortune R,Playstation-5,2016,Adventure,Idea Factory,0,0,0.02,0,0.02,NA,NA,,NA,,
-15994,Rugby World Cup 2015,Playstation-5,2015,Sports,Ubisoft,0,0.01,0,0,0.02,NA,NA,tbd,NA,HB Studios Multimedia,E
-15999,Harukanaru Toki no Naka de 6,PSP,2015,Action,Tecmo Koei,0,0,0.02,0,0.02,NA,NA,,NA,,
-16016,Dead Rising 2,XOne,2016,Action,Capcom,0.01,0,0,0,0.02,NA,NA,tbd,NA,Blue Castle Games,M
-16018,Mark McMorris Infinite Air,XOne,2016,Sports,FuRyu Corporation,0.01,0,0,0,0.02,NA,NA,7.1,18,HB Studios Multimedia,T
-16028,Quantum Break,PC,2016,Action,Microsoft Game Studios,0,0.01,0,0,0.02,66,14,4.3,539,Remedy Entertainment,M
-16069,Assetto Corsa,XOne,2016,Racing,505 Games,0,0.01,0,0,0.02,63,9,6.7,27,Kunos Simulazioni,E
-16103,SpongeBob: HeroPants,Playstation-5,2015,Platform,Activision,0.01,0,0,0,0.01,NA,NA,5.1,7,Activision,E
-16113,Valentino Rossi: The Game,PC,2016,Racing,Namco Bandai Games,0,0.01,0,0,0.01,72,4,6.2,14,"Milestone, Milestone S.r.l",E
-16116,Republique,PS4,2016,Action,Nippon Ichi Software,0,0.01,0.01,0,0.01,72,35,5.8,29,"Camouflaj, LLC",M
-16123,NBA 2K17,PC,2016,Sports,Take-Two Interactive,0,0.01,0,0,0.01,90,6,6.3,52,Visual Concepts,E
-16138,Super Stardust Ultra VR,PS4,2016,Shooter,Sony Computer Entertainment,0,0.01,0,0,0.01,66,13,6.2,13,Sony Interactive Entertainment,E10+
-16143,Dead Rising,XOne,2016,Action,Capcom,0.01,0,0,0,0.01,NA,NA,8.8,12,Capcom,M
-16145,MLB 15: The Show,Playstation-5,2015,Sports,Sony Computer Entertainment,0.01,0,0,0,0.01,NA,NA,8.8,5,SCEA San Diego Studios,E
-16161,Raven's Cry,PS4,2015,Role-Playing,TopWare Interactive,0,0.01,0,0,0.01,NA,NA,,NA,,
-16171,War for the Overworld,PC,2015,Strategy,Unknown,0,0.01,0,0,0.01,65,14,7.7,90,Subterranean Games,
-16187,Higurashi no Naku Koro ni Iki,PS3,2015,Action,Kaga Create,0,0,0.01,0,0.01,NA,NA,,NA,,
-16204,The Technomancer,PC,2016,Role-Playing,Focus Home Interactive,0,0.01,0,0,0.01,56,34,6.8,149,"Spidersoft, Spiders",M
-16215,Norn + Nonette: Last Era,Playstation-5,2015,Action,Idea Factory,0,0,0.01,0,0.01,NA,NA,,NA,,
-16218,Hitotsu Tobashi Renai V,Playstation-5,2015,Adventure,Kaga Create,0,0,0.01,0,0.01,NA,NA,,NA,,
-16222,Fuuraiki 3,Playstation-5,2015,Action,Unknown,0,0,0.01,0,0.01,NA,NA,,NA,,
-16242,Fernbus Simulator,PC,2016,Simulation,Aerosoft,0,0.01,0,0,0.01,NA,NA,tbd,NA,TML-Studios,
-16245,NHL 16,PS3,2015,Sports,Electronic Arts,0,0.01,0,0,0.01,NA,NA,,NA,,
-16268,Worms: WMD,XOne,2016,Action,Sold Out,0.01,0,0,0,0.01,75,24,8.1,7,Team 17,E10+
-16274,Hyakka Yakou,Playstation-5,2015,Action,Unknown,0,0,0.01,0,0.01,NA,NA,,NA,,
-16318,Prototype: Biohazard Bundle,XOne,2016,Action,Activision,0.01,0,0,0,0.01,56,4,3.1,14,Radical Entertainment,M
-16327,Samurai Warriors: Sanada Maru,Playstation-5,2016,Action,Tecmo Koei,0,0,0.01,0,0.01,NA,NA,,NA,,
-16334,MXGP 2,PC,2016,Racing,Milestone S.r.l.,0,0.01,0,0,0.01,NA,NA,,NA,,
-16340,Dance with Devils,Playstation-5,2016,Action,N/A,0,0,0.01,0,0.01,NA,NA,,NA,,
-16341,Battle Worlds: Kronos,PC,2016,Strategy,Nordic Games,0,0.01,0,0,0.01,71,15,7.1,71,KING Art,
-16350,Lumo,Playstation-5,2016,Puzzle,Rising Star Games,0,0.01,0,0,0.01,NA,NA,tbd,NA,Triple Eh? Ltd,E10+
-16352,Agarest Senki: Re-appearance,PS3,N/A,Role-Playing,Idea Factory,0,0,0.01,0,0.01,NA,NA,,NA,,
-16366,Crows: Burning Edge,PS4,2016,Action,Namco Bandai Games,0,0,0.01,0,0.01,NA,NA,,NA,,
-16369,Kurogane Kaikitan,Playstation-5,2015,Adventure,Minato Station,0,0,0.01,0,0.01,NA,NA,,NA,,
-16392,Durarara!! Relay,Playstation-5,2015,Action,Kadokawa Games,0,0,0.01,0,0.01,NA,NA,,NA,,
-16397,Goat Simulator,XOne,2016,Simulation,Koch Media,0,0.01,0,0,0.01,53,15,6.3,63,Coffee Stain Studios,T
-16408,Dynasty Warriors: Eiketsuden,Playstation-5,2016,Action,Tecmo Koei,0,0,0.01,0,0.01,NA,NA,,NA,,
-16428,Cities: Skylines Snowfall,PC,2016,Simulation,Paradox Development,0,0.01,0,0,0.01,72,16,7.1,20,Colossal Order,
-16433,R.B.I. Baseball 2016,PS4,2016,Sports,MLB.com,0.01,0,0,0,0.01,NA,NA,,NA,,
-16438,Kamigami no Asobi InFinite,Playstation-5,2016,Adventure,Broccoli,0,0,0.01,0,0.01,NA,NA,,NA,,
-16453,Inversion,PC,N/A,Shooter,Namco Bandai Games,0.01,0,0,0,0.01,59,6,6.7,107,Saber Interactive,M
-16458,Act of Aggression,PC,2015,Strategy,Focus Home Interactive,0,0.01,0,0,0.01,71,37,7.1,93,Eugen Systems,
-16461,Fallout Anthology,PC,2015,Action,Bethesda Softworks,0,0.01,0,0,0.01,NA,NA,8.3,12,Various,
-16463,Hakuouki: Shinsengumi Kitan,PS3,N/A,Adventure,Unknown,0.01,0,0,0,0.01,NA,NA,,NA,,
-16468,TrackMania Turbo,PC,2016,Action,Ubisoft,0,0.01,0,0,0.01,79,13,6.8,42,Nadeo,E
-16491,Super Dungeon Bros,PS4,2016,Action,Nordic Games,0.01,0,0,0,0.01,42,9,2.3,7,React Games,E10+
-16505,Root Letter,PS4,2016,Adventure,PQube,0,0,0.01,0,0.01,69,13,7.5,11,Kadokawa,
-16508,Shin Hayarigami 2,PS4,2016,Adventure,Nippon Ichi Software,0,0,0.01,0,0.01,NA,NA,,NA,,
-16513,Ride 2,XOne,2016,Racing,Milestone S.r.l,0,0.01,0,0,0.01,NA,NA,8.2,6,Milestone S.r.l,E
-16514,Ride 2,PC,2016,Racing,Milestone S.r.l,0,0.01,0,0,0.01,78,4,7.9,14,Milestone S.r.l,E
-16523,Rugby World Cup 2015,PC,2015,Sports,Ubisoft,0,0.01,0,0,0.01,NA,NA,1.4,8,HB Studios Multimedia,E
-16531,Dungeons 2,PS4,2016,Role-Playing,Kalypso Media,0.01,0,0,0,0.01,61,9,7.9,14,Kalypso,T
-16535,Carmageddon: Max Damage,PS4,2016,Action,Stainless Games,0.01,0,0,0,0.01,51,28,5.5,39,Stainless Games,M
-16538,Rugby League Live 3,XOne,2015,Action,Tru Blu Entertainment,0,0.01,0,0,0.01,NA,NA,7.1,10,Big Ant Studios,E
-16549,Assassin's Creed Chronicles,XOne,2016,Action,Ubisoft,0,0.01,0,0,0.01,NA,NA,6.8,8,Climax Studios,T
-16588,Taishou x Alice: All in One,Playstation-5,2016,Adventure,Prototype,0,0,0.01,0,0.01,NA,NA,,NA,,
-16590,Farming 2017 - The Simulation,PS4,2016,Simulation,UIG Entertainment,0,0.01,0,0,0.01,NA,NA,,NA,,
-16602,Saints Row: Gat out of Hell,XOne,2015,Action,Deep Silver,0,0.01,0,0,0.01,65,16,6,27,Volition Inc.,M
-16623,Xblaze: Lost Memories,Playstation-5,2015,Adventure,Arc System Works,0.01,0,0,0,0.01,NA,NA,7,8,Arc System Works,M
-16628,Norn + Nonette: Act Tune,Playstation-5,2016,Action,Idea Factory,0,0,0.01,0,0.01,NA,NA,,NA,,
-16635,Sébastien Loeb Rally Evo,XOne,2016,Racing,Milestone S.r.l,0,0.01,0,0,0.01,63,8,8.2,22,Milestone S.r.l,E
-16648,Rugby Challenge 3,XOne,2016,Sports,Alternative Software,0,0.01,0,0,0.01,NA,NA,6.6,5,Wicked Witch Software,E
-16649,Eve: Burst Error R,Playstation-5,2016,Action,Red Flagship,0,0,0.01,0,0.01,NA,NA,,NA,,
-16650,ZombiU,XOne,2016,Action,Ubisoft,0,0.01,0,0,0.01,NA,NA,,NA,,
-16665,Prison Architect,XOne,2016,Action,Introversion Software,0.01,0,0,0,0.01,74,13,6.7,7,"Introversion, Double Eleven",
-16685,Kyoukai no Shirayuki,Playstation-5,2016,Action,Idea Factory,0,0,0.01,0,0.01,NA,NA,,NA,,
-16689,7'scarlet,Playstation-5,2016,Adventure,Idea Factory,0,0,0.01,0,0.01,NA,NA,,NA,,
-16696,Dynasty Warriors: Eiketsuden,PS3,2016,Action,Tecmo Koei,0,0,0.01,0,0.01,NA,NA,,NA,,
-16704,The Longest 5 Minutes,Playstation-5,2016,Action,Nippon Ichi Software,0,0,0.01,0,0.01,NA,NA,,NA,,
-16708,Strawberry Nauts,Playstation-5,2016,Adventure,Unknown,0,0,0.01,0,0.01,NA,NA,,NA,,
-16715,Samurai Warriors: Sanada Maru,PS3,2016,Action,Tecmo Koei,0,0,0.01,0,0.01,NA,NA,,NA,,
-16717,Haitaka no Psychedelica,Playstation-5,2016,Adventure,Idea Factory,0,0,0.01,0,0.01,NA,NA,,NA,,
-16719,Winning Post 8 2016,Playstation-5,2016,Simulation,Tecmo Koei,0,0,0.01,0,0.01,NA,NA,,NA,,
+id,Name
+1,Grand Theft Auto V
+2,Call of Duty: Black Ops 3
+3,Red Dead Redemption 2
+4,Call of Duty: WWII
+5,FIFA 18
+6,FIFA 17
+7,Uncharted (PS4)
+8,Spider-Man (PS4)
+9,Call of Duty: Infinite Warfare
+10,Fallout 4
+11,FIFA 16
+12,Star Wars Battlefront 2015
+13,Call of Duty: Advanced Warfare
+14,Battlefield 1
+15,The Last of Us
+16,MineCraft
+17,FIFA 15
+18,God of War (PS4)
+19,Horizon: Zero Dawn
+20,Destiny
+21,Uncharted: The Nathan Drake Collection
+22,The Witcher 3: Wild Hunt
+23,Final Fantasy XV
+24,Crash Bandicoot N. Sane Trilogy
+25,Monster Hunter: World
+26,Overwatch
+27,Star Wars Battlefront II (2017)
+28,Tom Clancy's The Division
+29,Tom Clancy's Rainbow Six: Siege
+30,Watch Dogs
+31,Call of Duty: Ghosts
+32,Assassin's Creed: Unity
+33,Destiny 2
+34,Batman: Arkham Knight
+35,Assassin's Creed Origins
+36,Far Cry 4
+37,NBA 2K16
+38,Far Cry 5
+39,Battlefield 4
+40,Gran Turismo Sport
+41,Assassin's Creed Syndicate
+42,NBA 2K17
+43,Mortal Kombat X
+44,FIFA Soccer 14
+45,The Elder Scrolls V: Skyrim
+46,Watch Dogs 2
+47,NBA 2K18
+48,Resident Evil VII: Biohazard
+49,Madden NFL 16
+50,Madden NFL 17
+51,Middle-Earth: Shadow of Mordor
+52,Assassin's Creed IV: Black Flag
+53,Tom Clancy's Ghost Recon Wildlands
+54,Bloodborne
+55,Metal Gear Solid V: The Phantom Pain
+56,Killzone: Shadow Fall
+57,inFAMOUS: Second Son
+58,Doom (2016)
+59,Mafia III
+60,Diablo III
+61,Far Cry: Primal
+62,Need for Speed (2015)
+63,Madden NFL 18
+64,NBA 2K15
+65,Dying Light
+66,Dark Souls III
+67,Ratchet & Clank (2016)
+68,DriveClub
+69,Uncharted: The Lost Legacy
+70,Dragon Age III: Inquisition
+71,No Man's Sky
+72,Madden NFL 15
+73,Need for Speed: Payback
+74,Destiny: The Taken King
+75,Need for Speed Rivals
+76,PlayStation VR Worlds
+77,Battlefield: Hardline
+78,Rise of the Tomb Raider
+79,LittleBigPlanet 3
+80,The Elder Scrolls Online
+81,Middle-Earth: Shadow of War
+82,Dragon Quest XI
+83,Rocket League
+84,Just Cause 3
+85,Dishonored 2
+86,Lego Marvel Super Heroes
+87,Until Dawn
+88,Knack
+89,The Evil Within
+90,The Crew
+91,Kingdom Hearts 1.5 + 2.5 Remix
+92,For Honor
+93,Titanfall 2
+94,Injustice 2
+95,NieR Automata
+96,Tekken 7
+97,Persona 5
+98,The Order: 1886
+99,Wolfenstein: The New Order
+100,Detroit: Become Human
+101,Naruto Shippuden: Ultimate Ninja Storm 4
+102,NBA 2K14
+103,Tomb Raider (2013)
+104,Dragon Ball: Xenoverse 2
+105,Rayman Legends
+106,Mass Effect: Andromeda
+107,Dragon Ball Fighter Z
+108,South Park: The Fractured But Whole
+109,The Sims 4
+110,Street Fighter V
+111,Wolfenstein II: The New Colossus
+112,WWE 2K18
+113,Lego Star Wars: The Force Awakens
+114,EA Sports UFC 2
+115,The Last Guardian
+116,WWE 2K16
+117,Borderlands: The Handsome Collection
+118,Project CARS
+119,WWE 2K17
+120,Guitar Hero Live
+121,Metal Gear Solid: Ground Zeroes
+122,Mad Max (2013)
+123,Shadow of the Colossus
+124,Kingdom Hearts HD 2.8 Final Chapter Prologue
+125,Dragon Ball: XenoVerse
+126,LEGO Dimensions
+127,LEGO Jurassic World
+128,WWE 2K15
+129,MLB The Show 17
+130,LEGO Worlds
+131,The Elder Scrolls V: Skyrim PSVR
+132,LEGO Marvel Super Heroes 2
+133,EA Sports UFC
+134,Final Fantasy XII: The Zodiac Age
+135,Alien: Isolation
+136,MLB The Show 18
+137,The Evil Within II
+138,Prey (2017)
+139,Final Fantasy Type-0
+140,Ni-Oh
+141,MLB 15: The Show
+142,Steep
+143,LEGO Marvel's Avengers
+144,Evolve
+145,Injustice: Gods Among Us
+146,EA Sports UFC 3
+147,Madden NFL 25
+148,MLB 16: The Show
+149,Lego Batman 3: Beyond Gotham
+150,Final Fantasy X/X-2 HD Remaster
+151,Ni no Kuni II: Revenant Kingdom
+152,God of War III
+153,Fortnite
+154,LEGO Harry Potter Collection
+155,Minecraft: Story Mode
+156,BioShock The Collection
+157,Thief 4
+158,Until Dawn: Rush of Blood
+159,Disney Infinity 3.0
+160,Farming Simulator 17
+161,The Crew 2
+162,Pro Evolution Soccer 2016
+163,ARK: Survival Evolved
+164,Dragon Quest Heroes: The World's Tree Woe and the Blight Below
+165,Assassin's Creed The Ezio Collection
+166,Final Fantasy XIV: A Realm Reborn
+167,Destiny: The Collection
+168,F1 2016 (Codemasters)
+169,Hitman (2016)
+170,Pro Evolution Soccer 2015
+171,LEGO City Undercover
+172,Pro Evolution Soccer 2018
+173,Disney Infinity 2.0: Marvel Super Heroes
+174,Pro Evolution Soccer 2017
+175,Sniper Elite 3
+176,MLB 14 The Show
+177,WipEout Omega Collection
+178,Deus Ex: Mankind Divided
+179,The LEGO Movie Videogame
+180,Marvel vs. Capcom: Infinite
+181,Dark Souls II
+182,Yakuza 6
+183,F1 2015
+184,METRO 2033
+185,Rocksmith 2014
+186,NHL 16
+187,Plants vs Zombies: Garden Warfare
+188,Tales of Berseria
+189,Yakuza Zero: The Place of Oath
+190,One Piece: Burning Blood
+191,Batman: Return to Arkham
+192,Plants vs. Zombies: Garden Warfare 2
+193,LEGO The Hobbit
+194,World of Final Fantasy
+195,F1 2017
+196,NHL 15
+197,Knowledge is Power
+198,L.A. Noire
+199,Hidden Agenda
+200,Call of Duty: Modern Warfare Remastered
+201,Dragon Quest Builders: Revive Alefgard
+202,The Lego Ninjago Movie Videogame
+203,Resident Evil: Revelations 2
+204,Rock Band 4
+205,NHL 18
+206,Everybody's Golf
+207,The Amazing Spider-Man 2 (2014)
+208,DOOM VFR
+209,Sonic Forces
+210,Kingdom Come: Deliverance
+211,Lords of the Fallen
+212,Sniper Elite 4
+213,Rory McIlroy PGA Tour
+214,Project CARS 2
+215,Skylanders: Trap Team
+216,NHL 17
+217,One Piece: Pirate Warriors 3
+218,DiRT Rally
+219,Homefront: The Revolution
+220,Attack on Titan (KOEI)
+221,DiRT 4
+222,Farpoint
+223,Battleborn
+224,A Way Out
+225,Friday the 13th: The Game
+226,The Walking Dead: A Telltale Games Series
+227,Wolfenstein: The Old Blood
+228,Deadpool
+229,Dragon Quest Heroes II: Twin Kings and the Prophecy's End
+230,TrackMania Turbo
+231,Knack 2
+232,Just Dance 2014
+233,Dissidia Final Fantasy NT
+234,Skylanders: SuperChargers
+235,Yakuza Kiwami
+236,Tales of Zestiria
+237,Star Ocean 5: Integrity and Faithlessness
+238,Sleeping Dogs
+239,Skylanders SWAP Force
+240,Skylanders Imaginators
+241,Trials Fusion
+242,Saints Row IV
+243,Dishonored
+244,Mirror's Edge 2
+245,Farming Simulator 2015
+246,Just Dance 2015
+247,Sword Art Online: Hollow Realization
+248,Just Dance 2016
+249,Batman: Arkham VR
+250,Little Nightmares
+251,Tropico 5
+252,Life is Strange
+253,Resident Evil Zero
+254,Yakuza Kiwami 2
+255,Vampyr
+256,Okami
+257,Sniper: Ghost Warrior 3
+258,Hokuto ga Gotoku
+259,Sword Art Online: Lost Song
+260,Disgaea 5: Alliance of Vengeance
+261,Dead or Alive 5
+262,Gravity Rush 2
+263,Odin Sphere: Leifthrasir
+264,Divinity: Original Sin
+265,The King of Fighters XIV
+266,Dishonored: Death of the Outsider
+267,Valkyria Chronicles
+268,Murdered: Soul Suspect
+269,Payday 2
+270,UEFA Euro 2016
+271,DmC: Devil May Cry
+272,Sonic Mania
+273,J Stars Victory Vs.
+274,XCOM 2
+275,Dynasty Warriors 8: Xtreme Legends
+276,Cities: Skylines
+277,Saint Seiya: Soldiers' Soul
+278,Just Dance 2018
+279,The Walking Dead: Season Two
+280,Sword Art Online: Fatal Bullet
+281,Naruto to Boruto: Shinobi Striker
+282,Yooka-Laylee
+283,Cars 3: Driven to Win
+284,Metal Gear Solid V: The Definitive Experience
+285,Sherlock Holmes: Crimes & Punishments
+286,Star Trek Bridge Crew VR
+287,The Heavy Rain and Beyond: Two Souls Collection
+288,Spintires: MudRunner
+289,Onechanbara Z2: Chaos
+290,Secret of Mana
+291,Gundam Versus
+292,NBA Live 14
+293,Bravo Team VR
+294,Killing Floor 2�
+295,Robinson: The Journey
+296,DriveClub VR
+297,Fate/Extella: The Umbral Star
+298,Ultimate Marvel vs. Capcom 3
+299,New Danganronpa V3: Minna no Koroshiai Shin Gakki
+300,Samurai Warriors 4
+301,Darksiders III
+302,NBA Live 15
+303,NBA Live 18
+304,Tearaway Unfolded
+305,.hack//G.U. Last Recode
+306,Ride
+307,Just Dance 2017
+308,The Escapists 2
+309,Transformers: Devastation
+310,Darksiders II
+311,Jikkyou Powerful Pro Baseball 2016
+312,The Elder Scrolls Online: Morrowind
+313,Digimon World: Next Order
+314,theHunter: Call of the Wild
+315,Tony Hawk's Pro Skater 5
+316,Angry Birds: Star Wars
+317,Elex
+318,RIGS: Mechanized Combat League
+319,Transformer: Rise of the Dark Spark
+320,Dead Island Definitive Collection
+321,Metal Gear Survive
+322,Singstar Celebration
+323,Dead by Daylight
+324,Attack on Titan 2
+325,The Wolf Among Us
+326,Micro Machines: World Series
+327,Bladestorm: Nightmare
+328,Zombie Army Trilogy
+329,Outlast Trinity
+330,EVE: Valkyrie
+331,Senran Kagura: Peach Beach Splash
+332,Ys VIII: Lacrimosa of Dana
+333,Bound By Flame
+334,NBA Live 16
+335,7 Days to Die
+336,Dynasty Warriors 8: Empires
+337,Dragon's Dogma
+338,Godzilla (2015)
+339,Eagle Flight
+340,Agents of Mayhem
+341,MotoGP 14�
+342,Elite: Dangerous
+343,Singstar: Ultimate Party
+344,Toukiden Kiwami
+345,Batman: A Telltale Game Series
+346,The Surge
+347,MotoGP 15
+348,Resident Evil: Revelations
+349,Senran Kagura: Estival Versus
+350,Back to the Future: The Game
+351,The Walking Dead - The Telltale Series: A New Frontier
+352,Resident Evil 6
+353,Final Fantasy XIV: Heavensward
+354,Final Fantasy XIV: Stormblood
+355,Guilty Gear Xrd: Sign
+356,Prototype: Biohazard Bundle
+357,BlazBlue Central Fiction
+358,MXGP 3: The Official Motocross Videogame
+359,Ride 2
+360,Dead Rising 4
+361,Putty Squad
+362,Digimon Story: Cyber Sleuth - Hacker's Memory
+363,Battlezone
+364,Naruto Shippuden: Ultimate Ninja Storm Legacy
+365,Berserk and the Band of the Hawk
+366,BlazBlue: Chrono Phantasma Extend
+367,Pillars of Eternity
+368,Valkyria: Azure Revolution
+369,Gravity Rush Remastered
+370,Psycho-Pass: Mandatory Happiness
+371,Brothers: A Tale of Two Sons
+372,Warriors Orochi 3
+373,Wasteland 2
+374,Atelier Sophie: The Alchemist of the Mysterious Book
+375,NASCAR Heat Evolution
+376,Yakuza: Ishin
+377,Toukiden 2
+378,Song of the Deep
+379,Super Robot Wars V
+380,Blue Reflection: Maboroshi ni Mau - Shoujo no Ken
+381,Yonmegami Online: Cyber Dimension Neptune
+382,Grand Kingdom
+383,Arslan: The Warriors of Legend
+384,Pro Cycling Manager 2016
+385,Shovel Knight
+386,Adventure Time: Finn & Jake Investigations
+387,Guilty Gear Xrd -Revelator-
+388,We Happy Few
+389,Rocksmith 2014 Edition Remastered
+390,The Crew: Wild Run
+391,MXGP 2
+392,MotoGP 17
+393,Fairy Fencer F: Advent Dark Force
+394,Samurai Warriors 4-II
+395,The Golf Club
+396,Hatsune Miku: Project Diva X
+397,NASCAR Heat 2
+398,Bulletstorm: Full Clip Edition
+399,Valentino Rossi: The Game
+400,Golf Club 2
+401,Akiba's Trip 2
+402,Rugby 15
+403,Utawarerumono: Futari no Hakuoro
+404,The Legend of Heroes: Trails of Cold Steel III
+405,Utawarerumono: Itsuwari no Kamen
+406,The Inpatient
+407,Don Bradman Cricket 14
+408,Sword Art Online: Hollow Fragment
+409,Teenage Mutant Ninja Turtles: Mutants in Manhattan
+410,Job Simulator
+411,Portal Knights
+412,Samurai Warriors 4: Empires
+413,Danganronpa 1o2 Reload
+414,God Eater 2: Rage Burst
+415,America's Greatest Game Shows: Wheel of Fortune & Jeopardy!
+416,Marvel's Guardians of the Galaxy: The Telltale Series
+417,Digimon Story: Cyber Sleuth
+418,Constructor HD
+419,Minecraft: Story Mode - Season Two
+420,Darksiders: Warmastered Edition
+421,Mighty No. 9
+422,The Invisible Hours
+423,Monster Energy Supercross - The Official Videogame
+424,The Idolmaster: Platinum Stars
+425,The Witch and the Hundred Knight
+426,SD Gundam G Generation Genesis
+427,Rime
+428,Super Robot Wars OG: The Moon Dwellers
+429,Gundam Breaker 3
+430,Earth Defense Force 2025.1: The Shadow of New Despair
+431,Shadow Warrior (2013)
+432,Assassin's Creed Chronicles
+433,Mega Man Legacy Collection
+434,Pac-Man Championship Edition 2 + Arcade Game Series
+435,Tokyo Xanadu eX+
+436,Stardew Valley
+437,Romance of the Three Kingdoms 13
+438,Musou Stars
+439,Mega Man Legacy Collection 2
+440,Final Fantasy XIV Online Complete Edition
+441,Devil May Cry 4
+442,Puyo Puyo Tetris
+443,Natural Doctrine
+444,Sudden Strike 4
+445,Accel World vs. Sword Art Online: Millennium Twilight
+446,Wolfenstein The Two Pack
+447,Guilty Gear Xrd REV 2
+448,Ultra Street Fighter IV
+449,Let's Sing 2016
+450,Resident Evil 4 HD
+451,Nights of Azure 2
+452,The Technomancer
+453,Nights of Azure
+454,Taiko no Tatsujin: Drum Session!
+455,Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden
+456,Grand Ages: Medieval
+457,Rugby League Live 4
+458,Toy Soldiers: War Chest
+459,God Eater Resurrection
+460,Paragon
+461,Summon Night 6: Lost Borders
+462,Black Rose Valkyrie
+463,Duke Nukem 3D: 20th Anniversary World Tour
+464,ATV Drift & Tricks
+465,Yoru no Nai Kuni
+466,Lara Croft and the Temple of Osiris
+467,Dragon's Dogma Online
+468,Ghostbusters (2016)
+469,Agatha Christie's The ABC Murders
+470,Shantae: Half-Genie Hero
+471,Earth Defense Force 4.1: The Shadow of New Despair
+472,The Sexy Brutale
+473,Legend of Kay
+474,Hasbro Family Fun Pack Conquest Edition
+475,Loading Human
+476,Rapala Fishing Pro Series
+477,Atelier Firis: The Alchemist of the Mysterious Journey
+478,Dead Rising
+479,Assetto Corsa
+480,Akiba's Beat
+481,WRC 6
+482,God Wars: Future Past
+483,Resident Evil 5 HD
+484,The Witch and the Hundred Knights 2
+485,Samurai Warriors: Sanada Maru
+486,Project Setsuna
+487,Has-Been Heroes
+488,Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary
+489,Styx: Shards of Darknes
+490,Dead Rising 2
+491,The Book of Unwritten Tales 2
+492,Touhou Genso Rondo: Bullet Ballet
+493,The Walking Dead: A Telltale Series Collection
+494,The Silver Case
+495,Hunting Simulator
+496,WRC 7
+497,Kamen Rider: Battride War Genesis
+498,Le Tour de France 2017
+499,City Shrouded in Shadow
+500,SG/ZH: School Girl/Zombie Hunter
+501,Broken Sword 5: The Serpent's Curse
+502,Terraria
+503,Warhammer: The End Times - Vermintide
+504,Batman: The Enemy Within
+505,Atari Flashback Classics: Volume 1
+506,Legend of Kay Anniversary
+507,Steins
+508,ZombiU
+509,Risen 3: Titan Lords
+510,Mark McMorris Infinite Air
+511,Dead or Alive Xtreme 3: Fortune
+512,Birthdays the Beginning
+513,Rugby 18
+514,The Binding of Isaac
+515,Sherlock Holmes: The Devil's Daughter
+516,Atelier Liddy and Soeur: Alchemists of the Mysterious Painting
+517,MX vs. ATV Supercross Encore
+518,MX vs ATV Supercross Encore 2017 Track Edition
+519,Sword Art Online: Game Director's Edition
+520,Deformers
+521,Nobunaga no Yabou: Souzou
+522,Dragon Quest X: All in One Package
+523,Yomawari: Midnight Shadows
+524,Game of Thrones (Telltale)
+525,Atari Flashback Classics: Volume 2
+526,Outcast: Second Contact
+527,Cartoon Network Battle Crashers
+528,Handball 16
+529,Extinction
+530,Rugby World Cup 2015
+531,Exist Archive: The Other Side of the Sky
+532,King's Quest: The Complete Collection
+533,Sine Mora
+534,Aven Colony
+535,Battle Chasers: Nightwar
+536,WRC 5: FIA World Rally Championship
+537,Black Mirror
+538,Touhou Genso Wanderer
+539,Arcania: Gothic 4
+540,Starblood Arena VR
+541,Hellblade
+542,Bubsy: The Woolies Strike Back
+543,Nitroplus Blasterz: Heroines Infinite Duel
+544,Nobunaga's Ambition: Creation
+545,Child of Light
+546,Phantasy Star Online 2 Episode 4: Deluxe Package
+547,Saints Row: Gat out of Hell
+548,Werewolves Within
+549,Demon Gaze 2
+550,Real Farm
+551,Worms: WMD
+552,Syberia III
+553,Sengoku Basara: Sanada Yukimura-Den
+554,Sengoku Basara 4: Sumeragi
+555,S�bastien Loeb Rally Evo
+556,Don't Starve
+557,Monster Jam: Crush It
+558,Prison Architect
+559,Assault Suit Leynos
+560,Tokyo Twilight Ghost Hunters Daybreak: Special Gigs
+561,Overcooked
+562,Ben 10 (2017)
+563,Dead Alliance
+564,Deer Hunter Reloaded
+565,That's You
+566,Raid: World War II
+567,Hyperdimension Neptunia Victory II
+568,Zero Escape The Nonary Games
+569,Rugby Challenge 3
+570,Vikings: Wolves of Midgard
+571,INSIDE / LIMBO Double Pack
+572,The Talos Principle
+573,Megadimension Neptunia VIIR
+574,R.B.I. Baseball 2016
+575,Pure Farming 2018
+576,Air Conflicts: Secret Wars
+577,Anima - Gate of Memories
+578,Axiom Verge
+579,Unbox: Newbie's Adventure
+580,Here They Lie
+581,Under Night In-Birth Exe:Latest
+582,Aragami
+583,Yonder: The Cloud Catcher Chronicles
+584,Assassin's Creed Chronicles: China
+585,JoJo's Bizarre Adventure: Eyes of Heaven
+586,Dungeons 3
+587,Tour de France 2014
+588,Danganronpa Another Episode: Ultra Despair Girls
+589,Aegis of Earth: Protonovus Assault
+590,Just Sing
+591,Wonder Boy: The Dragon's Trap (Remake)
+592,Lumo
+593,ABZU
+594,Shadow Tactics: Blades of the Shogun
+595,Darkest Dungeon
+596,R.B.I. Baseball 2017
+597,Punch Line
+598,VR Karts
+599,Resident Evil: Umbrella Corps
+600,Marvel Pinball: Epic Collection Volume 1
+601,God Eater Off Shot: Lindow-hen Twin Pack & Animation Vol. 2
+602,Infamous: First Light
+603,Raiden V
+604,The Peanuts Movie: Snoopy's Grand Adventure
+605,The Dwarves
+606,Dynasty Warriors: Eiketsuden
+607,Winning Post 8 2016
+608,Dragon's Dogma Online: Season 2
+609,Coven and Labyrinth of Refrain
+610,Super Dungeon Bros
+611,Blade Arcus from Shining EX
+612,Troll and I
+613,The Pillars of the Earth
+614,The Lost Child
+615,Romance of the Three Kingdoms 13 with Power-Up Kit
+616,Koihime Enbu
+617,Road Rage
+618,Winning Post 8 2017
+619,Dino Dini's Kick Off Revival
+620,God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5
+621,Tumblestone
+622,Blackguards 2
+623,Baja: Edge of Control HD
+624,Crows: Burning Edge
+625,Geometry Wars 3: Dimensions Evolved
+626,We Sing (2016)
+627,Shin Hayarigami 2
+628,The Town of Light
+629,OlliOlli: Epic Combo Edition
+630,Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto
+631,This War of Mine
+632,Ao no Kanata no Four Rhythm
+633,Zero Escape: Zero Time Dilemma
+634,AereA
+635,Root Letter
+636,ClaDun Sengoku
+637,The Girl and the Robot
+638,Omega Quintet
+639,Touhou Kobuto V: Burst Battle
+640,God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4
+641,Rugby League Live 3
+642,Omega Labyrinth Z
+643,Lost Sphear
+644,Superbeat: Xonic
+645,Republique
+646,Super Stardust Ultra VR
+647,Redout
+648,Resident Evil: Value Pack
+649,God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7
+650,PaRappa the Rapper Remastered
+651,Earth's Dawn
+652,Big Buck Hunter Arcade
+653,Dungeons 2
+654,Tricky Towers
+655,No Heroes Allowed! VR
+656,ArmaGallant: Decks of Destiny
+657,Carmageddon: Max Damage
+658,Armello
+659,Shaq-Fu: A Legend Reborn
+660,Patapon Remastered
+661,Monster Hunter Frontier Z: Beginner's Package
+662,Professional Farmer 2016
+663,Natsuiro High School: Seishun Hakusho
+664,The Inner World: The Last Wind Monk
+665,SteamWorld Collection
+666,Konoyo no Hate de Koi o Utau Shoujo: Yu-No
+667,God Eater Off Shot: Fujiki Kota-hen Twin Pack & Animation Vol.6
+668,Genkai Tokki: Castle Panzers
+669,Skullgirls: 2nd Encore
+670,This Is The Police
+671,Rabbids Invasion: The Interactive TV Show
+672,FlatOut 4: Total Insanity
+673,Chaos
+674,Touhou Shinhiroku: Urban Legend in Limbo
+675,Rogue Trooper: Redux
+676,Space Hulk: Deathwing
+677,Pharaonic
+678,White Day
+679,Torment: Tides of Numenera
+680,Let It Die
+681,Summer Lesson: Miyamoto Hikari Collection
+682,Raven's Cry
+683,New Game! The Challenge Stage!
+684,Hakoniwa Company Works
+685,DJ Max Respect
+686,Battle Worlds: Kronos
+687,Dragon's Dogma Online: Season 3
+688,Occultic
+689,Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!
+690,Battle Garegga Rev.2016
+691,Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set
+692,Farming 2017 - The Simulation
+693,Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss
+694,Zombie Vikings
+695,ATV Renegades
+696,Ziggurat
+697,Chaos
+697,Moto Racer 4
+698,LocoRoco Remastered
+699,Lock's Quest
+700,Gal Gun: Double Peace
+701,Woodcutter Simulator 2016
+702,Akiba's Trip 2+A
+703,Date-A-Live Twin Edition: Rio Reincarnation
+704,Valhalla Hills
+705,Deception IV: Blood Ties
+706,One Piece: Unlimited World Red
+707,Hyper Light Drifter
+708,Teslagrad
+709,Darius Burst: Chronicle Saviours
+710,The Escapists: The Walking Dead
+711,Super Meat Boy
+712,Blood Bowl 2
+713,The Witness
+714,Quantic Dream Collection
+715,Iwaihime: Matsuri
+716,RepKiss
+717,War Thunder
+718,Tsuihou Senkyo
+719,Hustle Kings VR
+720,Toki Tori 2+
+721,Deception IV: The Nightmare Princess
+722,Kingdom Hearts HD I.5 + II.5 ReMIX
+723,Fushigi no Chronicle: Furikaerimasen Katsu Madewa
+724,A Boy and His Blob
+725,Agatha Christie: The ABC Murders
+726,Ancients of Ooga - The Forgotten Chapters
+727,Another World
+728,Ape Escape 2
+729,Bee Tap Extreme
+730,Blacklight: Retribution
+731,Bladestorm: The Hundred Years' War
+732,Brothers in Arms: Furious 4
+733,Cel Damage
+734,Woolfe: The Red Hood Diaries
+735,Dark Cloud 2
+736,DC Universe Online
+737,Fez
+738,Guardian Knight
+739,Heavy Rain
+740,Industry Giant II
+741,King's Quest I: Quest for the Crown (VGA Version)
+742,Kingdom Under Fire II
+743,Ladybug Puzzle
+744,Maniac Mansion: Day of the Tentacle
+745,Metal Slug 3
+746,Mount & Blade: Warband
+747,Pier Solar and the Great Architects
+748,Piggy Adventure
+749,PlanetSide 2
+750,Psychonauts
+751,Resident Evil 5
+752,Sound Shapes
+753,Star Ocean: Till The End of Time
+754,Super Motherload
+755,The Amazing Spider-Man 2
+756,The King of Fighters 2000
+757,Rack N Ruin
+758,Ether One
+759,Uncharted 2: Among Thieves
+760,Uncharted 3: Drake's Deception
+761,Uncharted Waters Online: Gran Atlas
+762,Uncharted: Drake's Fortune
+763,Werewolves vs Vampires
+764,Awesomenauts
+765,Dust: An Elysian Tail
+766,Skullgirls
+767,flower
+768,Gran Turismo HD Concept
+769,PixelJunk Shooter
+770,PixelJunk Shooter 2
+771,Rainbow Moon
+772,Dear Esther
+773,Oddworld: Abe's Oddysee New N' Tasty!
+774,Broken Age
+775,Apotheon
+776,Two Brothers
+777,Slender: The Arrival
+778,deep down (Working Title)
+779,Hotline Miami
+780,The Unfinished Swan
+781,Human Element
+782,Whore of the Orient
+783,Cyberpunk 2077
+784,Final Fantasy (PS4)
+785,Transistor
+786,The Swapper
+787,Outlast
+788,Contrast
+789,Guacamelee!
+790,Carmageddon: Reincarnation
+791,Rocketbirds 2: Evolution
+792,Primal Carnage: Genesis
+793,Doki-Doki Universe
+794,Hohokum
+795,CounterSpy
+796,War Thunder
+796,Warframe
+797,The Banner Saga
+798,BADLAND
+799,Sparkle 2
+800,Daylight
+801,Peggle 2
+802,Kingdom Hearts III
+803,Mercenary Kings
+804,Secret Ponchos
+805,Octodad: Dadliest Catch
+806,Galak-Z
+807,Ray's the Dead
+808,Yaiba: Ninja Gaiden Z
+809,KickBeat
+810,Tiny Brains
+811,Stick It to the Man
+812,Aban Hawkins & the 1001 Spikes
+813,Home - a Unique Horror Adventure
+814,Soul Saga
+815,Pinball Arcade
+816,Toukiden: The Age of Demons
+817,Reus
+818,Strider (2014)
+819,Rogue Legacy
+820,EverQuest Next
+821,Project Phoenix
+822,Defense Grid 2
+823,Drifter: A Space Trading Game
+824,Volume
+825,Hellraid
+826,SteamWorld Dig: A Fistful of Dirt
+827,Armikrog
+828,Chasm
+829,XING: The Land Beyond
+830,There Came an Echo
+831,Strike Suit Zero
+832,Basement Crawl
+833,Velocity 2X
+834,Helldivers
+835,RESOGUN
+836,Everybody's Gone to the Rapture
+837,Murasaki Baby
+838,Hotline Miami 2: Wrong Number
+839,Shadow of the Beast (PS4)
+840,WonderFlick
+841,Monochroma
+842,H-Hour: World's Elite
+843,SPORTSFRIENDS
+844,Unmechanical
+845,Divekick
+846,Lily Bergamo
+847,Valiant Hearts: The Great War
+848,OlliOlli
+849,Switch Galaxy Ultra
+850,Anomaly 2
+851,Legend of Raven
+852,Stealth Inc.
+853,Night in the Woods
+854,Tales from the Borderlands
+855,Kodoku
+856,Get Even
+857,Ready to Run
+858,Worms Battlegrounds
+859,Assassin's Creed Freedom Cry
+860,Dungeon Defenders II
+861,Razor Global Domination Pro Tour�
+862,Pavilion
+863,forma.8
+864,TowerFall
+865,Gone Home�
+866,Costume Quest 2
+867,Pure Chess
+868,Aztez
+869,Not a Hero
+870,SOMA (2015)
+871,Cult County
+872,Adr1ft
+873,R.B.I. Baseball 14
+874,Citizens of Earth
+875,H1Z1
+876,Blue Estate�
+877,Road Not Taken
+878,Source
+879,Backgammon Blitz
+880,Hitman GO
+881,MechRunner
+882,The Chainsaw Incident
+883,Chariot
+884,Nidhogg
+885,Ironclad Tactics
+886,MouseCraft
+887,Starwhal: Just the Tip
+888,Crimsonland
+889,VizionEck
+890,Pure Pool�
+891,Without Memory
+892,Firewatch
+893,Never Alone
+894,The Last Tinker: City of Colors
+895,Bombshell
+896,Red Goddess
+897,The Forest
+898,Fenix Rage
+899,EarthNight
+900,One Way Trip
+901,Shiness: The Lightning Kingdom
+902,Aaru's Awakening
+903,Falling Skies: The Game�
+904,Onigiri
+905,Loadout
+906,Entwined
+907,EA Sports PGA Tour
+908,Dead Island 2
+909,Magicka 2
+910,Broforce
+911,Inside
+912,Blast 'Em Bunnies
+913,Woah Dave!
+914,The Assembly
+915,Tetris Ultimate�
+916,Afro Samurai 2
+917,The Legend of Korra (2014)
+918,The Vanishing of Ethan Carter�
+919,Godzilla (2014)
+920,Gran Turismo 7
+921,Rollers of the Realm
+922,Q*bert: Rebooted
+923,AirMech Arena
+924,The Walking Dead: Season Three
+925,Toren
+926,Pneuma: Breath of Life
+927,#killallzombies
+928,The Escapists
+929,The Tomorrow Children
+930,Hollowpoint
+931,In Space We Brawl
+932,Wild
+933,Alienation
+934,Ubusuna
+935,PIX the CAT
+936,Game 4
+937,Titan Souls
+938,OniKira: Demon Killer
+939,Moon Hunters
+940,Salt and Sanctuary
+941,Alone With You
+942,Tadeo Jones y el manuscrito perdido
+943,Invokers Tournament
+944,OlliOlli 2: Welcome to Olliwood
+945,Pathologic
+946,Soma
+947,Rebel Galaxy
+948,I Am Bread
+949,Geometry Wars 3: Dimensions
+950,Primal Carnage: Extinction
+951,Assassin's Creed: Victory
+952,Silent Hills
+953,The Banner Saga 2
+954,Enter the Gungeon
+955,What Remains of Edith Finch
+956,Wattam
+957,Fat Princess Adventures
+958,Skytorn
+959,Kill Strain
+960,Drawn to Death
+961,Grow Home
+962,Apotheon
+962,Hunger
+963,Magic Duels: Origin
+964,Shiftlings
+965,Oceanhorn: Monster of Uncharted Seas
+966,Beyond Eyes
+967,Inside My Radio
+968,Tembo the Badass Elephant
+969,Assassin's Creed Chronicles: Russia
+970,Assassin's Creed Chronicles: India
+971,Overlord: Fellowship of Evil
+972,R.B.I. Baseball 15
+973,Krinkle Krusher
+974,Wander
+975,Trans-Galactic Tournament
+976,The Walking Dead: Michonne
+977,Unravel
+978,Tachyon Project
+979,Final Fantasy VII Remake
+980,Ikenie to Yuki no Setsuna
+981,Atelier Sophie
+982,Dengeki Bunko: Fighting Climax Ignition
+983,World Soccer Winning Eleven 2015
+984,Muse: Together Is the New Alone
+985,Cross Reverie
+986,Airship Q
+987,Killing Bites
+988,Hatsune Miku: Project Diva Future Tone
+989,Tiny Troopers Joint Ops
+990,The London Heist
+991,Risen 3 Enhanced Edition
+992,Air Conflicts: Pacific Carriers
+993,God Wars: Beyond Time
+994,Hasbro Family Fun Pack
+995,Professional Lumberjack 2016
+996,Alekhine's Gun
+997,Kung Fu Panda: Showdown of Legendary Legends
+998,Read Only Memories
+999,Shakedown Hawaii
+1000,Fallen Legion
+1001,Amplitude (2016)
+1002,Bloodborne: Complete Edition
+1003,Hardware: Rivals
+1004,Jikkyou Powerful Pro Baseball Success Special
+1005,Qurare: Magic Library
+1006,World to the West
+1007,The Binding of Isaac: Rebirth
+1008,De-formers
+1009,Rock of Ages II: Bigger and Boulder
+1010,Fe
+1011,Days Gone
+1012,Berserk Musou
+1013,Ginger: Beyond the Crystal
+1014,The Last of Us: Part II
+1015,Don Bradman Cricket 17
+1016,Ace Combat 7: Skies Unknown
+1017,Sakuna: Of Rice and Ruin
+1018,Metro Exodus
+1019,Anthem
+1020,Moons Of Madness
+1021,Iron Harvest
+1022,Biomutant
+1023,Biomutant
+1023,de Blob
+1024,Chaos on Deponia
+1025,Code Vein
+1026,Fallen Legion: Flames of Rebellion
+1027,Radial G Racing Revolved
+1028,The Mummy Demastered
+1029,Project Nimbus: Code Mirai
+1030,Battle Chef Brigade
+1031,Grand Theft Auto V
+1032,Call of Duty: Black Ops 3
+1033,Call of Duty: WWII
+1034,Red Dead Redemption 2
+1035,MineCraft
+1036,Call of Duty: Advanced Warfare
+1037,Battlefield 1
+1038,Fallout 4
+1039,Halo 5: Guardians
+1040,Call of Duty: Infinite Warfare
+1041,Star Wars Battlefront (2015)
+1042,Forza Horizon 3
+1043,FIFA 17
+1044,Gears of War: Ultimate Edition
+1045,Assassin's Creed: Unity
+1046,Halo: The Master Chief Collection
+1047,Destiny
+1048,Gears of War 4
+1049,FIFA 16
+1050,FIFA 18
+1051,Titanfall
+1052,Call of Duty: Ghosts
+1053,Overwatch
+1054,Tom Clancy's Rainbow Six: Siege
+1055,Tom Clancy's The Division
+1056,Assassin's Creed Origins
+1057,Madden NFL 16
+1058,Madden NFL 17
+1059,NBA 2K16
+1060,Forza Motorsport 5
+1061,Destiny 2
+1062,Assassin's Creed IV: Black Flag
+1063,FIFA 15
+1064,PlayerUnknown's Battlegrounds
+1065,Battlefield 4
+1066,NBA 2K17
+1067,Forza Motorsport 6
+1068,NBA 2K18
+1069,Star Wars Battlefront II (2017)
+1070,Madden NFL 18
+1071,The Elder Scrolls V: Skyrim
+1072,Far Cry 5
+1073,Mortal Kombat X
+1074,NBA 2K15
+1075,The Witcher 3: Wild Hunt
+1076,Far Cry 4
+1077,Watch Dogs
+1078,Dead Rising 3
+1079,Tom Clancy's Ghost Recon Wildlands
+1080,Madden NFL 15
+1081,Rise of the Tomb Raider
+1082,Batman: Arkham Knight
+1083,Forza Motorsport 7
+1084,Dying Light
+1085,Ryse
+1086,Forza Horizon 2
+1087,Doom (2016)
+1088,Assassin's Creed Syndicate
+1089,Middle-Earth: Shadow of Mordor
+1090,Rocket League
+1091,The Elder Scrolls Online
+1092,Titanfall 2
+1093,Watch Dogs 2
+1094,FIFA Soccer 14
+1095,Destiny: The Taken King
+1096,Battlefield: Hardline
+1097,Sunset Overdrive
+1098,Middle-Earth: Shadow of War
+1099,Lego Marvel Super Heroes
+1100,Final Fantasy XV
+1101,Mafia III
+1102,Diablo III
+1103,Just Cause 3
+1104,Far Cry: Primal
+1105,Dragon Age III: Inquisition
+1106,Sea of Thieves
+1107,NBA 2K14
+1108,Monster Hunter: World
+1109,Injustice 2
+1110,Resident Evil VII: Biohazard
+1111,For Honor
+1112,Dishonored 2
+1113,Plants vs. Zombies: Garden Warfare 2
+1114,Madden NFL 25
+1115,Metal Gear Solid V: The Phantom Pain
+1116,Guitar Hero Live
+1117,Dark Souls III
+1118,LEGO Jurassic World
+1119,Rare Replay
+1120,Mass Effect: Andromeda
+1121,Minecraft: Story Mode
+1122,Fortnite
+1123,Quantum Break
+1124,Wolfenstein: The New Order
+1125,Rock Band 4
+1126,Need for Speed (2015)
+1127,The Sims 4
+1128,Need for Speed: Payback
+1129,Dead Rising 4
+1130,LEGO Dimensions
+1131,The Crew
+1132,Plants vs Zombies: Garden Warfare
+1133,Need for Speed Rivals
+1134,Wolfenstein II: The New Colossus
+1135,The Evil Within
+1136,LEGO Worlds
+1137,Borderlands: The Handsome Collection
+1138,Evolve
+1139,WWE 2K18
+1140,Tomb Raider (2013)
+1141,The LEGO Movie Videogame
+1142,WWE 2K16
+1143,Kinect Sports Rivals
+1144,South Park: The Fractured But Whole
+1145,WWE 2K15
+1146,EA Sports UFC 2
+1147,NHL 17
+1148,Tekken 7
+1149,LEGO Marvel Super Heroes 2
+1150,WWE 2K17
+1151,Disney Infinity 2.0: Marvel Super Heroes
+1152,Just Dance 2015
+1153,Dragon Ball Fighter Z
+1154,Alien: Isolation
+1155,Halo Wars 2
+1156,NHL 16
+1157,Lego Star Wars: The Force Awakens
+1158,Mad Max (2013)
+1159,LEGO Marvel's Avengers
+1160,Zoo Tycoon (2013)
+1161,Steep
+1162,Thief 4
+1163,Just Dance 2014
+1164,EA Sports UFC
+1165,BioShock The Collection
+1166,Dragon Ball: Xenoverse 2
+1167,ARK: Survival Evolved
+1168,Disney Infinity 3.0
+1169,Prey (2017)
+1170,Skylanders: Trap Team
+1171,Lego Batman 3: Beyond Gotham
+1172,EA Sports UFC 3
+1173,Rocksmith 2014
+1174,Sniper Elite 3
+1175,Hello Neighbor
+1176,NHL 15
+1177,Project CARS
+1178,Destiny: The Collection
+1179,Skylanders: SuperChargers
+1180,Deus Ex: Mankind Divided
+1181,NHL 18
+1182,The Evil Within II
+1183,Rayman Legends
+1184,Just Dance 2016
+1185,Skylanders SWAP Force
+1186,Naruto Shippuden: Ultimate Ninja Storm 4
+1187,Dragon Ball: XenoVerse
+1188,Marvel vs. Capcom: Infinite
+1189,Just Dance 2017
+1190,The Lego Ninjago Movie Videogame
+1191,The Crew 2
+1192,Farming Simulator 17
+1193,METRO 2033
+1194,Hitman (2016)
+1195,LEGO City Undercover
+1196,Final Fantasy Type-0
+1197,Sniper Elite 4
+1198,Sonic Forces
+1199,Dark Souls II
+1200,Battleborn
+1201,Rory McIlroy PGA Tour
+1202,Assassin's Creed The Ezio Collection
+1203,LEGO The Hobbit
+1204,Metal Gear Solid: Ground Zeroes
+1205,Minecraft: Story Mode - Season Two
+1206,Skylanders Imaginators
+1207,Friday the 13th: The Game
+1208,ReCore
+1209,F1 2015
+1210,L.A. Noire
+1211,Trials Fusion
+1212,Call of Duty: Modern Warfare Remastered
+1213,Zumba Fitness: World Party
+1214,Saints Row IV
+1215,Farming Simulator 2015
+1216,A Way Out
+1217,NBA Live 14
+1218,Payday 2
+1219,DiRT 4
+1220,NBA Live 15
+1221,F1 2016 (Codemasters)
+1222,Deadpool
+1223,The Amazing Spider-Man 2 (2014)
+1224,Kingdom Come: Deliverance
+1225,Lords of the Fallen
+1226,Super Lucky's Tale
+1227,DiRT Rally
+1228,Just Dance 2018
+1229,Homefront: The Revolution
+1230,State of Decay
+1231,NBA Live 18
+1232,theHunter: Call of the Wild
+1233,Sleeping Dogs
+1234,Project CARS 2
+1235,Batman: Return to Arkham
+1236,Dishonored
+1237,One Piece: Burning Blood
+1238,Fantasia: Music Evolved
+1239,Mirror's Edge 2
+1240,Dance Central: Spotlight
+1241,Naruto to Boruto: Shinobi Striker
+1242,XCOM 2
+1243,F1 2017
+1244,Shape Up
+1245,Cities: Skylines
+1246,Sniper: Ghost Warrior 3
+1247,Project Spark (Working Title)
+1248,Rush: A Disney Pixar Adventure
+1249,Fighter Within
+1250,Murdered: Soul Suspect
+1251,Pac-Man Championship Edition 2 + Arcade Game Series
+1252,Angry Birds: Star Wars
+1253,Little Nightmares
+1254,The Walking Dead: Season One
+1255,Wolfenstein: The Old Blood
+1256,Pro Evolution Soccer 2015
+1257,Transformer: Rise of the Dark Spark
+1258,The Escapists 2
+1259,Transformers: Devastation
+1260,Spintires: MudRunner
+1261,DmC: Devil May Cry
+1262,Attack on Titan (KOEI)
+1263,Tony Hawk's Pro Skater 5
+1264,Naruto Shippuden: Ultimate Ninja Storm Legacy
+1265,The Walking Dead: Season Two
+1266,Resident Evil: Revelations 2
+1267,Dishonored: Death of the Outsider
+1268,Ultimate Marvel vs. Capcom 3
+1269,The Elder Scrolls Online: Morrowind
+1270,Hasbro Family Fun Pack
+1271,Rocksmith 2014 Edition Remastered
+1272,Song of the Deep
+1273,NBA Live 16
+1274,Outlast Trinity
+1275,Sonic Mania
+1276,Dead by Daylight
+1277,Darksiders III
+1278,Vampyr
+1279,The Walking Dead - The Telltale Series: A New Frontier
+1280,NASCAR Heat 2
+1281,Life is Strange
+1282,Wolfenstein The Two Pack
+1283,The Surge
+1284,Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto
+1285,Pro Evolution Soccer 2016
+1286,Pro Evolution Soccer 2018
+1287,7 Days to Die
+1288,Zombie Army Trilogy
+1289,Prototype: Biohazard Bundle
+1290,Ride
+1291,Agents of Mayhem
+1292,Metal Gear Solid V: The Definitive Experience
+1293,Killer Instinct (2013)
+1294,MXGP 2
+1295,NASCAR Heat Evolution
+1296,TrackMania Turbo
+1297,Divinity: Original Sin
+1298,Dead or Alive 5
+1299,Pro Evolution Soccer 2017
+1300,Resident Evil Zero
+1301,Sword Art Online: Fatal Bullet
+1302,Yooka-Laylee
+1303,Real Farm
+1304,We Happy Few
+1305,Duke Nukem 3D: 20th Anniversary World Tour
+1306,The Wolf Among Us
+1307,Attack on Titan 2
+1308,Rugby 15
+1309,MXGP 3: The Official Motocross Videogame
+1310,Bladestorm: Nightmare
+1311,Monster Energy Supercross - The Official Videogame
+1312,America's Greatest Game Shows: Wheel of Fortune & Jeopardy!
+1313,Dead Island Definitive Collection
+1314,Ride 2
+1315,Elite: Dangerous
+1316,Just Dance: Disney Party 2
+1317,Bulletstorm: Full Clip Edition
+1318,Micro Machines: World Series
+1319,Darksiders II
+1320,Sherlock Holmes: Crimes & Punishments
+1321,Toy Soldiers: War Chest
+1322,BlazBlue: Chrono Phantasma Extend
+1323,Metal Gear Survive
+1324,The Golf Club
+1325,Batman: A Telltale Game Series
+1326,Constructor HD
+1327,Teenage Mutant Ninja Turtles: Mutants in Manhattan
+1328,Valentino Rossi: The Game
+1329,Disneyland Adventures
+1330,Dynasty Warriors 8: Empires
+1331,Resident Evil 6
+1332,Ghostbusters (2016)
+1333,R.B.I. Baseball 2017
+1334,Aven Colony
+1335,Adventure Time: Finn & Jake Investigations
+1336,Atari Flashback Classics: Volume 1
+1337,MotoGP 17
+1338,Wasteland 2
+1339,MX vs ATV Supercross Encore 2017 Track Edition
+1340,Cartoon Network Battle Crashers
+1341,Hasbro Family Fun Pack Conquest Edition
+1342,Sherlock Holmes: The Devil's Daughter
+1343,MX vs. ATV Supercross Encore
+1344,Killing Floor 2�
+1345,R.B.I. Baseball 2016
+1346,Okami
+1347,Rapala Fishing Pro Series
+1348,Arslan: The Warriors of Legend
+1349,Golf Club 2
+1350,Mark McMorris Infinite Air
+1351,Atari Flashback Classics: Volume 2
+1352,Hunting Simulator
+1353,Styx: Shards of Darknes
+1354,Marvel's Guardians of the Galaxy: The Telltale Series
+1355,Baja: Edge of Control HD
+1356,Agatha Christie's The ABC Murders
+1357,Brothers: A Tale of Two Sons
+1358,The Walking Dead: A Telltale Series Collection
+1359,Rugby 18
+1360,Has-Been Heroes
+1361,Deformers
+1362,Extinction
+1363,Resident Evil 4 HD
+1364,The Technomancer
+1365,Cars 3: Driven to Win
+1366,Pillars of Eternity
+1367,Just Sing
+1368,Mighty No. 9
+1369,Batman: The Enemy Within
+1370,WRC 7
+1371,King's Quest: The Complete Collection
+1372,Marvel Pinball: Epic Collection Volume 1
+1373,Road Rage
+1374,Dragon's Dogma
+1375,Deer Hunter Reloaded
+1376,Overcooked
+1377,Resident Evil 5 HD
+1378,Darksiders: Warmastered Edition
+1379,Valkyria: Azure Revolution
+1380,Game of Thrones (Telltale)
+1381,Terraria
+1382,Elex
+1383,Battle Chasers: Nightwar
+1384,Don't Starve
+1385,Dead Rising 2
+1386,Don Bradman Cricket 14
+1387,Monster Jam: Crush It
+1388,Shadow Warrior (2013)
+1389,Dead Alliance
+1390,Warriors Orochi 3
+1391,Dead Rising
+1392,Sine Mora
+1393,WRC 6
+1394,Black Mirror
+1395,Pure Farming 2018
+1396,MotoGP 15
+1397,Raid: World War II
+1398,Carmageddon: Max Damage
+1399,INSIDE / LIMBO Double Pack
+1400,Warhammer: The End Times - Vermintide
+1401,Stardew Valley
+1402,Ben 10 (2017)
+1403,The Pillars of the Earth
+1404,Rime
+1405,Worms: WMD
+1406,Syberia III
+1407,Moto Racer 4
+1408,Rugby League Live 4
+1409,ABZU
+1410,Pharaonic
+1411,Geometry Wars 3: Dimensions Evolved
+1412,Resident Evil: Revelations
+1413,Broken Sword 5: The Serpent's Curse
+1414,Rugby World Cup 2015
+1415,The Crew: Wild Run
+1416,Prison Architect
+1417,The Dwarves
+1418,Big Buck Hunter Arcade
+1419,Redout
+1420,Troll and I
+1421,Portal Knights
+1422,Shaq-Fu: A Legend Reborn
+1423,Psycho-Pass
+1424,Tropico 5
+1425,Back to the Future: The Game
+1426,Saints Row: Gat out of Hell
+1427,Mega Man Legacy Collection 2
+1428,Dungeons 3
+1429,Blackguards 2
+1430,Rogue Trooper: Redux
+1431,Vikings: Wolves of Midgard
+1432,The Inner World: The Last Wind Monk
+1433,Assetto Corsa
+1434,Le Tour de France 2017
+1435,Lock's Quest
+1436,WRC 5: FIA World Rally Championship
+1437,FlatOut 4: Total Insanity
+1438,Shadow Tactics: Blades of the Shogun
+1439,The Town of Light
+1440,Goat Simulator
+1441,Rugby League Live 3
+1442,Assassin's Creed Chronicles
+1443,S�bastien Loeb Rally Evo
+1444,Rugby Challenge 3
+1445,Rabbids Invasion: The Interactive TV Show
+1446,ZombiU
+1447,This War of Mine
+1448,Battle Worlds: Kronos
+1449,ScreamRide
+1450,Torment: Tides of Numenera
+1451,Ziggurat
+1452,ATV Renegades
+1453,This Is The Police
+1454,Valhalla Hills
+1455,Handball 16
+1456,Shovel Knight
+1457,Blood Bowl 2
+1458,The Peanuts Movie: Snoopy's Grand Adventure
+1459,Farming 2017 - The Simulation
+1460,Kung Fu Panda: Showdown of Legendary Legends
+1461,Strider (2014)
+1462,The Amazing Spider-Man 2
+1463,Mega Man Legacy Collection
+1464,A Boy and His Blob
+1465,Agatha Christie: The ABC Murders
+1466,Ancients of Ooga - The Forgotten Chapters
+1467,Another World
+1468,Bladestorm: The Hundred Years' War
+1469,Brothers in Arms: Furious 4
+1470,Buzz Buzz Bang
+1471,Woolfe: The Red Hood Diaries
+1472,SlashDash
+1473,Devil May Cry 4
+1474,#IDARB
+1475,Frog Toss
+1476,Gran Turismo 5 Prologue Spec III
+1477,Industry Giant II
+1478,Killer Instinct
+1479,King's Quest I: Quest for the Crown (VGA Version)
+1480,LIMBO
+1481,Mount & Blade: Warband
+1482,Neverwinter
+1483,Pier Solar and the Great Architects
+1484,Spectra 8bit Racing
+1485,Nero
+1486,Pinball FX 2
+1487,Gran Turismo HD Concept
+1488,Dear Esther
+1489,Lightning Returns: Final Fantasy XIII
+1490,Oddworld: Abe's Oddysee New N' Tasty!
+1491,Lifeless Planet
+1492,Slender: The Arrival
+1493,Lovers in a Dangerous Spacetime
+1494,Human Element
+1495,Whore of the Orient
+1496,Max: the Curse of Brotherhood
+1497,Axiom Verge
+1498,Guacamelee!
+1499,Carmageddon: Reincarnation
+1500,The Banner Saga
+1501,Cobalt
+1502,Plague Inc.
+1503,BADLAND
+1504,Halo: Spartan Assault
+1505,Halo 6
+1506,D4
+1507,Crimson Dragon
+1508,Below
+1509,Peggle 2
+1510,LocoCycle
+1511,Powerstar Golf
+1512,Kingdom Hearts III
+1513,Black Tusk Studios Game
+1514,KickBeat
+1515,Reus
+1516,Rogue Legacy
+1517,Defense Grid 2
+1518,Hellraid
+1519,There Came an Echo
+1520,Strike Suit Zero
+1521,Fable Legends
+1522,WonderFlick
+1523,Monochroma
+1524,FORCED
+1525,Sea Animal Games for Toddlers and Kids with Jigsaw Puzzles
+1526,Unmechanical
+1527,Divekick
+1528,Child of Light
+1529,Valiant Hearts: The Great War
+1530,Hyper Light Drifter
+1531,Legend of Raven
+1532,Xbox Fitness
+1533,Raven's Cry
+1534,Shantae: Half-Genie Hero
+1535,Tales from the Borderlands
+1536,Get Even
+1537,Threes!
+1538,Worms Battlegrounds
+1539,Stranger of Sword City
+1540,The Book of Unwritten Tales 2
+1541,Puyo Puyo Tetris
+1542,Razor Global Domination Pro Tour�
+1543,Gone Home�
+1544,Costume Quest 2
+1545,Aztez
+1546,Not a Hero
+1547,Cult County
+1548,Adr1ft
+1549,R.B.I. Baseball 14
+1550,Blue Estate�
+1551,Source
+1552,Chariot
+1553,Super Time Force
+1554,Pure Pool�
+1555,Never Alone
+1556,Space Hulk: Deathwing
+1557,Red Goddess: Inner Mind
+1558,Mystereet F: The Detectives' Curtain Call
+1559,Chaos
+1560,Fenix Rage
+1561,FRU
+1562,Shiness: The Lightning Kingdom
+1563,Ori and the Blind Forest
+1564,Phantom Dust (2015)
+1565,Scalebound
+1566,Crackdown 3
+1567,EA Sports PGA Tour
+1568,Lara Croft and the Temple of Osiris
+1569,Wulverblade
+1570,Gunscape
+1571,Cuphead
+1572,Knight Squad
+1573,Dead Island 2
+1574,Inside
+1575,Tetris Ultimate�
+1576,Afro Samurai 2
+1577,The Legend of Korra (2014)
+1578,Azito x Tatsunoko Legends
+1579,Shooting Love Trilogy
+1580,AirMech Arena
+1581,The Walking Dead: Season Three
+1582,King of Wushu
+1583,Mercury�
+1584,Pneuma: Breath of Life
+1585,The Escapists
+1586,Superhot
+1587,Spectra
+1588,Space Engineers
+1589,No Time to Explain
+1590,Funk of Titans
+1591,Fruit Ninja Kinect 2
+1592,Blues and Bullets
+1593,Game 4
+1594,Raiden V
+1595,Assassin's Creed Chronicles: China
+1596,Pathologic
+1597,Geometry Wars 3: Dimensions
+1598,Assassin's Creed: Victory
+1599,The Banner Saga 2
+1600,Gigantic
+1601,Magic Duels: Origin
+1602,Shiftlings
+1603,Oceanhorn: Monster of Uncharted Seas
+1604,Beyond Eyes
+1605,Inside My Radio
+1606,Kaiju Panic
+1607,Tembo the Badass Elephant
+1608,Assassin's Creed Chronicles: Russia
+1609,Assassin's Creed Chronicles: India
+1610,Overlord: Fellowship of Evil
+1611,R.B.I. Baseball 15
+1612,The Walking Dead: Michonne
+1613,Unravel
+1614,Tachyon Project
+1615,Cross Reverie
+1616,Goosebumps: The Game
+1617,The Escapists: The Walking Dead
+1618,Woodcutter Simulator 2016
+1619,Professional Farmer 2016
+1620,Professional Lumberjack 2016
+1621,Alekhine's Gun
+1622,World to the West
+1623,The Binding of Isaac: Rebirth
+1624,Super Dungeon Bros
+1625,Pro Cycling Manager 2016
+1626,De-formers
+1627,Wonder Boy: The Dragon's Trap (Remake)
+1628,Rock of Ages II: Bigger and Boulder
+1629,Fe
+1630,We Sing (2016)
+1631,Don Bradman Cricket 17
+1632,Ace Combat 7: Skies Unknown
+1633,The Sexy Brutale
+1634,Metro Exodus
+1635,Anthem
+1636,AereA
+1637,Moons Of Madness
+1638,Iron Harvest
+1639,Biomutant
+1640,Biomutant
+1641,de Blob
+1642,Outcast: Second Contact
+1643,Code Vein
