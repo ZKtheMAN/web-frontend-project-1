@@ -1,0 +1,79 @@
+<!--
+  Uses Font Awesome for Icons
+  Uses bulma css to handle card
+-->
+{% extends "base.html" %}
+{% block content %}
+
+</body>
+<!--Contains the Left button formatting-->
+<div class="columns is-centered">
+  <nav class="level">
+    <div class="level-left">
+
+      <div class="column has-text-right has-background-dark is-mobile">
+        <figure class="media-left ">
+          <a href="{{ url_for('main.home') }}">
+            <button class="button downvote is-danger is-inverted ">
+              <i class="fa fa-thumbs-down fa-2x"></i>
+            </button>
+          </a>
+        </figure>
+      </div>
+    </div>
+
+
+<!--Contains the center image card formatting-->
+    <div class="level-center">
+      <div class="column has-background-dark is-static">
+        <div class="box is-bordered has-shadow">
+          <h3><b> {{ game[0] }}</b> </h3>
+          <div class="card">
+            <div class="card-image is-square has-shadow">
+              <!--Set Max image size-->
+              <figure class="image" style="max-height: 75vh; width: auto;">
+                <img src="{{ game[3] }}" alt="Image Not Found" style="max-height: 75vh; width: auto;">
+              </figure>
+            </div>
+          </div>
+          <div class="card-content">
+            <div class="content is-7"><br>
+              Release Date: {{ game[1] }}<br>
+              Publisher: {{ game[2] }}<br>
+              Genre: {{ game[4] }}<br>
+              {{ mess }}
+            </div>
+          </div>
+          <div class="content">Description
+            <p>{{ game[5] }}</p>
+          </div>
+        </div>
+        <!--Contains the buy it now button formatting-->
+        <div>
+          <button class="button watch"
+            onclick="window.open('https://store.steampowered.com/search/?term={{game[0]}}', '_blank')" target='0'>
+            Buy it now!
+            <i class="fa fa-steam"></i>
+          </button>
+        </div>
+
+      </div>
+    </div>
+<!--Contains the Right button formatting-->
+    <div class="level-right">
+      <div class="column has-background-dark is-mobile">
+        <figure class="media-right">
+          
+          <form action="" method="POST">
+            <button name="upvote" class="button is-success is-inverted" value={{game[6]}}>
+              <i class="fa fa-thumbs-up fa-2x"></i>
+            </a>
+            </button>     
+          </form>
+        </figure>
+      </div>
+    </div>
+  </nav>
+</div>
+
+{% endblock %}
