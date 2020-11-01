@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Project Title</title>
+    <title>Gamble</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -26,8 +26,7 @@
     <div class="column has-text-white has-background-dark">
         <nav class="navbar has-background-dark has-text-white is-small" role="navigation" aria-label="main navigation">
             {% if current_user.is_authenticated %}
-            <div class="navbar-brand"> <a href="{{ url_for('main.home') }}" class="navbar-item has-text-white">Project
-                    Title</a></div>
+            <div class="navbar-brand"> <a href="{{ url_for('main.home') }}" class="navbar-item has-text-white">Gamble</a></div>
             {% endif %}
             <div id="navbarMenuHeroA" class="navbar-menu">
                 <div class="navbar-start">
