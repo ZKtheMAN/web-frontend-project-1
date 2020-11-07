@@ -1,4 +1,7 @@
 GAMBLE. [Zakee Khattak, Rene Ortiz, Chukwudi Ikem] 
+
+[Video Demonstration](https://youtu.be/-d_z2aUnDdw)
+
 * Written for GNU/Linux (Specifically for Debian-based distributions)
 * Before we get into the specific commands that you will need to get the program running, we need to get the program's source code.
 * [Ctrl+Alt+T] => Shortcut to open Terminal.
