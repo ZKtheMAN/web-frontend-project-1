@@ -1,3 +1,11 @@
+# web-frontend-project-1
+
+This was a project for a course on Web Front-End Engineering. This project would recommend video games for a user to check out based on their own feedback - essentially like Tinder, but for video games. The website was developed using Flask as a server-side renderer, and uses the GiantBomb REST API to gather data on the games it presents.
+
+The original README for this project is presented below.
+
+------------------------------------------------
+
 GAMBLE. [Zakee Khattak, Rene Ortiz, Chukwudi Ikem] 
 
 [Video Demonstration](https://youtu.be/-d_z2aUnDdw)
